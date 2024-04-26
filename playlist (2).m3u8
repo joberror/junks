@@ -1,0 +1,681 @@
+#EXTM3U
+#EXTINF:-1 group-title="regional" group-title="sports",ELEVEN SPORT 1 HD
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ELEVEN SPORT 1 4k
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 acestream-autosearch="1" group-title="sport" group-title="sports",ELEVEN SPORT 1 BE
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",ELEVEN SPORT 2 (BE)
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="sport" group-title="sports",ELEVEN SPORT 3 (BE)
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="sport" group-title="sports",ELEVEN SPORT 4 (BE)
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="sport" group-title="sports",ELEVEN SPORT 5 (BE)
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 group-title="sport" group-title="sports",ELEVEN SPORT 6 (BE)
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="sport" group-title="sports",DAZN 1
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title="sport" group-title="sports",DAZN 2
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title="sport" group-title="sports",DAZN 3
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 group-title="sport" group-title="sports",DAZN 4
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 group-title="regional" group-title="sports",DAZN 1 BAR HD
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="regional" group-title="sports",DAZN 2 BAR HD
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title="sport" group-title="sports",PREMIER SPORT 1 UK
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="sport" group-title="sports",PREMIER SPORT 2 UK
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="sport" group-title="sports",BT SPORT / ESPN UK
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="sport" group-title="sports",BT SPORT 1 UK
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="sport" group-title="sports",BT SPORT 2 UK
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="sport" group-title="sports",BT SPORT 3 UK
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Setanta Live 1 [RU]
+magnet:?xt=urn:btih:626c5326f29984bbedceee04c9694a0447ba0a9a
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Sky Sports Main Event [UK]
+magnet:?xt=urn:btih:78266c15035d0ad8cbc58f821733931e1de434ab
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Матч! ТВ HD [RU]
+magnet:?xt=urn:btih:f69b2859510dce33b992dd1940f95254c6e6f51c
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Eurosport 1 HD [RU]
+magnet:?xt=urn:btih:42e959bffd0dd0f138dd03abf387b4284ece7e30
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",SkySP PL [UK]
+magnet:?xt=urn:btih:e33fb63ba12cf45bcee7757c8520f561ad27a39f
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Magenta Sport 3 HD [DE]
+magnet:?xt=urn:btih:eb9ef8cfb7193b087f66c2072ad97d36cd266a9d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Canal+ Sport [PL]
+magnet:?xt=urn:btih:b28785877e0ba9ac50266cb71fc0702c94034cf1
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Deportes HD
+magnet:?xt=urn:btih:8aba55f4f1f47def54447e845518109d797339e7
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",ESPN 2 [BE]
+magnet:?xt=urn:btih:1114c803ee0f7dd7b5af5be42e49b5cdc64db2b5
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Матч! Премьер HD [RU]
+magnet:?xt=urn:btih:88c482d9e57b1a031c032344f9c00cf7b36da8d9
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Sky Sports Arena [UK]
+magnet:?xt=urn:btih:37796ca47026bc190c7dc26827c0dfb6b61d137b
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Кинозал СССР HD [RU]
+magnet:?xt=urn:btih:9fcf8f56aeb2e49fe2eff5d7c445d1058a03ce4c
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",BeIN Sports 1 [BE]
+magnet:?xt=urn:btih:58e454d067b9e25e40f3c62b3430b55ef6fead09
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. LaLiga
+magnet:?xt=urn:btih:83d43d89061d3790c1a9938a967ce8734a0bd6ce
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sport Digital [DE]
+magnet:?xt=urn:btih:e8b528ebd16f41d89382b59c6fdd4ed67e0a6dc0
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Fantastic HD [RU]
+magnet:?xt=urn:btih:9aece1167d82d7f3fdc36493a11de28b45ed75bb
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",SPORT1 [DE]
+magnet:?xt=urn:btih:b0eea8203c3c22437a115058fbbdcba884a0d21d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat Sport Extra [PL]
+magnet:?xt=urn:btih:f0beebc90853dc8342691a85539b5efbe0e94c1e
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",НТВ ХИТ [RU]
+magnet:?xt=urn:btih:bc301f9bb46cb45a6ba0a6ae1dc4a0bf1b8cc36b
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Cosmo HD [RU]
+magnet:?xt=urn:btih:a842fe2a71043c3e15e4ea6851af34aabf00dff1
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU TruMotion HD [RU]
+magnet:?xt=urn:btih:bd9eab96495d0bc1b940afd7161455c2e69b9a24
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",beIN SPORTS HD 3 [TR]
+magnet:?xt=urn:btih:7fee896143ae89590d97793a0be7ad8ec6fa4552
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Sport F1 [DE]
+magnet:?xt=urn:btih:b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Catastrophe HD [RU]
+magnet:?xt=urn:btih:aeaeae9ce8696813734ee21c0713929f461cf371
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",CineMan Top [RU]
+magnet:?xt=urn:btih:8e07c3d6077be4d88860ab195db98a57e4fd3ca2
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Tennis Channel HD
+magnet:?xt=urn:btih:1b348443efc7f0cf4cdf349ac35bbe5d41be6220
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",ESPN [BE]
+magnet:?xt=urn:btih:437692bc0dedcf1c27c2ab2c1c7e58b0806244fe
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU History HD [RU]
+magnet:?xt=urn:btih:3a43c9534e29fe4bced0b6b52d84208e8731a1c6
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Kinorating HD [RU]
+magnet:?xt=urn:btih:28c8f0bb16a323db3a4b6189cd3fb35d1f57a736
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",NBA TV [US]
+magnet:?xt=urn:btih:42832fbf9a1d3bdcca043e09951d6769fbbe04e7
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Discovery HD [RU]
+magnet:?xt=urn:btih:6477d56108d979adf1a069b26c820e749b94b9da
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ТНТ HD [RU]
+magnet:?xt=urn:btih:b843ac99855a2bfb1fb9598c93f65d8172f66e78
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",DAZN F1 HD
+magnet:?xt=urn:btih:6d325cda6ed591647ef5e91edd043147bce8be30
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Criminal HD [RU]
+magnet:?xt=urn:btih:b987e76986be71e070b7a3c8516a3beef348b9c7
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Stars HD [RU]
+magnet:?xt=urn:btih:b51a7479bd0ba533ac322799f89a26dfb22dedb2
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Родное кино [RU]
+magnet:?xt=urn:btih:2f681a20a31e7e7a351702823d50c50dcf96fc0c
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",VIP Megahit [RU]
+magnet:?xt=urn:btih:2946debcde707ac6dff8c35f56a02ebefc5e094d
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Мосфильм [RU]
+magnet:?xt=urn:btih:c9454af69229b77ef13613fbb1fdc47899cce428
+#EXTINF:-1 acestream-autosearch="1" group-title="entertaining" group-title="regional",ТНТ4 [RU]
+magnet:?xt=urn:btih:01ef7b690332bba539d20bd7de65a35215813fc5
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",ESPN HD [US]
+magnet:?xt=urn:btih:0dca83a7cc9184893ff96ee2355874342fc8fd45
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Canal+ Sport 2 HD [PL]
+magnet:?xt=urn:btih:9bd91396b4418ae7c8eed7b8a6964eb8a43de204
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",H2 HD [RU]
+magnet:?xt=urn:btih:259cb14a1a9178a6b3f8228b25c057e0f1463ce7
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Marvel HD [RU]
+magnet:?xt=urn:btih:b437118a4f66ac71cd9b16e2d30b0aff7baf7541
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",КИНО ТВ [RU]
+magnet:?xt=urn:btih:23446bc0b284950a536eab7592bc1918e2fa667f
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Мужское кино [RU]
+magnet:?xt=urn:btih:7d60b1179bac6fa3a63c7b80dd02b4bd33c9079e
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Ultra 4K [RU]
+magnet:?xt=urn:btih:c9714c4ce79127f4cf36a925f1e1ad5a7bd7cadd
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",КИНОСЕРИЯ [RU]
+magnet:?xt=urn:btih:80e761abc1c2793ee2ceb87485db40b99bb13407
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Остросюжетное HD [RU]
+magnet:?xt=urn:btih:da7e8d2f8d00e935946fb17a88d6eab62e7212ef
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",СТС [RU]
+magnet:?xt=urn:btih:00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport360 HD 4 [DE]
+magnet:?xt=urn:btih:1daea812402de8dde9de91a1a589cbc3c6b30980
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",FOX Sports 1 HD [US]
+magnet:?xt=urn:btih:df23d9ca9275b354e23156d59b8bc1122441fa47
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVN 24 [PL]
+magnet:?xt=urn:btih:98dbf346385ff3ff0ced406f254d2c871706b873
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",HBO HD [PL]
+magnet:?xt=urn:btih:b3051df13851553887f05f42a099c6034d97c1fb
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eleven Sports 4 HD [PL]
+magnet:?xt=urn:btih:a2a02182ab8fec713cbaf5a45d92c5cd5a499c42
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport [PL]
+magnet:?xt=urn:btih:6730acfdda36c60d8a09105b03b4c88a0571b72d
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Дом кино премиум HD [RU]
+magnet:?xt=urn:btih:1b86e011adec585107f75423b7c5827f2ce0e460
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Киносемья [RU]
+magnet:?xt=urn:btih:605dc598e02b8ba1ef8c07572661a421cefe33ba
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Animal Planet HD [RU]
+magnet:?xt=urn:btih:3c2590e3d167e159115d4a63b25d371f6eeae7c0
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Sky Sports Cricket [UK]
+magnet:?xt=urn:btih:610eefafd6602c094e8e89c249a11d635cb6fe29
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Киноджем 1 HD [RU]
+magnet:?xt=urn:btih:3b40d0d8f3292e94d23e92e7f2fad000b1b03f92
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Кинокомедия [RU]
+magnet:?xt=urn:btih:d8251f051ac279434b6007373a1bbc5f05edc5ea
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Русский Детектив [RU]
+magnet:?xt=urn:btih:050d2c6e62118c2f8a75e26c1399d06cb07bb551
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Setanta Live 2 [RU]
+magnet:?xt=urn:btih:fded295edff9d57adb77cf02a08c5f2fcb9e608b
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",TV1000 World Kino [RU]
+magnet:?xt=urn:btih:36327fc5b9ce670f5d51e0eb322b079ae2d06cd8
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Ultra HD Cinema [RU]
+magnet:?xt=urn:btih:4447d0a31556f25b0ebce1bac9c8f60c669bc68d
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",CineMan [RU]
+magnet:?xt=urn:btih:fa0249f23d927379bd3a84753a6a41068f5875b6
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eleven Sports 2 HD [PL]
+magnet:?xt=urn:btih:ae964a3fb5009d462ceb6e60dd56b3cfa8159620
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Любимое кино [RU]
+magnet:?xt=urn:btih:2d5d33c8c011603172bf9d778d6d77dcce6e0aca
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Viasat Explore [RU]
+magnet:?xt=urn:btih:361e2b2f24d617ed599dc354180c80cd1705f5c0
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",beIN SPORTS HD 1 [TR]
+magnet:?xt=urn:btih:071b49a1c52d304cae6300e2776022eec7ebe6cd
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Блокбастер HD [RU]
+magnet:?xt=urn:btih:26704e203fcf15bf025bbc9a2d238dfb14075652
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Шокирующее HD [RU]
+magnet:?xt=urn:btih:90f87b7e2044d25ce1e483774bded9ccf961e697
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Наш Кинопоказ HD [RU]
+magnet:?xt=urn:btih:2344fa4304ac860f6469f03b1563b9332acefeb0
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",TV1000 Русское кино [RU]
+magnet:?xt=urn:btih:579f9693b8084c1b8349c4108ab7a69d2953e72f
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Наше новое кино [RU]
+magnet:?xt=urn:btih:5e41e16355cfe58b6aa24820ce4110b3e1fd7f05
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",FOX Sports 2 HD [US]
+magnet:?xt=urn:btih:e765303108614af0f9a42da7b45a147195982796
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Survival HD [RU]
+magnet:?xt=urn:btih:ac539b6110a210c6e6fcef26a61170b05f01888e
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",FOX HD [RU]
+magnet:?xt=urn:btih:9d88fca3233597b6a150199e430ec0c67bfb1a23
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat Sport Premium 1 [PL]
+magnet:?xt=urn:btih:58b193890946b099a7d2c7dca37a48b36a12467f
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",.sci-fi [RU]
+magnet:?xt=urn:btih:4155750f93c063a053c9d6628657616b0457eb9f
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Liga de Campeones
+magnet:?xt=urn:btih:8c1c3eae077f3a786ed2f0a426197ea93fdf7373
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Cinema Special HD [DE]
+magnet:?xt=urn:btih:07793c990e158208c29207faecb10769595beeea
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Наше любимое HD [RU]
+magnet:?xt=urn:btih:156283f58f21399fb21145d36fd43419da56bfbf
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport360 HD 3 [DE]
+magnet:?xt=urn:btih:6730acfdda36c60d8a09105b03b4c88a0571b72d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport 2 HD [PL]
+magnet:?xt=urn:btih:3fee4ce1dbc079ff3f302535070d9547988a407c
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",BCU Kids HD [RU]
+magnet:?xt=urn:btih:8cee61d7252426713403bf5d12acbf5a742b30ba
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Fox Life HD [RU]
+magnet:?xt=urn:btih:d8b7a3f67305d65d0c75602eb7ec8e7f1df6b8b7
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Nat Geo Wild HD [RU]
+magnet:?xt=urn:btih:a8fff7f9ec863a8c3f9f8265f434bba3359656ba
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat HD [PL]
+magnet:?xt=urn:btih:973e3531a2df33e950a72a73353809b73c5b5e08
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Viasat Nature [RU]
+magnet:?xt=urn:btih:8d4bd60c0a785b7efc143a67f685b904603bf3ab
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",КИНО UHD [RU]
+magnet:?xt=urn:btih:d092686779efec6d9ccea4409d567b9dfbe29252
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Кинохит [RU]
+magnet:?xt=urn:btih:373b097439b972056ddd336f74949e5d012a4634
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Amedia 1 [RU]
+magnet:?xt=urn:btih:47f5f5d01913d46ad8b40505eb7658aeddf14063
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",BCU Kids 4K [RU]
+magnet:?xt=urn:btih:876afe0bccfedbd7be72caf2eea1dc21b0118ca3
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",BCU Premiere Ultra 4K [RU]
+magnet:?xt=urn:btih:4b598726baad9f7a96f8fed7f4415f8379d6d5f9
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Романтика HD [RU]
+magnet:?xt=urn:btih:f45a2775a15f7f719e1f0e8e13468bbfa7f54017
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",BeIN Sports 2 [BE]
+magnet:?xt=urn:btih:fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",CANAL+ Sport 4 [PL]
+magnet:?xt=urn:btih:9010f93e90063729f875a05db7b899fd892deadc
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",CineMan РуКино [RU]
+magnet:?xt=urn:btih:d479f8e40ed56c3c428cafc25cdb77d952700685
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Disney HD [DE]
+magnet:?xt=urn:btih:3b478c7e9118048ee50f6d274f0b2ab17aa684b1
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport 1 HD [DE]
+magnet:?xt=urn:btih:42e959bffd0dd0f138dd03abf387b4284ece7e30
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",H2 [PL]
+magnet:?xt=urn:btih:5ba2f012bbf7d140f5cf340483058579ac1415b7
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",HBO 2 HD [PL]
+magnet:?xt=urn:btih:e690dbfc22c5a7184a2d47bbca065be65e525cfc
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",HD Life [RU]
+magnet:?xt=urn:btih:52cb881c1b8dcc070c496f28df1524a42939c33e
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Love Nature 4K [RU]
+magnet:?xt=urn:btih:cd8c7fcc7fb8c597d64b41429e0596887e097e54
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",M. Golf HD
+magnet:?xt=urn:btih:b715ba3d23d3dca6736ac86990efe105087c3401
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Romance TV [DE]
+magnet:?xt=urn:btih:56c5b9c417b77220c9ab66d9ddfd05b88dc39fd2
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Replay [DE]
+magnet:?xt=urn:btih:92bb19244082f2f7f384534032abb173f3c31b87
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Sport 1 HD [DE]
+magnet:?xt=urn:btih:00c505e3e33687ecac47ef2a555497e66ebdc5af
+#EXTINF:-1 acestream-autosearch="1" group-title="regional" group-title="sport",Sky Sport 2 HD [DE]
+magnet:?xt=urn:btih:2707b05c94cf5d582e8ff71d3b35f8d1219ad0ac
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TTV [PL]
+magnet:?xt=urn:btih:87a815e24a728cf8d2955a2c7242fdb69c75b240
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TV Puls [PL]
+magnet:?xt=urn:btih:369a141f88d70834ac5337c1e74f9abdac4a0cc5
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVP Sport HD [PL]
+magnet:?xt=urn:btih:8356abd054c23015cfc1b1f187f8a7e30940b3f5
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Viasat History [RU]
+magnet:?xt=urn:btih:ad34c44fb480ecfb26c5ea9bd413f3eedb9c0236
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Viasat Nature/History HD [RU]
+magnet:?xt=urn:btih:14c74e9552c440606b9f628cc4f50dc14e2dfc2b
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",beIN SPORTS HABER [TR]
+magnet:?xt=urn:btih:22d5b3999d11a4f1bad9da8fdaa9034935fb2706
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",beIN SPORTS HD 2 [TR]
+magnet:?xt=urn:btih:36e9427b55dd3574f9f40eab30aef8e0f34f477e
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",beIN SPORTS HD 4 [TR]
+magnet:?xt=urn:btih:26c1fe91207fb2a1cfa6271970081d4c2009b6fa
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Домашний [RU]
+magnet:?xt=urn:btih:99c472a2597b192d1e73e16e60e128bbf9e0a65b
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Душевное [RU]
+magnet:?xt=urn:btih:00314f5387ad15fd701ba7d2e9fdb7b4a286197d
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Еврокино [RU]
+magnet:?xt=urn:btih:81b6d5d2563db56c4018b98b874e9681f919533a
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Киноужас [RU]
+magnet:?xt=urn:btih:44f248fb3e52db27504a1fa72560e0aa187ac72e
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",НСТ [RU]
+magnet:?xt=urn:btih:87c0495e746d3aaf1f7b29d441ce595aedf3f813
+#EXTINF:-1 acestream-autosearch="1" group-title="music",1HD [RU]
+magnet:?xt=urn:btih:4bde182cece69c578f4d00927f3f40d1961c5c96
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Amedia Hit [RU]
+magnet:?xt=urn:btih:2c4f6570d3c6cdbd726a98fd1df2bd1dcb60eab9
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Amedia premium HD [RU]
+magnet:?xt=urn:btih:bd3909c04c1086803526c7b06a8266654a70e482
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Ruserial HD [RU]
+magnet:?xt=urn:btih:7278589eb71cba58dd084dcf51ba5ec12fa35dcc
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Russian HD [RU]
+magnet:?xt=urn:btih:0643d7ff20eb8faec2d6d063b9d0fa4ab9e54fc6
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Кинозал Premiere 1 HD [RU]
+magnet:?xt=urn:btih:aeb2a969592f32d318e362601e3dfa9b51672039
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",BeIN Sports 3 [BE]
+magnet:?xt=urn:btih:519c2159e9228bfe2f94911dfa111b01d0a896e2
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Canal + [PL]
+magnet:?xt=urn:btih:7e442bdb36983ecebae9df2e80a070c9515f330a
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Comedy Central HD [PL]
+magnet:?xt=urn:btih:e672ea839f8e12360e2fe208c3095482bcd98e25
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Crime and Investigation [PL]
+magnet:?xt=urn:btih:da3816ef5c8fa5d9bfe19ac12149415428070778
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Dikaya Okhota HD [RU]
+magnet:?xt=urn:btih:c5bac5ae6b8f86668fab3776ff09bee03a272736
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",Disney [RU]
+magnet:?xt=urn:btih:8d85b13a916e1c16d1c1af2f10648c96900d6f13
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",ESPN2 [US]
+magnet:?xt=urn:btih:437692bc0dedcf1c27c2ab2c1c7e58b0806244fe
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eleven Sports 3 HD [PL]
+magnet:?xt=urn:btih:95bf662561dba1859c9e4763f4ae7d9d1918fb0d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport360 HD 5 [DE]
+magnet:?xt=urn:btih:85faff984d795bc3eaf2337c869ca3d1d8aade72
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",HBO 3 HD [PL]
+magnet:?xt=urn:btih:05428860592e4947d4d6859cb327047ff600184f
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Magenta Sport 1 HD [DE]
+magnet:?xt=urn:btih:1d08eb70e51005f6b52c07c69cbe7ad8b515d174
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Paramount Channel HD [PL]
+magnet:?xt=urn:btih:64b7d92620dc66184528faa495fbac8bea9b1eec
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat Cafe HD [PL]
+magnet:?xt=urn:btih:eed37e83e8b8e2f8bb1e976917e99a3de605ed3f
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat News HD [PL]
+magnet:?xt=urn:btih:787bfae1680aeba24aaa5481242cc8d566f0fe30
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Atlantic HD [DE]
+magnet:?xt=urn:btih:0bcd22bef29aa77a7030695261ed9f4cf61b0334
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Sport News [DE]
+magnet:?xt=urn:btih:769777a873e3649a22ac4482b19685c0fd1bfcf3
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Spiegel Geschichte HD [DE]
+magnet:?xt=urn:btih:b404e97691d1bf2bcecba753755c709bfd9e89b0
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVN [PL]
+magnet:?xt=urn:btih:ecb06057aae29b70e81c30438bdc4b73294503ab
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVP 1 HD [PL]
+magnet:?xt=urn:btih:eeaa185d0305a21a8fa388f79adaf9b1677628da
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVP Seriale [PL]
+magnet:?xt=urn:btih:f0236e853c592d5cab857d181b39f2488e80fc96
+#EXTINF:-1 acestream-autosearch="1" group-title="educational" group-title="movies",Travel Channel HD [RU]
+magnet:?xt=urn:btih:cfa9d82af3e0853f5d461fbb964aa4bddce7419b
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Travel+Adventure HD [RU]
+magnet:?xt=urn:btih:6e96ec55341e3bf654d0c9335fffb43f0a7e46a2
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Ziggo Sport Golf [BE]
+magnet:?xt=urn:btih:ca9c3f288e1ce6c07751f86d8afea6798b62cdf4
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Ziggo Sport Select [BE]
+magnet:?xt=urn:btih:a323b95dfc567990ffa58d48664bd322cf8996eb
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Ziggo Sport Voetbal [BE]
+magnet:?xt=urn:btih:988072d7f88e09cd815a42fcd2a15762f0d86a79
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",В мире животных [RU]
+magnet:?xt=urn:btih:db78bbaaa4dbb877cfa87070db8179cd0c78b515
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Дождь [RU]
+magnet:?xt=urn:btih:ed6452bdf0452841bbfa3a060ee00e73b5968262
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Дом кино [RU]
+magnet:?xt=urn:btih:22b73ed881efe130b4222b0168de8a0e8a299c24
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Еда Премиум HD [RU]
+magnet:?xt=urn:btih:2c4cda7044f5390e060823dc25014eb23875c820
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",КИНОСВИДАНИЕ [RU]
+magnet:?xt=urn:btih:ce1735b634b02267a74367a51f0ef8ef66630ef7
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Камеди HD [RU]
+magnet:?xt=urn:btih:9f1c19be4fa27db2bc9789252240296d2cc66b54
+#EXTINF:-1 acestream-autosearch="1" group-title="movies" group-title="sport",Матч! Боец [RU]
+magnet:?xt=urn:btih:10e2c94c32cc6de6cb95262616acc36a54a31331
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Наша сибирь 4K [RU]
+magnet:?xt=urn:btih:e926e95fd0c8b79d003d9426e2a99f118f5e0796
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Наше крутое HD [RU]
+magnet:?xt=urn:btih:43457f20587e5837ff55c0b46ac549dfc155103a
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",СТС Love [RU]
+magnet:?xt=urn:btih:d17e0d3b491e5649c11b77a70d17a4f46d073a73
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",Мультиландия [RU]
+magnet:?xt=urn:btih:b229a0b136490e63cd361c1dcd0f55d45281a87a
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",КиноСат [RU]
+magnet:?xt=urn:btih:6df234f7826542374e2f6738e19512b0ed6aa51e
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Kino Polska [PL]
+magnet:?xt=urn:btih:a05c203435ba8efa98461ccea6d72d896be3a98e
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Nickelodeon Polska [PL]
+magnet:?xt=urn:btih:d0cf9952ca3c1947409d935754e1090439c6786f
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ORF 2 HD [DE]
+magnet:?xt=urn:btih:09b3b0350c4a4102c2f33e3e3280aec8ec692d6d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat Film HD [PL]
+magnet:?xt=urn:btih:f150493892e18605c5bf76984b87044f31562b6b
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",RTL UP [DE]
+magnet:?xt=urn:btih:b6c1d1ab6fcbb2acad8130b8f45c16c4f9054776
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky 1 [DE]
+magnet:?xt=urn:btih:814e482a991c6e590bb40202d414219355e52931
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Cinema Action HD [DE]
+magnet:?xt=urn:btih:167b439ae4fd189c348e6588c1aab07346435716
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Cinema Family [DE]
+magnet:?xt=urn:btih:c85a6e5f6edb72c33aee67fcf294a62114911f6a
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Super Polsat HD [PL]
+magnet:?xt=urn:btih:c856decf73393fa260e91ae2971bf6ef7e89ae28
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVN 7 [PL]
+magnet:?xt=urn:btih:4b443ca6c8afece8bdb21a67d561038eb3a42fae
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVN Fabula [PL]
+magnet:?xt=urn:btih:0a0ef25757319dbaf77ecf541405be44649ed3f8
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",UFC HD [RU]
+magnet:?xt=urn:btih:72b8c093be3c3e3c434c723ee93af0d1d07a7cbf
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Warner TV Comedy [DE]
+magnet:?xt=urn:btih:20bafbff7bdce393eacdef515308c1c3d6241392
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",КХЛ ТВ [RU]
+magnet:?xt=urn:btih:38c98858c0fc5e670820d2e1d308c71efcaa2ddc
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Охотник и Рыболов HD [RU]
+magnet:?xt=urn:btih:10cb1b48a429a04bbcdbcd75835f26062c4e41b4
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Русский иллюзион [RU]
+magnet:?xt=urn:btih:ad985ece170940d1d93769dc9f2291469a718dfc
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",СЕРИАЛ UHD [RU]
+magnet:?xt=urn:btih:32fa4e9c1c34b06c9cdbced939dee4b6b6c5beba
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ТВ 3 [RU]
+magnet:?xt=urn:btih:774eeeb5fb2bf0592ad72bf0fcb0d3f417b428f0
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Хит HD [RU]
+magnet:?xt=urn:btih:c6b97fd0578b6f279870a6d002640c1fc97e810a
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",3sat HD [DE]
+magnet:?xt=urn:btih:88114924ab20f9ce275e816a9a6468126e75d63b
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",AMAZON PRIME VIDEO 2 HD [BE]
+magnet:?xt=urn:btih:d5e3bce4037e4b803fe21b4ffd6ac59f2e047bdf
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Anixe HD [DE]
+magnet:?xt=urn:btih:1ff08928f4b8c4e4ba193bbd54dcf522c29e67ee
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Кинозал Premiere 2 HD [RU]
+magnet:?xt=urn:btih:0e1f8b3f3bcc338c333fc131b0817fdfc4ebf13b
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",BCU Мультсериал [RU]
+magnet:?xt=urn:btih:821cfc152e1130591fe8255c5d3535b6aa89cd53
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Canal+ Seriale HD [PL]
+magnet:?xt=urn:btih:8f6dbfc73a1e42d734ca50e73fcf9ddf40067dd0
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Cinema (Космос ТВ) [RU]
+magnet:?xt=urn:btih:fa0249f23d927379bd3a84753a6a41068f5875b6
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Comedy Central Polska [PL]
+magnet:?xt=urn:btih:50c4d3bea50a385c402c7733b727fb9677c33811
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",DMAX HD [DE]
+magnet:?xt=urn:btih:46b0745f35cbc125ba35d4f363c0080164cc783b
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Discovery Turbo Xtra [PL]
+magnet:?xt=urn:btih:021f4d30da6113361af592dc53d255d8dc485f53
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",E! [DE]
+magnet:?xt=urn:btih:940cef94564832729f7e7139122f528643887950
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",ESPN 3 [BE]
+magnet:?xt=urn:btih:7ae7a8ae390bbc5bdad5383aa10ebb201b0141dc
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",EuroNews [RU]
+magnet:?xt=urn:btih:f8757bfa9b59fb272c9fd40bdc0fcb4e296d69bf
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport360 HD 2 [DE]
+magnet:?xt=urn:btih:ea8286a637beb98bf8728c319b77e0a2686ac887
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport360 HD 7 [DE]
+magnet:?xt=urn:btih:19e19c9eeba133f6283f0df2c64a3067d7f7541d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Eurosport360 HD 9 [DE]
+magnet:?xt=urn:btih:a92cd18904ffa92e50052925e0379049a36bb07c
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Fightklub HD [PL]
+magnet:?xt=urn:btih:be9d751f2e5323a49d4aad66a0ff2f5c0318d8e2
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",HGTV [PL]
+magnet:?xt=urn:btih:3291034f984c0f5716960cd0170ec0abd5175c1c
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",JimJam [PL]
+magnet:?xt=urn:btih:8acfaf811194dbd940a87305a11a4f0ac458f77c
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Kabel Eins HD [DE]
+magnet:?xt=urn:btih:79c4cd2830047e06754ae1e6b3e1334a0cb8897d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",MiniMini HD [PL]
+magnet:?xt=urn:btih:18328d0c0e6d79c729de5c81412a4f963812463e
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",N24 DOKU [DE]
+magnet:?xt=urn:btih:22b22811b51c524a37954cb17d589aa98ba5868c
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Nat Geo Wild [DE]
+magnet:?xt=urn:btih:c63bb90aae1c5400496c8519917c1c95e2c97601
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",National Geographic HD [PL]
+magnet:?xt=urn:btih:4e9d5f394d5b352866303764dd2e97efe2f279b6
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Nick Jr [PL]
+magnet:?xt=urn:btih:55827fdab6ab3a196149615401dbf35c78c4a497
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",NickToons [DE]
+magnet:?xt=urn:btih:bd79b034c3cf61b160a731d4b0e664b17a2899b1
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ORF 1 HD [DE]
+magnet:?xt=urn:btih:1d2dec89060134f7227327d37d47aa45776bbf35
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat 2 HD [PL]
+magnet:?xt=urn:btih:fd0c1a0658073c78ed1ed619e335ba08824f0f3f
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat Play HD [PL]
+magnet:?xt=urn:btih:847898a28379803d9a257e93be4ebd349260336a
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ProSieben Maxx HD [DE]
+magnet:?xt=urn:btih:b30f5890cdc76a35f3d1f58574e88e9f5bbe04e4
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",RTL 2 HD [DE]
+magnet:?xt=urn:btih:c545a52a778252035d3f5b21aee47bf91f1eafe3
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",RTL Crime [DE]
+magnet:?xt=urn:btih:c30d8ef4888a7a51a0a6768c3afb98d00a2f34cf
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",SIXX HD [DE]
+magnet:?xt=urn:btih:23ccd7289cd16609bec19752ef4dc97859a984db
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Servus TV [DE]
+magnet:?xt=urn:btih:a7e28ff5910c285737503c0ee59cef7a1a19df2d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Bundesliga 1 HD [DE]
+magnet:?xt=urn:btih:dfbb321c7ee0d3309a03770fea07c67434182acc
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Cinema Classics [DE]
+magnet:?xt=urn:btih:ffa4be710467fa630ad9fa1bb9f06b3dd166387b
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Krimi HD [DE]
+magnet:?xt=urn:btih:68c5fca88e422b7bb69fecedce07add50fbec71f
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Sky Select 1 HD [DE]
+magnet:?xt=urn:btih:f016cf7fdd00da5e5a366f133f7af70465cfc7bf
+#EXTINF:-1 acestream-autosearch="1" group-title="regional" group-title="sport",Sport Klub [PL]
+magnet:?xt=urn:btih:14594b3c9520715e48756cb7258e102c5e48c29c
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",SuperTennis HD
+magnet:?xt=urn:btih:7a57543cb6061648dc44c5d4321bd100bc8a47ca
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Syfy HD [DE]
+magnet:?xt=urn:btih:0a48b895ed0994a11fccf487aada3808446bb932
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TNT [PL]
+magnet:?xt=urn:btih:ee5e4d97b9b3972721ff60ca24465af806423ac7
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVN Style [PL]
+magnet:?xt=urn:btih:1e43090f56983294e5cb2b4810f6754668a362a2
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVN Turbo [PL]
+magnet:?xt=urn:btih:421fa5069f665323c5b96f956f0781c5f2151982
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVP 2 [PL]
+magnet:?xt=urn:btih:96c6d4c0c14ae6f6b73427b0db98b82bff998cfa
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVP Rozrywka [PL]
+magnet:?xt=urn:btih:9320ffd5339c858264bfd8b7fecd5f7d949197b4
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVP3 [PL]
+magnet:?xt=urn:btih:0c4fc5ecca41212e4c1a22654271d331cef49f13
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",VIVA/Comedy [DE]
+magnet:?xt=urn:btih:fd58af44e76cab97f1b71b9b65932730248db479
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",WDR HD Aachen [DE]
+magnet:?xt=urn:btih:565b855248085e63c5deb092f8512ffc52a26bf9
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",WELT [DE]
+magnet:?xt=urn:btih:bc770407a1efd7b7c1c8740ae48982a91b773bf4
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Warner TV Film [DE]
+magnet:?xt=urn:btih:c250de1c096fa5931169d9565cfa4302776644e5
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Warner TV Serie [DE]
+magnet:?xt=urn:btih:953cdd072b9a35303d28a93e27598999ef8714f2
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ZDF HD [DE]
+magnet:?xt=urn:btih:1f85786caa98c804c916c96fdb6054aa098053aa
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Авто Плюс [RU]
+magnet:?xt=urn:btih:7ed9991209bf6be583db4c3aca11e99d3d49185e
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Глазами туриста HD [RU]
+magnet:?xt=urn:btih:db224b9e4979973e97a389a62c8259388ec3207e
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Драйв [RU]
+magnet:?xt=urn:btih:a98290bfa375a6f19b81d664e59da9bb0111d997
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",Кинопремьера HD [RU]
+magnet:?xt=urn:btih:6cdce218d4142247b71630c0a1f1320db40992b9
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Кто есть кто [RU]
+magnet:?xt=urn:btih:2d093fce90c42d50a36ad8b0b54b27ee45c09e1e
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Magenta Sport 4 HD [DE]
+magnet:?xt=urn:btih:bf65ee0790793f4f773c39b6fde8fdbe3fbb9465
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Animal Planet HD [PL]
+magnet:?xt=urn:btih:3c2590e3d167e159115d4a63b25d371f6eeae7c0
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Polsat News 2 [PL]
+magnet:?xt=urn:btih:8bd365dd6c2486d8f11f7850f2cf8107c0563f1b
+#EXTINF:-1 acestream-autosearch="1" group-title="music",МУЗ [RU]
+magnet:?xt=urn:btih:28b3d07a64eb962d07aa504361a98c5be8f0feeb
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",KINOWELT TV [DE]
+magnet:?xt=urn:btih:fccb9e14d2e7f3f3c2a85936f9c451edaf8ea28c
+#EXTINF:-1 acestream-autosearch="1" group-title="educational" group-title="regional",Кухня ТВ [RU]
+magnet:?xt=urn:btih:47c727a649958399a0b18aa3e92350f42a58d247
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Матч! Страна [RU]
+magnet:?xt=urn:btih:8a8f6a325daa9b61370ea7800359b11392219f3c
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TVP ABC [PL]
+magnet:?xt=urn:btih:7559c2423746b360008095949525b5cd47e8a8c0
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",Загородная жизнь [RU]
+magnet:?xt=urn:btih:c798cfb60ad3202bf02dc9eeda42b6a977c96d63
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Canal+ Family HD [PL]
+magnet:?xt=urn:btih:61c98b6f9b38ffdff67547ba66b57026867e87d9
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",HR HD [DE]
+magnet:?xt=urn:btih:59b77253b685d67add66f93da387ee1f6f7a61cf
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",TV Puls 2 [PL]
+magnet:?xt=urn:btih:369a141f88d70834ac5337c1e74f9abdac4a0cc5
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Teletoon+ HD [PL]
+magnet:?xt=urn:btih:54c442a50798fed9e3ca78ff792666aeb0f4d892
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",ТНТ (+7) [RU]
+magnet:?xt=urn:btih:01ef7b690332bba539d20bd7de65a35215813fc5
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Ziggo Sport Racing [BE]
+magnet:?xt=urn:btih:23319c2f1a1572a7cac233edc926a8228ff49413
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",BCU Cinema+ HD [RU]
+magnet:?xt=urn:btih:bd0150e4082d4a3c6d0cfd5f8ee21ae33092866d
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",NITRO [DE]
+magnet:?xt=urn:btih:032e48c8ab8140b05b72893fc63c5156ae263092
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",HSE24 [DE]
+magnet:?xt=urn:btih:b5040fc9de6b507b0e16522823d6af9a6ab2bf2a
+#EXTINF:-1 acestream-autosearch="1" group-title="movies",.black [RU]
+magnet:?xt=urn:btih:18cf2d3491233fa980add6db246847a5077be047
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Ale Kino+ HD [PL]
+magnet:?xt=urn:btih:2df3bb38a0ad76b7b8459f8fae03be53f3eecd1f
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Canal+ Now [PL]
+magnet:?xt=urn:btih:dbf230361f8ef5fd2c2cd4732b569e149518b445
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",FightBox [PL]
+magnet:?xt=urn:btih:5fa7c5da337cea63caedf14fd6500b1eba71f805
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",CNN Indonesia
+magnet:?xt=urn:btih:c80c7cffe57ee3cc4171cd65885bbac7a3502ba1
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",CNN INDONESIA HD
+magnet:?xt=urn:btih:8262000a94442fe440c835c9abece1e763d862ee
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",BBC World News Ⓢ
+magnet:?xt=urn:btih:9448a31dd05fcb7749b005357c00169f17584469
+#EXTINF:-1 acestream-autosearch="1",BBC World News
+magnet:?xt=urn:btih:050702a6580361bbf040fbb42f8004ab4f1b9211
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",BBC HD [PL]
+magnet:?xt=urn:btih:69a5417b00a536d785a43407a6b0be4398093e23
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",BBC Earth HD [PL]
+magnet:?xt=urn:btih:7440a7b3192b265fec805a1809fc8ddf24f26b3a
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",BBC World News (576p)
+magnet:?xt=urn:btih:050702a6580361bbf040fbb42f8004ab4f1b9211
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Nat Geo Wild HD [PL]
+magnet:?xt=urn:btih:a8fff7f9ec863a8c3f9f8265f434bba3359656ba
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Nat Geo Wild
+magnet:?xt=urn:btih:c63bb90aae1c5400496c8519917c1c95e2c97601
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Nat Geographic HD [DE]
+magnet:?xt=urn:btih:b80d82e0bd708417c735f16fc27e15184a8855da
+#EXTINF:-1 acestream-autosearch="1" group-title="educational",National Geographic HD [RU]
+magnet:?xt=urn:btih:4e9d5f394d5b352866303764dd2e97efe2f279b6
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",MTV Live HD [PL]
+magnet:?xt=urn:btih:19c5bf7e2407d091db2a153fbe1aa36b984713e2
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",MTV 90s [PL]
+magnet:?xt=urn:btih:65de3f3d9ca282f32721d53448bca7fe3d690fb2
+#EXTINF:-1 acestream-autosearch="1" group-title="music",MTV Live HD [RU]
+magnet:?xt=urn:btih:19c5bf7e2407d091db2a153fbe1aa36b984713e2
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",MTV Music Polska [PL]
+magnet:?xt=urn:btih:cca0918eb3786a19c92b53e56f79209a7f36b450
+#EXTINF:-1 acestream-autosearch="1",Tracesport
+magnet:?xt=urn:btih:7a8b5548fb140bf76106d105e0d5117590f3f305
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",AdultIPTV.net Live Cams (720p)
+magnet:?xt=urn:btih:20d85dbb4535c4f8414cc906924d768b3267916f
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Hardcore Channel (21+)
+magnet:?xt=urn:btih:75dddd3e9b8c73f9cbe6329e611be3f2dc546429
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Brunette Channel (21+)
+magnet:?xt=urn:btih:b651f83b15c3c38616f7f311906a7dc5fa778a4c
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Russian
+magnet:?xt=urn:btih:f25f0741b194a4a17297b8980ecefea16a020ab1
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Blonde
+magnet:?xt=urn:btih:5e96e89864c6cbfef5cea4aafc3f0d433795b099
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV POV
+magnet:?xt=urn:btih:cb881e3119533be1bad9dd6f2ccfebc75ab5ebb8
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Fetish
+magnet:?xt=urn:btih:2f37ef9f4e633a763e9091579a6776e8423faa01
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Compilation Channel (21+)
+magnet:?xt=urn:btih:e6193676b5d6e215306f2aa3dc7d5c72e658a539
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Anal Channel (21+)
+magnet:?xt=urn:btih:7fdaf062d18012d31868d836e097aa5325469e9b
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",AdultIPTV.net POV (720p)
+magnet:?xt=urn:btih:bc2fb3191fb96eef1a5f7c0e68ba57e05976cd6c
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Lesbian
+magnet:?xt=urn:btih:9b21004a17469fa94c5b46bbdc17c6c812dd7f79
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Latina
+magnet:?xt=urn:btih:f178860f7da3b211d803ee50e8d8e5a5cd8048bc
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",AdultIPTV.net Asian (720p)
+magnet:?xt=urn:btih:3ca9c714133bb360a35ad04193b15af2194c9e1a
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Cuckold Channel (21+)
+magnet:?xt=urn:btih:062bccf6aeb3022c2dd3584e6f47493035357241
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Interracial
+magnet:?xt=urn:btih:d4adea01e43b1a27da8fb05a12237db4add03c99
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Gay
+magnet:?xt=urn:btih:47168eec523978d881d3b6636f34711c819fed2e
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",AdultIPTV.net Hardcore (720p)
+magnet:?xt=urn:btih:4cfddb06f9e8d8c349606fc563b539475db932a7
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Milf
+magnet:?xt=urn:btih:47a76328ec846ff278f7f87093156b0dbfeb5aeb
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Teen
+magnet:?xt=urn:btih:61e65c856a5a56a84b97de35771af2f068928806
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Blowjob
+magnet:?xt=urn:btih:27dd2dc42643b48fe3af8be4f5f8d7b39418ff52
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Rough
+magnet:?xt=urn:btih:bed008ef27d862f55b7b9e51ee01a375391f96f8
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Live Cams
+magnet:?xt=urn:btih:05315bda1c153053c6d679742567ae605c45a78c
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Pornstar
+magnet:?xt=urn:btih:55a3af97b5ee2425dc83511909974be1604506ff
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Threesome
+magnet:?xt=urn:btih:fb96921d04d2e69fabe57e89955c76ce2130caf3
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",AdultIPTV.net Latina (720p)
+magnet:?xt=urn:btih:1b3845257b095a58178bf8f9095caf849dd22fcd
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",AdultIPTV.net Teen (720p)
+magnet:?xt=urn:btih:912940b0b055df9dd55c7319f37f8d4967c8f7a6
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",AdultIPTV.net Lesbian (720p)
+magnet:?xt=urn:btih:47f1c6741c1b9bc6b1a5eb45701d46b79b73fe10
+#EXTINF:-1 acestream-autosearch="1" group-title="tv", Adult IPTV Big Dick
+magnet:?xt=urn:btih:3ef1d4dbd0c7bf49f284258fb5b4deab437ee622
+#EXTINF:-1 acestream-autosearch="1" group-title="other" group-title="tv",BIGTITS [18+]
+magnet:?xt=urn:btih:666a4ef524802668e9adf75b28a6f547f56147bf
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",Cartoon Classics
+magnet:?xt=urn:btih:9b2dedcebdc0def94a58cdeccf1902013c8b232c
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Retrô Cartoon (480p) [Not 24/7]
+magnet:?xt=urn:btih:bb02271adfeb3cb600f7a100030186726752c0b5
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",Cartoon network
+magnet:?xt=urn:btih:db16b8bb958005b9e9d03c42817c594103a96407
+#EXTINF:-1 acestream-autosearch="1" group-title="kids",Cartoon Network [RU]
+magnet:?xt=urn:btih:db16b8bb958005b9e9d03c42817c594103a96407
+#EXTINF:-1 acestream-autosearch="1" group-title="kids" group-title="tv",Nickelodeon
+magnet:?xt=urn:btih:309ae3916169c5a0fa532e25753fff3a7e1f16a6
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Channel Win (360p)
+magnet:?xt=urn:btih:09d9277fabe7abd34c4d7f3e748898edf9bb2729
+#EXTINF:-1 acestream-autosearch="1" group-title="tv",Shop Channel
+magnet:?xt=urn:btih:78bcb785c8a0c683b2b57ff011ff36d579cfd5ea
+#EXTINF:-1 acestream-autosearch="1" group-title="детские",Солнце
+magnet:?xt=urn:btih:8d85b13a916e1c16d1c1af2f10648c96900d6f13
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Golf Channel [PL]
+magnet:?xt=urn:btih:300544e1849abdc6ec0a43554efe5fa52490cd8b
+#EXTINF:-1 acestream-autosearch="1" group-title="regional",Travel Channel [PL]
+magnet:?xt=urn:btih
