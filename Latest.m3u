@@ -1,17 +1,17 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/joberror/junks/raw/main/all.xml"
 
-#EXTINF:1, Monkey Man (2024) 4K group-title="Movies"
+#EXTINF:-1, Monkey Man (2024) group-title="Movies" channel-id="A01"
 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlODVjMzgtZGM1Yi00MWMwLTkyYTQtMzJlZjQ4MDgwYzg4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY759_.jpg"
 https://nw5.seedr.cc/ff_get/5410808164/Monkey.Man.2024.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv?st=L6KxRswsKo8M6W0qHpOeaA&e=1715357656
 
-#EXTINF:1, Mother of the Bride (2024) FHD group-title="Movies" 
+#EXTINF:-1, Mother of the Bride (2024) group-title="Movies" channel-id="A02"
 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIzN2FhN2ItNTYxMC00M2Q3LThiNGMtOWRjYjE5MDY4MjFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY576_.jpg"
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclY5cEJPQVBOSDd2OWZjYnc_ZT1VRFJkSTA/root/content
 
-#EXTINF:1, Dark Matter 2024 S01E01 group-tile="Dark Matter (2024)"
+#EXTINF:-1, S01E01 group-tile="Dark Matter (2024)" channel-id="A03"
 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlkMzBkYjUtNTMzOC00YzNkLWJmMDMtNWU0Y2Q4MDU1NWI1XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX600_.jpg"
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclYxY2V3RThNc2JUN1gyeHc_ZT1sTnlBNWk/root/content
 
-#EXTINF:1, Dark Matter 2024 S01E02 group-tile="Dark Matter (2024)"
+#EXTINF:-1, S01E02 group-tile="Dark Matter (2024)" channel-id="A04"
 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlkMzBkYjUtNTMzOC00YzNkLWJmMDMtNWU0Y2Q4MDU1NWI1XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX600_.jpg"
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclYyRzFRQVYwekZQTWticlE_ZT15ZnZ6bWQ/root/content
