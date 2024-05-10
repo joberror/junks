@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ3NWM5NmUtMGIxMy00ZmExLTk3NTktMDQ0YzdjZTgzZmRlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UY480_.jpg" , Ghostbusters: Frozen Empire (2024)
+#EXTINF:-1, tvg-group="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ3NWM5NmUtMGIxMy00ZmExLTk3NTktMDQ0YzdjZTgzZmRlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UY480_.jpg" , Ghostbusters: Frozen Empire (2024)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllEX1kwcmx3bnowQm1mVHc_ZT13WFBHbW0/root/content
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY759_.jpg" , Abigail (2024)
+#EXTINF:-1, tvg-group="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY759_.jpg" , Abigail (2024)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllFZ1FoclNUbWZWX3NHdmc_ZT1MYWJUOFU/root/content
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0YWM3MTUtNjc2MS00ZTg0LWE1ZDAtZDE1ZmE0ZWJkZjhjXkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_FMjpg_UY708_.jpg" , Chief of Station (2024)
+#EXTINF:-1, tvg-group="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0YWM3MTUtNjc2MS00ZTg0LWE1ZDAtZDE1ZmE0ZWJkZjhjXkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_FMjpg_UY708_.jpg" , Chief of Station (2024)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllGOEdneUV2XzdvcmhRN1E_ZT1adHd0VHM/root/content
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3YzkyMjMtODc2Ny00ZmQwLTg1NmEtOTlmNjZjMjZhMjNiXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_FMjpg_UY720_.jpg" , Justice League: Crisis on Infinite Earths - Part Two (2024)
+#EXTINF:-1, tvg-group="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3YzkyMjMtODc2Ny00ZmQwLTg1NmEtOTlmNjZjMjZhMjNiXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_FMjpg_UY720_.jpg" , Justice League: Crisis on Infinite Earths - Part Two (2024)
 
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllHR3hoV0hoWl9ocWhJVlE_ZT1jaUV3ZEQ/root/content
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRkYzY5ZWQtNDYwYS00ZjliLTg4MjUtMTU3NjFiNWU5Y2YwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY474_.jpg" , Love Lies Bledding (2024)
+#EXTINF:-1, tvg-group="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRkYzY5ZWQtNDYwYS00ZjliLTg4MjUtMTU3NjFiNWU5Y2YwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY474_.jpg" , Love Lies Bledding (2024)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclZoVnFpUjZQYTJXSzRPZnc_ZT1qM0d1M0E/root/content
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIzN2FhN2ItNTYxMC00M2Q3LThiNGMtOWRjYjE5MDY4MjFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY576_.jpg" , Mother of the Bride (2024)
+#EXTINF:-1, tvg-group="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIzN2FhN2ItNTYxMC00M2Q3LThiNGMtOWRjYjE5MDY4MjFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY576_.jpg" , Mother of the Bride (2024)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclY5cEJPQVBOSDd2OWZjYnc_ZT1VRFJkSTA/root/content
 
 #EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlkMzBkYjUtNTMzOC00YzNkLWJmMDMtNWU0Y2Q4MDU1NWI1XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX600_.jpg" , S1.E1 ∙ Are You Happy in Your Life?
@@ -25,5 +25,5 @@ https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5V
 #EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlkMzBkYjUtNTMzOC00YzNkLWJmMDMtNWU0Y2Q4MDU1NWI1XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_FMjpg_UX600_.jpg" , S1.E2 ∙ Trip of a Lifetime
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclYyRzFRQVYwekZQTWticlE_ZT15ZnZ6bWQ/root/content
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UY337_.jpg" , The Ministry of Ungentlemanly Warfare (2024)
+#EXTINF:-1, tvg-group="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UY337_.jpg" , The Ministry of Ungentlemanly Warfare (2024)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllDZC1EQ2FKTEE2a2ZTeHc_ZT1CWEU3Ymc/root/content
