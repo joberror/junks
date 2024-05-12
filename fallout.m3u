@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1, S1.E1 ∙ The End
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclo3dzJlbmxfaThsaW82eVE_ZT1XQnpIVno/root/content
+
+#EXTINF:-1, S1.E2 ∙ The Target
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclo4b2RkT25RZTNxeGpsSmc_ZT1PaVp6ZDc/root/content
+
+#EXTINF:-1, S1.E3 ∙ The Head
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclo5VUU2b09yajhlZ2VqRnc_ZT1QSTMzZ0o/root/content
+
+#EXTINF:-1, S1.E4 ∙ The Ghouls
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclotQnE2WlZFeFlGVlFqY1E_ZT1FWmhKZDc/root/content
+
+#EXTINF:-1, S1.E5 ∙ The Past
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclpfb2dDR1lELXhvQTFrM3c_ZT1NQTRienk/root/content
+
+#EXTINF:-1, S1.E6 ∙ The Trap
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmNBbklrQWVQOENmUlVMVnc_ZT1VQ0RBVlE/root/content
+
+#EXTINF:-1, S1.E7 ∙ The Radio
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmNCR0hqclk1VW12QnI2Rmc_ZT1ZRmZIdHE/root/content
+
+#EXTINF:-1, S1.E8 ∙ The Beginning
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmNDSEhxd2pZSXVjbUY4dUE_ZT1KSHdSbFI/root/content
+
