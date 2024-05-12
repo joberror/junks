@@ -33,3 +33,6 @@ https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5V
 
 #EXTINF:-1, tvg-content-type="TVshow" tvg-group="Doctor Who (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE5YzlmMTQtZmNmOC00Y2M3LTkxNWEtZWVlYzFmYTU1ZTczXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E2 ∙ The Devil's Chord
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllIcldva2pRWXB0MTBNbHc_ZT04R05ld2o/root/content
+
+#EXTINF:-1, tvg-content-type="TVshow" tvg-group="TV Shows" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ0YjAyNWQtMjRjMC00NzMxLTlkNjEtYWQzNmQwNGRlMGJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UY711_.jpg" , Fallout
+https://github.com/joberror/junks/raw/main/fallout.m3u
