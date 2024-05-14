@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QwOGE2NGQtMWQwNi00M2IzLThlNWItYWMzNGQ5YWNiZDA4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UY720_.jpg" , Godzilla x Kong: The New Empire (2024)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmdJTkZ5WXdOU2xpS0plUXc_ZT1CMGNtRHo/root/content
