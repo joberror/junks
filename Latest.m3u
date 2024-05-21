@@ -1,40 +1,40 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
-#EXTINF:7560, tvg-group="Movies" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-fall-guy/images/regions/us/onesheet.jpg" , The Fall Guy.2024.FHD
+#EXTINF:7560, tvg-group="Movies" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-fall-guy/images/regions/us/onesheet.jpg" , The Fall Guy (2024 | FHD)
 https://solar03.chiheisen.app/1001668642645/22532
 
-#EXTINF:6600, tvg-group="Movies" tvg-logo="https://fanboyfactor.com/wp-content/uploads/2024/03/boy-kills-world-Boy-Kills-World-final-payoff-poster_rgb-1024x1517.jpg" , Boy Kills World.2023.FHD
+#EXTINF:6600, tvg-group="Movies" tvg-logo="https://fanboyfactor.com/wp-content/uploads/2024/03/boy-kills-world-Boy-Kills-World-final-payoff-poster_rgb-1024x1517.jpg" , Boy Kills World (2023 | FHD)
 https://solar01.chiheisen.app/1001668642645/22530
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlODVjMzgtZGM1Yi00MWMwLTkyYTQtMzJlZjQ4MDgwYzg4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY506_.jpg" , Monkey Man.2024.FHD
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlODVjMzgtZGM1Yi00MWMwLTkyYTQtMzJlZjQ4MDgwYzg4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY506_.jpg" , Monkey Man (2024 | FHD)
 https://solar08.chiheisen.app/1001668642645/18337
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY474_.jpg" , Challengers.2024.FHD
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY474_.jpg" , Challengers (2024 | FHD)
 https://solar01.chiheisen.app/1001668642645/18310
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ4MWIxOGItZmE5ZS00NmZjLWFhZWMtMmM2NmZhNGQ0NjVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY337_.jpg" , Sting (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ4MWIxOGItZmE5ZS00NmZjLWFhZWMtMmM2NmZhNGQ0NjVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY337_.jpg" , Sting (2024 | FHD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdOLW1DNkNvZmdnZks0V1E_ZT1STnlWWmk/root/content
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ3NWM5NmUtMGIxMy00ZmExLTk3NTktMDQ0YzdjZTgzZmRlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UY480_.jpg" , Ghostbusters: Frozen Empire (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ3NWM5NmUtMGIxMy00ZmExLTk3NTktMDQ0YzdjZTgzZmRlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UY480_.jpg" , Ghostbusters: Frozen Empire (2024 | 4K)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllEX1kwcmx3bnowQm1mVHc_ZT13WFBHbW0/root/content
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY759_.jpg" , Abigail (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY759_.jpg" , Abigail (2024 | FHD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllFZ1FoclNUbWZWX3NHdmc_ZT1MYWJUOFU/root/content
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0YWM3MTUtNjc2MS00ZTg0LWE1ZDAtZDE1ZmE0ZWJkZjhjXkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_FMjpg_UY708_.jpg" , Chief of Station (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0YWM3MTUtNjc2MS00ZTg0LWE1ZDAtZDE1ZmE0ZWJkZjhjXkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_FMjpg_UY708_.jpg" , Chief of Station (2024 | FHD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllGOEdneUV2XzdvcmhRN1E_ZT1adHd0VHM/root/content
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3YzkyMjMtODc2Ny00ZmQwLTg1NmEtOTlmNjZjMjZhMjNiXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_FMjpg_UY720_.jpg" , Justice League: Crisis on Infinite Earths - Part Two (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3YzkyMjMtODc2Ny00ZmQwLTg1NmEtOTlmNjZjMjZhMjNiXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_FMjpg_UY720_.jpg" , Justice League: Crisis on Infinite Earths - Part Two (2024 | FHD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllHR3hoV0hoWl9ocWhJVlE_ZT1jaUV3ZEQ/root/content
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRkYzY5ZWQtNDYwYS00ZjliLTg4MjUtMTU3NjFiNWU5Y2YwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY474_.jpg" , Love Lies Bledding (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRkYzY5ZWQtNDYwYS00ZjliLTg4MjUtMTU3NjFiNWU5Y2YwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY474_.jpg" , Love Lies Bledding (2024 | 4K)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclZoVnFpUjZQYTJXSzRPZnc_ZT1qM0d1M0E/root/content
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIzN2FhN2ItNTYxMC00M2Q3LThiNGMtOWRjYjE5MDY4MjFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY576_.jpg" , Mother of the Bride (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIzN2FhN2ItNTYxMC00M2Q3LThiNGMtOWRjYjE5MDY4MjFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY576_.jpg" , Mother of the Bride (2024 | FHD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclY5cEJPQVBOSDd2OWZjYnc_ZT1VRFJkSTA/root/content
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UY337_.jpg" , The Ministry of Ungentlemanly Warfare (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UY337_.jpg" , The Ministry of Ungentlemanly Warfare (2024 | FHD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllDZC1EQ2FKTEE2a2ZTeHc_ZT1CWEU3Ymc/root/content
 
 #EXTINF:-1, tvg-group="The Cleaning Lady" group-title="The Cleaning Lady" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFlZmMxNGMtMzkxOC00ZTZjLTliMDItN2Q1MjVmZjY4ZjYxXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_QL75_UX500_CR0,172,500,281_.jpg" , S3.E10 ∙ Smoke and Mirrors
