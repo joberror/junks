@@ -1,13 +1,16 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QwOGE2NGQtMWQwNi00M2IzLThlNWItYWMzNGQ5YWNiZDA4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UY720_.jpg" , Godzilla x Kong: The New Empire (2024)
-https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmdJTkZ5WXdOU2xpS0plUXc_ZT1CMGNtRHo/root/content
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-fall-guy/images/regions/us/onesheet.jpg" , The Fall Guy.2024.FHD
+https://solar03.chiheisen.app/1001668642645/22532
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlODVjMzgtZGM1Yi00MWMwLTkyYTQtMzJlZjQ4MDgwYzg4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY506_.jpg" , Monkey Man (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://fanboyfactor.com/wp-content/uploads/2024/03/boy-kills-world-Boy-Kills-World-final-payoff-poster_rgb-1024x1517.jpg" , Boy Kills World.2023.FHD
+https://solar01.chiheisen.app/1001668642645/22530
+
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlODVjMzgtZGM1Yi00MWMwLTkyYTQtMzJlZjQ4MDgwYzg4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY506_.jpg" , Monkey Man.2024.FHD
 https://solar08.chiheisen.app/1001668642645/18337
 
-#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY474_.jpg" , Challengers (2024)
+#EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY474_.jpg" , Challengers.2024.FHD
 https://solar01.chiheisen.app/1001668642645/18310
 
 #EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ4MWIxOGItZmE5ZS00NmZjLWFhZWMtMmM2NmZhNGQ0NjVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY337_.jpg" , Sting (2024)
