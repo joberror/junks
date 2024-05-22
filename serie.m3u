@@ -1,1 +1,65 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, tvg-group="The Cleaning Lady" group-title="The Cleaning Lady" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFlZmMxNGMtMzkxOC00ZTZjLTliMDItN2Q1MjVmZjY4ZjYxXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_QL75_UX500_CR0,172,500,281_.jpg" , S3.E10 ∙ Smoke and Mirrors
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdQc1BBVGlOX09BYzY1Znc_ZT1oYzloR0o/root/content
+
+#EXTINF:4500, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3OGQ0YzMtMDFlYi00ZmQ2LTk4ZDctZTdhMTRlNDM2ZDliXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR1,0,500,281_.jpg" , S1.E1 ∙ The End
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclo3dzJlbmxfaThsaW82eVE_ZT1XQnpIVno/root/content
+
+#EXTINF:3960, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI4NTIyODgtODUyMC00ODliLWIxMWQtYTBlYmI4YzZmMmQxXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E2 ∙ The Target
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclo4b2RkT25RZTNxeGpsSmc_ZT1PaVp6ZDc/root/content
+
+#EXTINF:3420, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMyZjI1NTItMDRmOS00MzBjLWI2ZWEtNDZhNjI0MmI2NWViXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E3 ∙ The Head
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclo5VUU2b09yajhlZ2VqRnc_ZT1QSTMzZ0o/root/content
+
+#EXTINF:2940, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzk4YzYwM2QtOGUyYS00Mzk1LThhZjUtNDE2ZTIyZDcwOGEwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E4 ∙ The Ghouls
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclotQnE2WlZFeFlGVlFqY1E_ZT1FWmhKZDc/root/content
+
+#EXTINF:2760, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM0ZjI5MWEtN2RlMS00YmIxLTlkMjktZGY2NWMyOGI0MmVjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E5 ∙ The Past
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9nclpfb2dDR1lELXhvQTFrM3c_ZT1NQTRienk/root/content
+
+#EXTINF:3660, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI0NmViMmUtZTY0Ny00MjBmLTliNTAtZGNhMzAyYjc3ODcwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E6 ∙ The Trap
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmNBbklrQWVQOENmUlVMVnc_ZT1VQ0RBVlE/root/content
+
+#EXTINF:3720, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MzNmY5ZjAtZmUxNi00OTljLWI2ODAtYTU2MzIyZjY5MzFjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E7 ∙ The Radio
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmNCR0hqclk1VW12QnI2Rmc_ZT1ZRmZIdHE/root/content
+
+#EXTINF:3780, tvg-group="Fallout" group-title="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FlOGIyZDAtYzAwYy00ZWE4LTk4NzUtZjM0NmY3MTJmMWVjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E8 ∙ The Beginning
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmNDSEhxd2pZSXVjbUY4dUE_ZT1KSHdSbFI/root/content
+
+#EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVjZWViYTktNDQ2NS00YzdlLWI3MTUtOWUwMTJlOTJkOWY3XkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_QL75_UY281_CR0,0,500,281_.jpg" , S1.E1 ∙ Are You Happy in Your Life?
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclYxY2V3RThNc2JUN1gyeHc_ZT1sTnlBNWk/root/content
+
+#EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVmMzlhNzItNzEyNC00ZjcxLWIxYTQtOTVlNjAzMTVmNjU2XkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E2 ∙ Trip of a Lifetime
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclYyRzFRQVYwekZQTWticlE_ZT15ZnZ6bWQ/root/content
+
+#EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRjZTQ0ODYtOWViNC00ZjAwLWJkYmEtM2IzMGFhOWM1YzUxXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E3 ∙ The Box
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdRcHlFN1ZiOGVvc1BjRkE_ZT1HZmcyWFQ/root/content
+
+#EXTINF:-1, tvg-group="Doctor Who (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM0YWQ0MDAtZWJkYy00YjkwLTgxYTgtOTNjYTdiNjc1ZjQ4XkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_QL75_UX500_CR0,26,500,281_.jpg" , S1.E1 ∙ Space Babies
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllJNUxjeWg4R0FpY3RTUUE_ZT1YZmhMSHI/root/content
+
+#EXTINF:-1, tvg-group="Doctor Who (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE5YzlmMTQtZmNmOC00Y2M3LTkxNWEtZWVlYzFmYTU1ZTczXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E2 ∙ The Devil's Chord
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllIcldva2pRWXB0MTBNbHc_ZT04R05ld2o/root/content
+
+#EXTINF:-1, tvg-group="Doctor Who (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlMGQ3MWItNGQxZC00YmY2LTkxNWUtZjkwZTI0NDkwOWNjXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_QL75_UX500_CR0,26,500,281_.jpg" , S1.E3 ∙ Boom
+https://solar09.chiheisen.app/1001668642645/19338
+
+#EXTINF:2820, tvg-group="Under the Bridge" group-title="Under the Bridge" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZmNTM4ZTQtYzJmYy00ODc5LWFlODgtY2U5MzExZGFkZWYwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E1 ∙ Looking Glass
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdUaWpFU0hJa29LcEZsanc_ZT1JVXVnc0Q/root/content
+
+#EXTINF:2820, tvg-group="Under the Bridge" group-title="Under the Bridge" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEzMjBiNTMtYTY0Yi00OTMxLTlhMDctNzIyNDBjMGI4MmVhXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E2 ∙ The John Gotti of Seven Oaks
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmdVcGx0TXo2Vno5UkRtRHc_ZT1NbDBDalE/root/content
+
+#EXTINF:2760, tvg-group="Under the Bridge" group-title="Under the Bridge" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE0OTU3NTgtMWMwZC00YTc3LTliMjEtZDcyZTQzMjE0NGU3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E3 ∙ Blood Oath
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdWT0tMemptb284X3Nicmc_ZT1vb2NabE0/root/content
+
+#EXTINF:2100, tvg-group="Under the Bridge" group-title="Under the Bridge" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY2MWI0NGUtZmViMC00ODUxLTk2MjMtNWY0YTIyMzcyYzBmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E4 ∙ Beautiful British Columbia
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncmdZN0I4cE1CZUFDZkVJSmc_ZT16eWd4VXI/root/content
+
+#EXTINF:2760, tvg-group="Under the Bridge" group-title="Under the Bridge" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk2MzlkYWYtZDE0NC00ZTVkLTlmNmQtYmM4ZjU4MDVkM2Y2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UY281_CR0,0,500,281_.jpg" , S1.E5 ∙ When the Heat Comes Down
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdXT1pac3VCd0JRQ1Z6Y2c_ZT15SlZkVEo/root/content
+
+#EXTINF:2880, tvg-group="Under the Bridge" group-title="Under the Bridge" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRlZjE1MTMtNTI5MC00ZmZlLThiMGMtZjM5NTcxODE3ZDZiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX500_CR0,0,500,281_.jpg" , S1.E6 ∙ In Water They Sink as the Same
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdYZkxZVWpJeHZ4eFpLY3c_ZT1leFN1dWk/root/content
