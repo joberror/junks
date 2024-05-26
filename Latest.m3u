@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:6540, tvg-group="Movies" tvg-logo="https://walter.trakt.tv/images/movies/000/745/438/posters/thumb/87df131090.jpg" , Civil War (2024 | FHD)
+https://solar01.chiheisen.app/1001668642645/28800
+
 #EXTINF:7560, tvg-group="Movies" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-fall-guy/images/regions/us/onesheet.jpg" , The Fall Guy (2024 | FHD)
 https://solar03.chiheisen.app/1001668642645/22532
 
