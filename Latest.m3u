@@ -106,6 +106,9 @@ https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5V
 #EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/011/455/816/screenshots/thumb/b65f2cb49b.jpg" , S1.E4 ∙ The Corridor
 https://solar02.chiheisen.app/1001668642645/23641
 
+#EXTINF:3300, tvg-group="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vBAi4tIHSYLiEBL3L1XGIublBNf.jpg" , S1.E5 ∙ Worldless
+https://solar07.chiheisen.app/1001668642645/32736
+
 
 #EXTINF:-1, tvg-group="Doctor Who (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/011/058/282/screenshots/thumb/09e02b42a7.jpg" , S1.E1 ∙ Space Babies
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllJNUxjeWg4R0FpY3RTUUE_ZT1YZmhMSHI/root/content
@@ -140,6 +143,9 @@ https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5V
 
 #EXTINF:2880, tvg-group="Under the Bridge" tvg-logo="https://walter.trakt.tv/images/episodes/011/605/690/screenshots/thumb/4d655b0cad.jpg" , S1.E7 ∙ Three and Seven
 https://solar01.chiheisen.app/1001668642645/23800
+
+#EXTINF:3660, tvg-group="Under the Bridge" tvg-logo="https://media.themoviedb.org/t/p/w160_and_h90_bestv2/amBkCowd01BDLVONY5bQeIpmmlm.jpg" , S1.E8 ∙ Mercy Alone
+https://solar08.chiheisen.app/1001668642645/32727
 
 
 #EXTINF:4500, tvg-group="Fallout" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3OGQ0YzMtMDFlYi00ZmQ2LTk4ZDctZTdhMTRlNDM2ZDliXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR1,0,500,281_.jpg" , S1.E1 ∙ The End
