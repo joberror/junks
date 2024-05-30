@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:5520, tvg-group="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKrDLfQX30tHaTIC2ZRAxG2PbQw.jpg" , Die Hart 2: Die Harter (2024 | FHD)
+https://solar07.chiheisen.app/1001668642645/34816
+
 #EXTINF:7140, tvg-group="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg" , The First Omen (2024 | FHD)
 https://solar01.chiheisen.app/1001668642645/31900
 
