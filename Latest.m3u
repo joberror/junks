@@ -60,6 +60,12 @@ https://solar09.chiheisen.app/1001668642645/28828
 
 
 
+#EXTINF:2580, tvg-group="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mRTfJIndlEDIpMcqPV197bjE3hL.jpg" , S1.E1 ∙ Lost / Found
+https://solar10.chiheisen.app/1001668642645/42689
+#EXTINF:2340, tvg-group="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jgatFphs94GDnedZIz5vwtdRaHi.jpg" , S1.E2 ∙ Revenge / Justice
+https://solar01.chiheisen.app/1001668642645/42690
+
+
 #EXTINF:3180, tvg-group="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg" , S1.E1 ∙ Episode 1 
 https://solar09.chiheisen.app/1001668642645/37848
 #EXTINF:3360, tvg-group="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/k1JnFXNOayiPwyTGXhVWxSEnWRj.jpg" , S1.E2 ∙ Episode 2
@@ -76,7 +82,7 @@ https://solar01.chiheisen.app/1001668642645/37850
 
 #EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/004/637/060/screenshots/thumb/5ba17fcf9a.jpg" , S1.E1 ∙ Are You Happy in Your Life?
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclYxY2V3RThNc2JUN1gyeHc_ZT1sTnlBNWk/root/content
-#EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/006/997/942/screenshots/thumb/e861028880.jpg" , S1.E2 ∙ Trip of a Lifetime
+#EXTINF:3240, tvg-group="Dark Matter (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/006/997/942/screenshots/thumb/e861028880.jpg" , S1.E2 ∙ Trip of a Lifetime
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9nclYyRzFRQVYwekZQTWticlE_ZT15ZnZ6bWQ/root/content
 #EXTINF:-1, tvg-group="Dark Matter (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/006/997/946/screenshots/thumb/323fd26261.jpg" , S1.E3 ∙ The Box
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdRcHlFN1ZiOGVvc1BjRkE_ZT1HZmcyWFQ/root/content
@@ -84,6 +90,8 @@ https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5V
 https://solar02.chiheisen.app/1001668642645/23641
 #EXTINF:3300, tvg-group="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vBAi4tIHSYLiEBL3L1XGIublBNf.jpg" , S1.E5 ∙ Worldless
 https://solar07.chiheisen.app/1001668642645/32736
+#EXTINF:3240, tvg-group="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/32NIhjkDZ4i187s3MglV77ZGUcF.jpg" , S1.E6 ∙ Superposition
+https://solar08.chiheisen.app/1001668642645/42687
 
 
 #EXTINF:-1, tvg-group="Doctor Who (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/011/058/282/screenshots/thumb/09e02b42a7.jpg" , S1.E1 ∙ Space Babies
