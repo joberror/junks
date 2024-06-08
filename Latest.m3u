@@ -1,6 +1,10 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:5460, tvg-group="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdFZoQDxLRRWXLB3kxCnc674dBF.jpg" , The Strangers: Chapter 1 (2024 | FHD)
+https://solar08.chiheisen.app/1001668642645/45697
+#EXTINF:6900, tvg-group="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg" , Hit Man (2024 | FHD)
+https://solar07.chiheisen.app/1001668642645/45696
 #EXTINF:5520, tvg-group="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKrDLfQX30tHaTIC2ZRAxG2PbQw.jpg" , Die Hart 2: Die Harter (2024 | FHD)
 https://solar07.chiheisen.app/1001668642645/34816
 #EXTINF:7140, tvg-group="Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg" , The First Omen (2024 | FHD)
@@ -16,7 +20,7 @@ https://solar08.chiheisen.app/1001668642645/26657
 #EXTINF:6900, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4YTk4NzQtYzdlYS00MDQwLTlhYzMtMGU0MzQ1MGNiNjlmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg" , Breath of Life (2023 | FHD)
 https://solar02.chiheisen.app/1001668642645/26651
 #EXTINF:6600, tvg-group="Movies" tvg-logo="https://cdn.kinocheck.com/i/9vgr1uh988.jpg" , Godzilla x Kong: The New Empire (2024 | FHD)
-https://solar05.chiheisen.app/1001668642645/22564
+https://solar10.chiheisen.app/1001668642645/45699
 #EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlODVjMzgtZGM1Yi00MWMwLTkyYTQtMzJlZjQ4MDgwYzg4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY506_.jpg" , Monkey Man (2024 | FHD)
 https://solar08.chiheisen.app/1001668642645/18337
 #EXTINF:-1, tvg-group="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY474_.jpg" , Challengers (2024 | FHD)
@@ -59,6 +63,8 @@ https://solar01.chiheisen.app/1001668642645/28830
 https://solar09.chiheisen.app/1001668642645/28828
 
 
+#EXTINF:3600, tvg-group="Power Book II: Ghost" tvg-logo="https://walter.trakt.tv/images/shows/000/158/091/fanarts/thumb/fe114ad8a7.jpg.webp" , S4.E1 ∙ I Don't Die Easy
+https://solar06.chiheisen.app/1001668642645/45695
 
 #EXTINF:2580, tvg-group="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mRTfJIndlEDIpMcqPV197bjE3hL.jpg" , S1.E1 ∙ Lost / Found
 https://solar10.chiheisen.app/1001668642645/42689
