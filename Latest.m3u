@@ -77,11 +77,17 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6669178e79f8a8192302cd3f
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640740d00b6c843c323f24
 
 
+#EXTINF:2700, tvg-group="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg" group-title="Presumed Innocent", S1.E1 ∙ Bases Loaded
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666a4fac12415009e874fd24
+#EXTINF:2580, tvg-group="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aZtruAnHmjBoxcKqmq1SDPbgImM.jpg" group-title="Presumed Innocent", S1.E2 ∙ People vs. Rozat Sabich
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666a4fac12415009e874fd22
+
+
 #EXTINF:2580, tvg-group="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mRTfJIndlEDIpMcqPV197bjE3hL.jpg" , S1.E1 ∙ Lost / Found
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666406b6d00b6c843c323f22
 #EXTINF:2340, tvg-group="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jgatFphs94GDnedZIz5vwtdRaHi.jpg" , S1.E2 ∙ Revenge / Justice
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666406b6d00b6c843c323f23
-#EXTINF:2640, tvg-group="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nXNMktM90svjlXGeIG8Uq0qWZQz.jpg" , S1.E2 ∙ Destiny
+#EXTINF:2640, tvg-group="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nXNMktM90svjlXGeIG8Uq0qWZQz.jpg" , S1.E3 ∙ Destiny
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66690dcf79f8a8192302cd38
 
 
@@ -111,7 +117,8 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640645d00b6c843c323f21
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666404ded00b6c843c323f16
 #EXTINF:3240, tvg-group="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/32NIhjkDZ4i187s3MglV77ZGUcF.jpg" , S1.E6 ∙ Superposition
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666404ded00b6c843c323f17
-
+#EXTINF:3060, tvg-group="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/2KHUbO3DrLjtoHzX2o1sbPm22yz.jpg" , S1.E7 ∙ In the Fires of Dead Stars
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666a4fac12415009e874fd23
 
 #EXTINF:-1, tvg-group="Doctor Who (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/011/058/282/screenshots/thumb/09e02b42a7.jpg" , S1.E1 ∙ Space Babies
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllJNUxjeWg4R0FpY3RTUUE_ZT1YZmhMSHI/root/content
