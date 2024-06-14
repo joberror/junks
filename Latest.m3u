@@ -1,6 +1,10 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:6000, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5HkiHTR7PJCC9Z1wHWpiV4nqqu.jpg" , I Saw the TV Glow (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666c38019b1039af84481a52
+#EXTINF:5580, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2sADrLwMQof6yYmrJRSa04tFZuS.jpg" , Winnie-the-Pooh: Blood and Honey 2 (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666b7cafb3b2fb08abbb54f8
 #EXTINF:5460, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdFZoQDxLRRWXLB3kxCnc674dBF.jpg" , The Strangers: Chapter 1 (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401bdd00b6c843c323ef5
 #EXTINF:6900, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg" , Hit Man (2024 | FHD)
