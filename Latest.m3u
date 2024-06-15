@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:7020, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLlztG7W0fUH0ePO5sB3JqCUduS.jpg" , Ultraman: Rising (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666ce2c69b1039af84481ac8
 #EXTINF:6000, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5HkiHTR7PJCC9Z1wHWpiV4nqqu.jpg" , I Saw the TV Glow (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666c38019b1039af84481a52
 #EXTINF:5580, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2sADrLwMQof6yYmrJRSa04tFZuS.jpg" , Winnie-the-Pooh: Blood and Honey 2 (2024 | FHD)
@@ -77,8 +79,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6669178e79f8a8192302cd3f
 
 
 
-#EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://walter.trakt.tv/images/shows/000/158/091/fanarts/thumb/fe114ad8a7.jpg" , S4.E1 ∙ I Don't Die Easy
+#EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wGUlUbuLuvGVlaGWtnrsK0r3uWd.jpg" , S4.E1 ∙ I Don't Die Easy
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640740d00b6c843c323f24
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/c3eO410tEueqFt3WooxGDr9Ff5I.jpg" , S4.E2 ∙ To Thine Own Self
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666d83a4193a9085b55727b1
 
 
 #EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg" , S1.E1 ∙ Bases Loaded
@@ -134,6 +138,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640645d00b6c843c323f20
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640507d00b6c843c323f19
 #EXTINF:-1, group-title="Doctor Who (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/z5UBt6HubA1HxjD7LitaSU1HQd5.jpg" , S1.E5 ∙ Dot and Bubble
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640507d00b6c843c323f18
+#EXTINF:-1, group-title="Doctor Who (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i7B0XFvJZ7dYRfCLmNDFN8BNZUS.jpg" , S1.E6 ∙ Rogue
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666d8539193a9085b55727c7
+#EXTINF:-1, group-title="Doctor Who (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kpc62ogbSuxaOUFrqBlTuBWGx6s.jpg" , S1.E7 ∙ The Legend of Ruby Sunday (1)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666d8392193a9085b55727ac
 
 
 #EXTINF:2820, group-title="Under the Bridge" tvg-logo="https://walter.trakt.tv/images/episodes/006/894/834/screenshots/thumb/495e37fa44.jpg" , S1.E1 ∙ Looking Glass
