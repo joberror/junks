@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:6360, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg" , Trigger Warning (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6675e12df1f25ccc3a04d201
 #EXTINF:7020, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLlztG7W0fUH0ePO5sB3JqCUduS.jpg" , Ultraman: Rising (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666ce2c69b1039af84481ac8
 #EXTINF:6000, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5HkiHTR7PJCC9Z1wHWpiV4nqqu.jpg" , I Saw the TV Glow (2024 | FHD)
@@ -93,6 +95,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640740d00b6c843c323f24
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d0a3ef18d957feab3a3c
 #EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/c3eO410tEueqFt3WooxGDr9Ff5I.jpg" , S4.E2 ∙ To Thine Own Self [1080p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d0b6ef18d957feab3a3d
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://walter.trakt.tv/images/shows/000/158/091/fanarts/thumb/fe114ad8a7.jpg" , S4.E3 ∙ Birthright [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6675dff2f1f25ccc3a04d1fc
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://walter.trakt.tv/images/shows/000/158/091/fanarts/thumb/fe114ad8a7.jpg" , S4.E3 ∙ Birthright [1080p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6675e02cf1f25ccc3a04d1fd
 
 
 #EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg" , S1.E1 ∙ Bases Loaded [720p]
