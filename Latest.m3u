@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:5460, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRjY2VlYmQtM2FjMC00MzM5LWFhM2ItMzM5YTdkMDIyOGQzXkEyXkFqcGc@._V1_FMjpg_UY400_.jpg" , Funmilayo Ransome-Kuti (2024 | HD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66780d2b1e7f2f26a6f09bb6
 #EXTINF:6360, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg" , Trigger Warning (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6675e12df1f25ccc3a04d201
 #EXTINF:7020, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLlztG7W0fUH0ePO5sB3JqCUduS.jpg" , Ultraman: Rising (2024 | FHD)
@@ -179,6 +181,8 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66640507d00b6c843c323f18
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666d8539193a9085b55727c7
 #EXTINF:-1, group-title="Doctor Who (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kpc62ogbSuxaOUFrqBlTuBWGx6s.jpg" , S1.E7 ∙ The Legend of Ruby Sunday (1)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666d8392193a9085b55727ac
+#EXTINF:-1, group-title="Doctor Who (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/lXMIFOS3quD443HZgAq9BLb6scL.jpg" , S1.E8 ∙ Empire of Death (2)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6678108e1e7f2f26a6f09bbe
 
 
 #EXTINF:2820, group-title="Under the Bridge" tvg-logo="https://walter.trakt.tv/images/episodes/006/894/834/screenshots/thumb/495e37fa44.jpg" , S1.E1 ∙ Looking Glass
