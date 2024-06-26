@@ -2,9 +2,9 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | SEEDR)
-https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=ShcYqhOy4q6kbuy1KtjD_Q&e=1719398927
+https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=pkul8LuJ72lv4etUxCrdrw&e=1719503405
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | SEEDR)
-https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=qidvsv8eE5jRYvT6lV99mw&e=1719398966
+https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=dqMVX8vB1UqwDQVo0wbb2g&e=1719503439
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | FS)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0568e0322eb316c48482
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | FS)
@@ -128,6 +128,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666a4fac12415009e874fd22
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d054ef18d957feab3a37
 #EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dAqkXnWgTVaflC3WqiZNDoYRRfH.jpg" , S1.E3 ∙ Discovery [10800p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d044ef18d957feab3a36
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3O4aIMZjAgDo69qdU1MmISWKy1N.jpg" , S1.E4 ∙ The Burden [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae818
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3O4aIMZjAgDo69qdU1MmISWKy1N.jpg" , S1.E4 ∙ The Burden [10800p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae817
 
 
 #EXTINF:2580, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mRTfJIndlEDIpMcqPV197bjE3hL.jpg" , S1.E1 ∙ Lost / Found [720p]
@@ -146,6 +150,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66690dcf79f8a8192302cd38
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d011ef18d957feab3a33
 #EXTINF:2100, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ombxA88DsT1iP2xPwBYCTQsE7zR.jpg" , S1.E4 ∙ Day [10800p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d002ef18d957feab3a30
+#EXTINF:2100, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" , S1.E5 ∙ Night [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae819
+#EXTINF:2100, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" , S1.E5 ∙ Night [10800p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae81a
 
 
 #EXTINF:3180, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg" , S1.E1 ∙ Episode 1 
@@ -178,6 +186,8 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666404ded00b6c843c323f17
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666a4fac12415009e874fd23
 #EXTINF:3060, group-title="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/azRRjeuh603e2v4FBtiAgWiknc1.jpg" , S1.E8 ∙ Jupiter
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d063ef18d957feab3a38
+#EXTINF:3480, group-title="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fEXSSxETYrZsoIYffX6k4op79wK.jpg" , S1.E9 ∙ Entanglement
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c3945045e6fae491ae816
 
 
 #EXTINF:-1, group-title="Doctor Who (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/011/058/282/screenshots/thumb/09e02b42a7.jpg" , S1.E1 ∙ Space Babies
