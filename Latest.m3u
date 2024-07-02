@@ -2,14 +2,20 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | SEEDR)
-https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=pkul8LuJ72lv4etUxCrdrw&e=1719503405
+https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=fSnAYjK4pf--V4Ye-9xYsQ&e=1719978797
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | SEEDR)
-https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=dqMVX8vB1UqwDQVo0wbb2g&e=1719503439
+https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=BntRfZFal487WPk1EBDzsw&e=1719978747
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | FS)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0568e0322eb316c48482
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | FS)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0568e0322eb316c48483
 
+#EXTINF:6120, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hcs531VRASrBxcRR8cRbuuCXnZj.jpg" , The Watchers (2024 | HD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66837945a4839796174f1e3b
+#EXTINF:5640, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vo4dqLToKIwmYOc5aySH4SpN4k0.jpg" , In A Violent Nature (2024 | HD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e37
+#EXTINF:6840, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gqhH1Bc1SYfbRV9mFHyGRU37r9l.jpg" , A Family Affair (2024 | HD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e3a
 #EXTINF:5460, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRjY2VlYmQtM2FjMC00MzM5LWFhM2ItMzM5YTdkMDIyOGQzXkEyXkFqcGc@._V1_FMjpg_UY400_.jpg" , Funmilayo Ransome-Kuti (2024 | HD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncm9GLWhGV1ZCT1lsZ1plRVE_ZT1iYnpIc3Y/root/content
 #EXTINF:6360, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg" , Trigger Warning (2024 | FHD)
@@ -100,6 +106,11 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d087ef18d957feab3a3a
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0ad4e0322eb316c4848d
 #EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/plVChbDtiWCZowdqiKThSXZaWYa.jpg" , S2.E2 ∙ Rhaenyra the Cruel [1080p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0ad4e0322eb316c4848c
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4eFX6KvK36EdSxrT9PU9sflfWlr.jpg" , S2.E3 ∙ The Burning Mill [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e38
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4eFX6KvK36EdSxrT9PU9sflfWlr.jpg" , S2.E3 ∙ The Burning Mill [1080p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e39
+
 
 
 #EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wGUlUbuLuvGVlaGWtnrsK0r3uWd.jpg" , S4.E1 ∙ I Don't Die Easy [720p]
@@ -114,6 +125,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d0b6ef18d957feab3a3d
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6675dff2f1f25ccc3a04d1fc
 #EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://walter.trakt.tv/images/shows/000/158/091/fanarts/thumb/fe114ad8a7.jpg" , S4.E3 ∙ Birthright [1080p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6675e02cf1f25ccc3a04d1fd
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rdl6DFiTyU3PbFNNGj1lEscqYI1.jpg" , S4.E4 ∙ The Reckoning [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e36
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rdl6DFiTyU3PbFNNGj1lEscqYI1.jpg" , S4.E4 ∙ The Reckoning [1080p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e35
 
 
 #EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg" , S1.E1 ∙ Bases Loaded [720p]
