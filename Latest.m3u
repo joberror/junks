@@ -2,14 +2,23 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | SEEDR)
-https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=fSnAYjK4pf--V4Ye-9xYsQ&e=1719978797
+https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=rTF_t_e3g857xwlxu9ODZQ&e=1720221511
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | SEEDR)
-https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=BntRfZFal487WPk1EBDzsw&e=1719978747
+https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=jFHF_5RGgN_u0IOUVEytnA&e=1720221478
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | FS)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0568e0322eb316c48482
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | FS)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0568e0322eb316c48483
 
+
+#EXTINF:-1, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t5GM2kSZDSsv77z0H0S4fwhBvwb.jpg" , Space Cadet (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872d19ad9282b7e97f8a32
+#EXTINF:5760, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWaF9dThPUbaBK8TbDu1AROJydd.jpg" , Boneyard (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872c67ad9282b7e97f8a30
+#EXTINF:6420, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Cg4G1iQpisGXmWqns5uo4I6fPk.jpg" , Babes (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872c67ad9282b7e97f8a31
+#EXTINF:7080, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5OehGNBJUJeYrwMwtb2p0aXtpju.jpg" , Beverly Hills Cop: Axel F (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872c67ad9282b7e97f8a2f
 #EXTINF:6120, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hcs531VRASrBxcRR8cRbuuCXnZj.jpg" , The Watchers (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66837945a4839796174f1e3b
 #EXTINF:5640, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vo4dqLToKIwmYOc5aySH4SpN4k0.jpg" , In A Violent Nature (2024 | FHD)
@@ -42,8 +51,6 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401ced00b6c843c323efc
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401c2d00b6c843c323ef6
 #EXTINF:7200, group-title="Latest Movies" tvg-logo="https://s9.opensubtitles.com/features/8/1/9/1990918.jpg" , Atlas (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401bbd00b6c843c323ef3
-#EXTINF:6900, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4YTk4NzQtYzdlYS00MDQwLTlhYzMtMGU0MzQ1MGNiNjlmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg" , Breath of Life (2023 | FHD)
-https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401c8d00b6c843c323ef9
 #EXTINF:6600, group-title="Latest Movies" tvg-logo="https://cdn.kinocheck.com/i/9vgr1uh988.jpg" , Godzilla x Kong: The New Empire (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6663e57ad00b6c843c323eab
 #EXTINF:-1, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZlODVjMzgtZGM1Yi00MWMwLTkyYTQtMzJlZjQ4MDgwYzg4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY506_.jpg" , Monkey Man (2024 | FHD)
@@ -54,8 +61,6 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401c9d00b6c843c323efa
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncmdOLW1DNkNvZmdnZks0V1E_ZT1STnlWWmk/root/content
 #EXTINF:-1, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ3NWM5NmUtMGIxMy00ZmExLTk3NTktMDQ0YzdjZTgzZmRlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UY480_.jpg" , Ghostbusters: Frozen Empire (2024 | 4K)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllEX1kwcmx3bnowQm1mVHc_ZT13WFBHbW0/root/content
-#EXTINF:-1, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY759_.jpg" , Abigail (2024 | FHD)
-https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllFZ1FoclNUbWZWX3NHdmc_ZT1MYWJUOFU/root/content
 #EXTINF:-1, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0YWM3MTUtNjc2MS00ZTg0LWE1ZDAtZDE1ZmE0ZWJkZjhjXkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_FMjpg_UY708_.jpg" , Chief of Station (2024 | FHD)
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllGOEdneUV2XzdvcmhRN1E_ZT1adHd0VHM/root/content
 #EXTINF:-1, group-title="Latest Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3YzkyMjMtODc2Ny00ZmQwLTg1NmEtOTlmNjZjMjZhMjNiXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_FMjpg_UY720_.jpg" , Justice League: Crisis on Infinite Earths - Part Two (2024 | FHD)
@@ -68,24 +73,30 @@ https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5V
 https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbTNhcUJyT0l5VW9ncllDZC1EQ2FKTEE2a2ZTeHc_ZT1CWEU3Ymc/root/content
 #EXTINF:10020, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg" , Dune: Part Two (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400c6d00b6c843c323ee5
-#EXTINF:5580, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg" , Late Night with the Devil (2024 | FHD)
-https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400c6d00b6c843c323ee6
-#EXTINF:6960, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" , The Idea of You (2024 | FHD)
-https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400ced00b6c843c323ee9
-#EXTINF:6420, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg" , Arthur the King (2024 | FHD)
-https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400ced00b6c843c323eea
 #EXTINF:7380, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r4a3cO9Cc6GTLMeUR48gVqMb6jK.jpg" , Rebel Moon - Part Two: The Scargiver (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400c8d00b6c843c323ee8
 #EXTINF:7920, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg" , Shaitaan (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400c6d00b6c843c323ee4
 #EXTINF:5640, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xscMEP5VsvCLxFvrDQD84biWsLA.jpg" , Mothers' Instinct (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401bbd00b6c843c323ef4
-#EXTINF:5520, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg" , Arcadian (2024 | FHD)
-https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400ced00b6c843c323eeb
 #EXTINF:7200, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" , Asphalt City (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401bbd00b6c843c323ef1
-#EXTINF:5880, group-title="Latest Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xfurDAhrGzsOPx4Vb1BltqhIqhy.jpg" , Damaged (2024 | FHD)
+
+
+#EXTINF:-1, group-title="Early 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY759_.jpg" , Abigail (2024 | FHD)
+https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTNhcUJyT0l5VW9ncllFZ1FoclNUbWZWX3NHdmc_ZT1MYWJUOFU/root/content
+#EXTINF:6420, group-title="Early 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg" , Arthur the King (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400ced00b6c843c323eea
+#EXTINF:5520, group-title="Early 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg" , Arcadian (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400ced00b6c843c323eeb
+#EXTINF:5880, group-title="Early 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xfurDAhrGzsOPx4Vb1BltqhIqhy.jpg" , Damaged (2024 | FHD)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401bbd00b6c843c323ef2
+#EXTINF:6900, group-title="Early 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4YTk4NzQtYzdlYS00MDQwLTlhYzMtMGU0MzQ1MGNiNjlmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg" , Breath of Life (2023 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666401c8d00b6c843c323ef9
+#EXTINF:5580, group-title="Early 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg" , Late Night with the Devil (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400c6d00b6c843c323ee6
+#EXTINF:6960, group-title="Early 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" , The Idea of You (2024 | FHD)
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/666400ced00b6c843c323ee9
 
 
 
@@ -147,6 +158,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d044ef18d957feab3a36
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae818
 #EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3O4aIMZjAgDo69qdU1MmISWKy1N.jpg" , S1.E4 ∙ The Burden [10800p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae817
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jc5j12FrBuqWtWYaCSzbajW4mqQ.jpg" , S1.E5 ∙ Pregame [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872c30ad9282b7e97f8a2c
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jc5j12FrBuqWtWYaCSzbajW4mqQ.jpg" , S1.E5 ∙ Pregame [1080p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872c30ad9282b7e97f8a2e
 
 
 #EXTINF:2580, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mRTfJIndlEDIpMcqPV197bjE3hL.jpg" , S1.E1 ∙ Lost / Found [720p]
@@ -167,8 +182,12 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d011ef18d957feab3a33
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d002ef18d957feab3a30
 #EXTINF:2100, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" , S1.E5 ∙ Night [720p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae819
-#EXTINF:2100, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" , S1.E5 ∙ Night [10800p]
+#EXTINF:2100, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yciO9MBnZstxNWgWWbNztb77Z3w.jpg" , S1.E5 ∙ Night [1080p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667c39ab045e6fae491ae81a
+#EXTINF:2340, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/5UaIeS3LZJDupoMO44k03Tps3JC.jpg" , S1.E6 ∙ Teach/Corrupt [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872c30ad9282b7e97f8a2b
+#EXTINF:2340, group-title="The Acolyte" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/5UaIeS3LZJDupoMO44k03Tps3JC.jpg" , S1.E6 ∙ Teach/Corrupt [1080p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/66872c30ad9282b7e97f8a2d
 
 
 #EXTINF:3180, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg" , S1.E1 ∙ Episode 1 
