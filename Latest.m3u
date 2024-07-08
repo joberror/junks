@@ -1,10 +1,15 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:3240, group-title="Personal 👌" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fEU9QcbVAPhLWxyJ8iSouvXn8Gv.jpg" , Power Book II: Ghost . S04E05 - Ego Death
+https://nw17.seedr.cc/ff_get/5465640335/Power.Book.II.Ghost.S04E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=AfKsqEAunI962AVRkIAscQ&e=1720494244
+#EXTINF:3360, group-title="Personal 👌" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3PUDi380j8xIwJ3dMAext9kj2GR.jpg" , House Of The Dragon . S02E04 - The Red Dragon and the Gold
+https://rs21.seedr.cc/ff_get/5466349884/House.of.the.Dragon.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=J-SUO3KmMwCmeYwUSWkf4Q&e=1720494537
+
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | SEEDR)
-https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=rTF_t_e3g857xwlxu9ODZQ&e=1720221511
+https://nw11.seedr.cc/ff_get/5454137143/Furiosa.A.Mad.Max.Saga.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=vwiocewjcw5Z9Lce5qXScQ&e=1720494734
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | SEEDR)
-https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=jFHF_5RGgN_u0IOUVEytnA&e=1720221478
+https://nw13.seedr.cc/ff_get/5454138024/Furiosa.A.Mad.Max.Saga.2024.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=fzHzVEZPw5sn4uryYzMM-w&e=1720494717
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | FHD | FS)
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0568e0322eb316c48482
 #EXTINF:8940, group-title="Furiosa: A Mad Max Saga" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg" , Furiosa: A Mad Max Saga (2024 | HD | FS)
@@ -111,7 +116,6 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6669139779f8a8192302cd3e
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6669178e79f8a8192302cd3f
 
 
-
 #EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sFplF5Ya6irRVvMUInjE57fjO8Z.jpg" , S2.E1 ∙ A Son for a Son [720p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6672d095ef18d957feab3a3b
 #EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sFplF5Ya6irRVvMUInjE57fjO8Z.jpg" , S2.E1 ∙ A Son for a Son [1080p]
@@ -124,7 +128,10 @@ https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/667a0ad4e0322eb316c4848c
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e38
 #EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4eFX6KvK36EdSxrT9PU9sflfWlr.jpg" , S2.E3 ∙ The Burning Mill [1080p]
 https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/6683793ea4839796174f1e39
-
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3PUDi380j8xIwJ3dMAext9kj2GR.jpg" , S2.E4 ∙ The Red Dragon and the Gold [720p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/668b59df4df455d8dfa71443
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3PUDi380j8xIwJ3dMAext9kj2GR.jpg" , S2.E4 ∙ The Red Dragon and the Gold [1080p]
+https://filestreamv-3a8ca3c831d7.herokuapp.com/dl/668b59df4df455d8dfa71444
 
 
 #EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wGUlUbuLuvGVlaGWtnrsK0r3uWd.jpg" , S4.E1 ∙ I Don't Die Easy [720p]
