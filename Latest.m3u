@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="Movies 📽️🎥🍿" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0cL64iYeKYAYUBFupLgtxDXaVt.jpg" , Rebel Ridge (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66df59f718a90d64bdffc6af
 #EXTINF:-1, group-title="Movies 📽️🎥🍿" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mmdBbXCs85JxxKyG664KI46rdC3.jpg" , Inside Out 2 (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c8ad3d2be482698fbeba67
 #EXTINF:-1, group-title="Movies 📽️🎥🍿" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vHiWN1A6O1pZdKSL6D44OQFWC6y.jpg" , Crescent City (2024 | 1080P)
@@ -24,19 +26,23 @@ https://directlink.public-l.workers.dev/dl/66d54a1553ff0d15c68cd062
 
 
 
-#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/m5VBUJvssOrpgL9s4pu4Lzb4lgF.jpg" , Chapter One
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/m5VBUJvssOrpgL9s4pu4Lzb4lgF.jpg" , Emperor of Ocean Park: Chapter One
 https://directlink.public-l.workers.dev/dl/66c61c41e8ed5382ca4e9e12
-#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/l8RHGebTFwg3YRD3KPK8LCnboke.jpg" , Chapter Two
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/l8RHGebTFwg3YRD3KPK8LCnboke.jpg" , Emperor of Ocean Park: Chapter Two
 https://directlink.public-l.workers.dev/dl/66c6ed8a2dadd3a95875973d
-#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/siT0XHVefYGDhzoxflDc7QeWYVy.jpg" , Chapter Three
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/siT0XHVefYGDhzoxflDc7QeWYVy.jpg" , Emperor of Ocean Park: Chapter Three
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a958759740
-#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xMkw62g0ZO8ttWQcqtecT5O1WXE.jpg" , Chapter Four
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xMkw62g0ZO8ttWQcqtecT5O1WXE.jpg" , Emperor of Ocean Park: Chapter Four
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a95875973f
-#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aD3nKPEwx5juRyBnNyucmjUrnJL.jpg" , Chapter Five
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aD3nKPEwx5juRyBnNyucmjUrnJL.jpg" , Emperor of Ocean Park: Chapter Five
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a958759741
-#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mLaw1FkbfHHPIZXJm98vAg35TWW.jpg" , Chapter Six
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mLaw1FkbfHHPIZXJm98vAg35TWW.jpg" , Emperor of Ocean Park: Chapter Six
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a958759745
-#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ewRE9jeWkOsEUx8Zks7PG9sWtte.jpg" , Chapter Seven
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ewRE9jeWkOsEUx8Zks7PG9sWtte.jpg" , Emperor of Ocean Park: Chapter Seven
 https://directlink.public-l.workers.dev/dl/66cc69b4f3a51f1fc5eaa348
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eekzOh4qBUZovssbs7dYgegWLIA.jpg" , Emperor of Ocean Park: Chapter Eight
+https://directlink.public-l.workers.dev/dl/66df5a1718a90d64bdffc6b2
+#EXTINF:-1, group-title="Emperor of Ocean Park 👥" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1VWpT71ksbO9gm5NpoRYO8Ol91D.jpg" , Emperor of Ocean Park: Chapter Nine
+https://directlink.public-l.workers.dev/dl/66df5a1718a90d64bdffc6b1
 
 
