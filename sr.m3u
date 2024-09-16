@@ -1,6 +1,20 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jpHS648BqBDBEdZmj0IufrwaOf1.jpg" , Nightsleeper | S1.E1
+https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afb7
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pvJ5hCjt7LCDZF0F2V5Z9gDBqVx.jpg" , Nightsleeper | S1.E2
+https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afb8
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9DS4MDmo2WZgn90oMwGWeC9r8vD.jpg" , Nightsleeper | S1.E3
+https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afba
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eCNEixw0fB5OPv4Q96NpKCZawfm.jpg" , Nightsleeper | S1.E4
+https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afbb
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4BfW0E2r2434GdBbwFz4ImAgnx1.jpg" , Nightsleeper | S1.E5
+https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afb9
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/krD0Q61jU6DJl7zXenJvKnuo8Wd.jpg" , Nightsleeper | S1.E6
+https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afbc
+
+
 #EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kaHM1CTVHhv5jnfPvUgIMmil8LD.jpg" , Fight Night: The Million Dollar Heist | S1.E1 - The Ballad of Chicken Man
 https://directlink.public-l.workers.dev/dl/66df6fd218a90d64bdffc6bd
 #EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/baLr5eRLIRILNdInw6V8JkYRTZ9.jpg" , Fight Night: The Million Dollar Heist | S1.E2 - Fight Night
@@ -9,6 +23,7 @@ https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b9
 https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b8
 #EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8xAg26w5Ukd13dvfv8URuZs0x5X.jpg" , Fight Night: The Million Dollar Heist | S1.E4 - Real Policework
 https://directlink.public-l.workers.dev/dl/66e3fab8a6f81c9212b5317d
+
 
 #EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/m5VBUJvssOrpgL9s4pu4Lzb4lgF.jpg" , Emperor of Ocean Park: Chapter One
 https://directlink.public-l.workers.dev/dl/66c61c41e8ed5382ca4e9e12
@@ -28,6 +43,8 @@ https://directlink.public-l.workers.dev/dl/66cc69b4f3a51f1fc5eaa348
 https://directlink.public-l.workers.dev/dl/66df5a1718a90d64bdffc6b2
 #EXTINF:-1, group-title="Emperor of Ocean Park " tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1VWpT71ksbO9gm5NpoRYO8Ol91D.jpg" , Emperor of Ocean Park: Chapter Nine
 https://directlink.public-l.workers.dev/dl/66df5a1718a90d64bdffc6b1
+#EXTINF:-1, group-title="Emperor of Ocean Park " tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kRMFjOpPEKeOXVZQw6W7jhq6dbi.jpg" , Emperor of Ocean Park: Chapter Ten
+https://directlink.public-l.workers.dev/dl/66e8303cdfa0e059f6b8afb5
 
 
 #EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sFplF5Ya6irRVvMUInjE57fjO8Z.jpg" , House Of The Dragon | S2.E1 ∙ A Son for a Son . HD
@@ -60,7 +77,7 @@ https://directlink.public-l.workers.dev/dl/66e400dca6f81c9212b53197
 https://directlink.public-l.workers.dev/dl/66e400dca6f81c9212b53196
 
 
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg" , S1.E1 ∙  Rise or Die 
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg" , S1.E1 ∙  Rise or Die
 https://directlink.public-l.workers.dev/dl/66e3f60aa6f81c9212b53152
 #EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6H922s5XmSuslOyCWfet8bLHg3L.jpg" , S1.E2 ∙  Trust None
 https://directlink.public-l.workers.dev/dl/66e3f60aa6f81c9212b5314e
@@ -191,7 +208,7 @@ https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319b
 https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319d
 
 
-#EXTINF:3180, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg" , Eric | S1.E1 ∙ Episode 1 
+#EXTINF:3180, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg" , Eric | S1.E1 ∙ Episode 1
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66b7
 #EXTINF:3360, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/k1JnFXNOayiPwyTGXhVWxSEnWRj.jpg" , Eric | S1.E2 ∙ Episode 2
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66b6
