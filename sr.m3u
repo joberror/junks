@@ -1,6 +1,10 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4uI8P52KK6PyguW1zpL0NG2EGP0.jpg" , High Potential | S1.E1 - Pilot
+https://www.filestream.linkpc.net/dl/66eb4b9881ccf46a369d5a3d
+
+
 #EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jpHS648BqBDBEdZmj0IufrwaOf1.jpg" , Nightsleeper | S1.E1
 https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afb7
 #EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pvJ5hCjt7LCDZF0F2V5Z9gDBqVx.jpg" , Nightsleeper | S1.E2

@@ -1,6 +1,20 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="Slingshot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/80zdgev0Uw1X52ouP79GJRr5fdQ.jpg" , Slingshot (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66eae6d9aa78b26fed62b649
+#EXTINF:-1, group-title="Blink Twice" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xnPtCOyyaeG8jD4Bsj57hoK4lJA.jpg" , Blink Twice (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66eae6d8aa78b26fed62b644
+#EXTINF:-1, group-title="Afraid" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg" , Afraid (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66eae6d9aa78b26fed62b648
+#EXTINF:-1, group-title="The Invisibles" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxHYWpoZxRbKZuCNvIj5mPb9bVO.jpg" , The Invisibles (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66eae6d8aa78b26fed62b643
+#EXTINF:-1, group-title="Cuckoo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iWutSB1trhqcgPCBoAdP732oI6b.jpg" , Cuckoo (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66eae6d9aa78b26fed62b645
+#EXTINF:-1, group-title="1992" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tp3FR7V0omA8iB6P0uF7zPLdbi.jpg" , 1992 (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66eae6d8aa78b26fed62b642
+#EXTINF:-1, group-title="Mulholland Drive" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6O9xIMiVL4J3wUbutwWQWSWbXO.jpg" , Mulholland Drive (2001 | Remastered | 1080P)
+https://directlink.public-l.workers.dev/dl/66eae6b2aa78b26fed62b640
 #EXTINF:-1, group-title="Uglies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/og1SH6we0UQx5XNIDSfxDD4S1Sp.jpg" , Uglies (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66e63c89a52ad423ffde66c5
 #EXTINF:-1, group-title="The Crow" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AqchrmqqSCsEvhuinXgFXTD8q83.jpg" , The Crow (2024 | 1080P)
