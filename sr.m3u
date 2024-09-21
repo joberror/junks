@@ -1,8 +1,12 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ecX4IMGRlKwyq5eZd5sjPxtUTaT.jpg" , The Penguin | S1.E1 - After Hours
+https://directlink.public-l.workers.dev/dl/66ef4bbb5a776c72c05095f3
+
+
 #EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4uI8P52KK6PyguW1zpL0NG2EGP0.jpg" , High Potential | S1.E1 - Pilot
-https://www.filestream.linkpc.net/dl/66eb4b9881ccf46a369d5a3d
+https://directlink.public-l.workers.dev/dl/66ef4d9f5a776c72c05095fb
 
 
 #EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jpHS648BqBDBEdZmj0IufrwaOf1.jpg" , Nightsleeper | S1.E1
@@ -27,6 +31,8 @@ https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b9
 https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b8
 #EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8xAg26w5Ukd13dvfv8URuZs0x5X.jpg" , Fight Night: The Million Dollar Heist | S1.E4 - Real Policework
 https://directlink.public-l.workers.dev/dl/66e3fab8a6f81c9212b5317d
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/71hvxuwQ2qa2tBNrhpmKdmGgUe0.jpg" , Fight Night: The Million Dollar Heist | S1.E5 - Ambition Ain't Free
+https://directlink.public-l.workers.dev/dl/66ef4bcd5a776c72c05095f5
 
 
 #EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/m5VBUJvssOrpgL9s4pu4Lzb4lgF.jpg" , Emperor of Ocean Park: Chapter One
@@ -129,6 +135,8 @@ https://directlink.public-l.workers.dev/dl/66e3f3f0a6f81c9212b53149
 https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b7
 #EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xksYi4qnK6hsIydsEAfGKJnnvgR.jpg" , Power Book II: Ghost | S4.E7 - I Can't Fix This . FHD
 https://www.filestream.linkpc.net/dl/66e63b759cb32dd56a829466
+#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qaVrxcCwUT2Ug4iZkKRQPs3Xtkg.jpg" , Power Book II: Ghost | S4.E8 - Higher Calling . FHD
+https://directlink.public-l.workers.dev/dl/66ef4be95a776c72c05095f7
 
 
 #EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg" , Presumed Innocent | S1.E1 ∙ Bases Loaded . HD

@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+
+#EXTINF:-1, group-title="Omni Loop" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKrwq3HeyFcl5MXb7tcsileoF9I.jpg" , Omni Loop (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66ef4c4e5a776c72c05095f9
 #EXTINF:-1, group-title="Slingshot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/80zdgev0Uw1X52ouP79GJRr5fdQ.jpg" , Slingshot (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6d9aa78b26fed62b649
 #EXTINF:-1, group-title="Blink Twice" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xnPtCOyyaeG8jD4Bsj57hoK4lJA.jpg" , Blink Twice (2024 | 1080P)
