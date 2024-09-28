@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
-
+#EXTINF:-1, group-title="Lisabi: The Uprising" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1q3Ze0FVuV82pSrAWEGlC4PWu2h.jpg" , Lisabi: The Uprising (2024 | 720P)
+https://directlink.public-l.workers.dev/dl/66f7617d8e4cdd190e641121
 #EXTINF:-1, group-title="Wolfs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/57LO8XrYP7GRmtIzriHDOCErRq2.jpg" , Wolfs (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66f744c48e4cdd190e641108
 #EXTINF:-1, group-title="Killer Heat" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hdgKqiHIbowCnVZeODJ37VbVGFa.jpg" , Killer Heat (2024 | 1080P)
