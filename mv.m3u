@@ -1,12 +1,15 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+
+#EXTINF:-1, group-title="Wolfs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/57LO8XrYP7GRmtIzriHDOCErRq2.jpg" , Wolfs (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66f744c48e4cdd190e641108
 #EXTINF:-1, group-title="Killer Heat" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hdgKqiHIbowCnVZeODJ37VbVGFa.jpg" , Killer Heat (2024 | 1080P)
-https://www.filestream.linkpc.net/dl/66f611837e14c4a4846c843e
+https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641113
 #EXTINF:-1, group-title="It Ends With Us" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJSbiu7S5pqDnzH9weTW82bYbWu.jpg" , It Ends With Us (2024 | 1080P)
-https://www.filestream.linkpc.net/dl/66f4578cbcfed6b4bc2240c0
+https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e64110f
 #EXTINF:-1, group-title="The Front Room" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p0qqnfmhmJYYz73jK7UOwP3ZUgn.jpg" , The Front Room (2024 | 1080P)
-https://www.filestream.linkpc.net/dl/66f4578cbcfed6b4bc2240bf
+https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e64110e
 #EXTINF:-1, group-title="Omni Loop" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKrwq3HeyFcl5MXb7tcsileoF9I.jpg" , Omni Loop (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66ef4c4e5a776c72c05095f9
 #EXTINF:-1, group-title="Slingshot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/80zdgev0Uw1X52ouP79GJRr5fdQ.jpg" , Slingshot (2024 | 1080P)
