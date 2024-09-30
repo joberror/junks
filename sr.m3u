@@ -1,6 +1,11 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+
+#EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rbI6dTX5AGTPt8b7wvJDVNSpmpP.jpg" , Joan | S1.E1
+https://www.filestream.linkpc.net/dl/66fac2818b8d4767b59c7185
+
+
 #EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3WXZ2kTJtuK6j27ws1DSUO3PP7l.jpg" , Nobody Wants This | S1.E1 - Pilot
 https://www.filestream.linkpc.net/dl/66f60ad67e14c4a4846c842b
 #EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/gGED98zXDeqzwvav8pHgly1zirY.jpg" , Nobody Wants This | S1.E2 - A Shiksa Walks Into a Temple
@@ -35,16 +40,22 @@ https://www.filestream.linkpc.net/dl/66f13b64c08183b599980c4a
 
 #EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/v0HhlqpPPv6v3ok5RMFEPL66qPD.jpg" , From | S3.E1 - Shatter
 https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111c
+#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/arQ9vSh1F1tjUq2nA2hlw2t8mD1.jpg" , From | S3.E2 - When We Go
+https://www.filestream.linkpc.net/dl/66fac2818b8d4767b59c7187
 
 
 #EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fwhIXHQkM49JxmHSNMMfeMsB4sP.jpg" , Tulsa King | S2.E1 - Back in the Saddle
 https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111a
 #EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zyAtRHRuWy52DtxhIARerpaYIKE.jpg" , Tulsa King | S2.E2 - Kansas City Blues
 https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111b
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jynaGCnHGcPfLhwpUfSx0ONyabC.jpg" , Tulsa King | S2.E3 - Oklahoma v. Manfredi
+https://www.filestream.linkpc.net/dl/66fac2818b8d4767b59c7184
 
 
 #EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ecX4IMGRlKwyq5eZd5sjPxtUTaT.jpg" , The Penguin | S1.E1 - After Hours
 https://directlink.public-l.workers.dev/dl/66ef4bbb5a776c72c05095f3
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/esZEDbBtRJdTex16IR9BIvop852.jpg" , The Penguin | S1.E2 - Inside Man
+https://www.filestream.linkpc.net/dl/66fac2748b8d4767b59c7182
 
 
 #EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4uI8P52KK6PyguW1zpL0NG2EGP0.jpg" , High Potential | S1.E1 - Pilot
@@ -79,6 +90,42 @@ https://directlink.public-l.workers.dev/dl/66e3fab8a6f81c9212b5317d
 https://directlink.public-l.workers.dev/dl/66ef4bcd5a776c72c05095f5
 #EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zPftWX6LrcXCJHqVIyu1Z3XteeS.jpg" , Fight Night: The Million Dollar Heist | S1.E6 - Community Men
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641110
+
+
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ormRRPmSdaxTc6fpLsfEyjV0R6v.jpg" , Gyeongseong Creature | S1.E1 - Najin
+https://www.filestream.linkpc.net/dl/66fac23e8b8d4767b59c717a
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mJWRkFdg1o6dEjEYjSAD2IxYX4F.jpg" , Gyeongseong Creature | S1.E2 - Mother
+https://www.filestream.linkpc.net/dl/66fac23e8b8d4767b59c7177
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/lt6G704DKPRHSR6c3ekWsf39Ge8.jpg" , Gyeongseong Creature | S1.E3 - Signal
+https://www.filestream.linkpc.net/dl/66fac23e8b8d4767b59c7179
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/77AjDw34uFNJzX0TYMM5jGiKDSl.jpg" , Gyeongseong Creature | S1.E4 - Imprinting
+https://www.filestream.linkpc.net/dl/66fac23e8b8d4767b59c7178
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qEao47ad8eVDs5rOESeGvwaRWiw.jpg" , Gyeongseong Creature | S1.E5 - Desperation
+https://www.filestream.linkpc.net/dl/66fac2378b8d4767b59c7176
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/e6qAh7Y2Nk1i49wE7BS08kdUAZH.jpg" , Gyeongseong Creature | S1.E6 - Chaos
+https://www.filestream.linkpc.net/dl/66fac2378b8d4767b59c7175
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/AfHcsfPdJ1k7gj1NgidCc4t2z70.jpg" , Gyeongseong Creature | S1.E7 - Chase
+https://www.filestream.linkpc.net/dl/66fac2378b8d4767b59c7172
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eSWZzsNBM0hss2CNq79KujuY8ws.jpg" , Gyeongseong Creature | S1.E8 - Awakening
+https://www.filestream.linkpc.net/dl/66fac2378b8d4767b59c7173
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vwYouok2Sq6yKhRiEbPvI5ArLHL.jpg" , Gyeongseong Creature | S1.E9 - Atrocity
+https://www.filestream.linkpc.net/dl/66fac2378b8d4767b59c7174
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rpIS5XGSQIUXNBuKYL5WbhKr5sC.jpg" , Gyeongseong Creature | S1.E10 - Tear
+https://www.filestream.linkpc.net/dl/66fac2378b8d4767b59c7171
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jBjo2HOI9Gh4MYKMsi7WYVWivvx.jpg" , Gyeongseong Creature | S2.E1 - Ho-jae
+https://www.filestream.linkpc.net/dl/66fac2748b8d4767b59c7180
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/axihAJpJtfLgddH3MYfmJSIH8rF.jpg" , Gyeongseong Creature | S2.E2 - Sign
+https://www.filestream.linkpc.net/dl/66fac2748b8d4767b59c7181
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cPzrwUVxlecLXPe7t0sMaHHEMt2.jpg" , Gyeongseong Creature | S2.E3 - Pieces Of Memories
+https://www.filestream.linkpc.net/dl/66fac2748b8d4767b59c717f
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dNiK2XN0gWE4WUlr6K5l5OsLYtS.jpg" , Gyeongseong Creature | S2.E4 - The Other Side
+https://www.filestream.linkpc.net/dl/66fac2498b8d4767b59c717e
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ny5dgoRfXbsWp9IjCLJ8mkZkDG8.jpg" , Gyeongseong Creature | S2.E5 - The Creature
+https://www.filestream.linkpc.net/dl/66fac2448b8d4767b59c717d
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eKQHMiLAit6yFdBToxUXEVtt0zY.jpg" , Gyeongseong Creature | S2.E6 - Bait
+https://www.filestream.linkpc.net/dl/66fac2438b8d4767b59c717c
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/l0ukajEYsY2NPNRSJRDWaA5qGlT.jpg" , Gyeongseong Creature | S2.E7 - Marginal Man
+https://www.filestream.linkpc.net/dl/66fac2438b8d4767b59c717b
 
 
 #EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/m5VBUJvssOrpgL9s4pu4Lzb4lgF.jpg" , Emperor of Ocean Park: Chapter One
