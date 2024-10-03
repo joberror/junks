@@ -1,6 +1,11 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
-
+#EXTINF:-1, group-title="Salem's Lot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg", Salem's Lot (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66ff0abe788356063c227f99
+#EXTINF:-1, group-title="Speak No Evil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg", Speak No Evil (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66fbe3ef02d0a028f45a6ee9
+#EXTINF:-1, group-title="Strange Darling" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg", Strange Darling (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/66fbe3ef02d0a028f45a6ee8
 #EXTINF:-1, group-title="The Wasp" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i7MKgAUDmsyqtkseoktqfb1GKrl.jpg", The Wasp (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66fb9ebe02d0a028f45a6e17
 #EXTINF:-1, group-title="Deadpool & Wolverine 🔥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", Deadpool & Wolverine (2024 | 1080P)
