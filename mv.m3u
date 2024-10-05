@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="The Killer's Game" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg", The Killer's Game (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/67009df24f9a6ba159556aee
+#EXTINF:-1, group-title="The Platform 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg", The Platform 2 (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/67009df24f9a6ba159556aef
 #EXTINF:-1, group-title="Salem's Lot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg", Salem's Lot (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66ff0abe788356063c227f99
 #EXTINF:-1, group-title="Speak No Evil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg", Speak No Evil (2024 | 1080P)
@@ -8,7 +12,7 @@ https://directlink.public-l.workers.dev/dl/66fbe3ef02d0a028f45a6ee9
 https://directlink.public-l.workers.dev/dl/66fbe3ef02d0a028f45a6ee8
 #EXTINF:-1, group-title="The Wasp" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i7MKgAUDmsyqtkseoktqfb1GKrl.jpg", The Wasp (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66fb9ebe02d0a028f45a6e17
-#EXTINF:-1, group-title="Deadpool & Wolverine 🔥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", Deadpool & Wolverine (2024 | 1080P)
+#EXTINF:-1, group-title="Deadpool & Wolverine" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", Deadpool & Wolverine (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66fb9ec702d0a028f45a6e20
 #EXTINF:-1, group-title="Lisabi: The Uprising" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1q3Ze0FVuV82pSrAWEGlC4PWu2h.jpg", Lisabi: The Uprising (2024 | 720P)
 https://directlink.public-l.workers.dev/dl/66f7617d8e4cdd190e641121
