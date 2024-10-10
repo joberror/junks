@@ -1,5 +1,11 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Beetlejuice Beetlejuice" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg", Beetlejuice Beetlejuice (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6b
+#EXTINF:-1, group-title="Hellboy: The Crooked Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4wdFRlklq5ke75VKeJrmSyAtHN9.jpg", Hellboy: The Crooked Man (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6a
+#EXTINF:-1, group-title="A Quiet Place: Day One" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hU42CRk14JuPEdqZG3AWmagiPAP.jpg", A Quiet Place: Day One (2024 | 1080P)
+https://www.filestream.linkpc.net/dl/67070c3e9a67e358f2e65793
 #EXTINF:-1, group-title="The Killer's Game" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg", The Killer's Game (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/67009df24f9a6ba159556aee
 #EXTINF:-1, group-title="The Platform 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg", The Platform 2 (2024 | 1080P)
