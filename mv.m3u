@@ -1,5 +1,11 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Uprising (Jeon, Ran)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg", Uprising (Jeon, Ran) (2024 | 1080P)
+https://www.filestream.linkpc.net/dl/670a90898262c2360f278564
+#EXTINF:-1, group-title="Lonely Planet" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sH7Orig1yqa6ojMLIzLDxA2GRkH.jpg", Lonely Planet (2024 | 1080P)
+https://www.filestream.linkpc.net/dl/670a9be98262c2360f27857e
+#EXTINF:-1, group-title="Caddo Lake" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg", Caddo Lake (2024 | 1080P)
+https://www.filestream.linkpc.net/dl/670aa1448262c2360f278582
 #EXTINF:-1, group-title="Beetlejuice Beetlejuice" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg", Beetlejuice Beetlejuice (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6b
 #EXTINF:-1, group-title="Hellboy: The Crooked Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4wdFRlklq5ke75VKeJrmSyAtHN9.jpg", Hellboy: The Crooked Man (2024 | 1080P)

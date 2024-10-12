@@ -1,6 +1,20 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fQZz58bKGWr7gh37G6gIljcvwyb.jpg", Citadel: Diana | S1.E1 - Split in Two
+https://www.filestream.linkpc.net/dl/670a99688262c2360f278577
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9gFXm9OKSERnpnvQQa55xYPMooX.jpg", Citadel: Diana | S1.E2 - War
+https://www.filestream.linkpc.net/dl/670a99688262c2360f278578
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vXjQuftUlWfbDpqDhuAnxkoeE6I.jpg", Citadel: Diana | S1.E3 - Together
+https://www.filestream.linkpc.net/dl/670a99688262c2360f27857c
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pqdcBZV6FYqTZd9J3es83rILLbi.jpg", Citadel: Diana | S1.E4 - The Zanis
+https://www.filestream.linkpc.net/dl/670a99688262c2360f278579
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jwh16a10blfYTkXjgTPYcHDjYyN.jpg", Citadel: Diana | S1.E5 - Attack
+https://www.filestream.linkpc.net/dl/670a99688262c2360f27857b
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/51N91s7MQ4ZImtCTeJJMEsw1H3P.jpg", Citadel: Diana | S1.E6 - Jupiter
+https://www.filestream.linkpc.net/dl/670a99688262c2360f27857a
+
+
 
 #EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rbI6dTX5AGTPt8b7wvJDVNSpmpP.jpg", Joan | S1.E1
 https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1b
