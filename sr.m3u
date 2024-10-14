@@ -1,18 +1,33 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jgnvUK6f9FJ76517VoUMDuk9Mc7.jpg", Sweetpea | S1.E1 - Sorry for Your Loss
+https://directlink.public-l.workers.dev/dl/670c1ba1c55946d017db41fc
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cOKss9nV0wsFV2kMr8fTsKM7Ftu.jpg", Sweetpea | S1.E2 - This Sort of Thing Needs Some Feminine Energy
+https://directlink.public-l.workers.dev/dl/670c1baac55946d017db4203
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dkpMWTlXtm5Inx45HCfdJ0Ewc9r.jpg", Sweetpea | S1.E3 - Black Spots in the Garage
+https://directlink.public-l.workers.dev/dl/670c1bacc55946d017db4204
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/2T4h7PZ3jxfIgstV5VSfvnQusVP.jpg", Sweetpea | S1.E4 - Everybody Loves Julia
+https://directlink.public-l.workers.dev/dl/670c1bacc55946d017db4205
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dhVOQcOsG9kywp0qO6mf4tDMkHR.jpg", Sweetpea | S1.E5 - Someone's Been a Naughty Girl
+https://directlink.public-l.workers.dev/dl/670c1bacc55946d017db4206
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg", Sweetpea | S1.E6 - Life 2.0
+https://directlink.public-l.workers.dev/dl/670c1bd5c55946d017db4209
+
+
+
 #EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fQZz58bKGWr7gh37G6gIljcvwyb.jpg", Citadel: Diana | S1.E1 - Split in Two
-https://www.filestream.linkpc.net/dl/670a99688262c2360f278577
+https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41f0
 #EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9gFXm9OKSERnpnvQQa55xYPMooX.jpg", Citadel: Diana | S1.E2 - War
-https://www.filestream.linkpc.net/dl/670a99688262c2360f278578
+https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ee
 #EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vXjQuftUlWfbDpqDhuAnxkoeE6I.jpg", Citadel: Diana | S1.E3 - Together
-https://www.filestream.linkpc.net/dl/670a99688262c2360f27857c
+https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ef
 #EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pqdcBZV6FYqTZd9J3es83rILLbi.jpg", Citadel: Diana | S1.E4 - The Zanis
-https://www.filestream.linkpc.net/dl/670a99688262c2360f278579
+https://directlink.public-l.workers.dev/dl/670c1b97c55946d017db41f7
 #EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jwh16a10blfYTkXjgTPYcHDjYyN.jpg", Citadel: Diana | S1.E5 - Attack
-https://www.filestream.linkpc.net/dl/670a99688262c2360f27857b
+https://directlink.public-l.workers.dev/dl/670c1b9fc55946d017db41f8
 #EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/51N91s7MQ4ZImtCTeJJMEsw1H3P.jpg", Citadel: Diana | S1.E6 - Jupiter
-https://www.filestream.linkpc.net/dl/670a99688262c2360f27857a
+https://directlink.public-l.workers.dev/dl/670c1ba1c55946d017db41f9
 
 
 
@@ -59,13 +74,13 @@ https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641111
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8gnKpTwF3hBc9apWBVKHjiaIy8N.jpg", Grotesquerie | S1.E2
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641112
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uTk28VwTCFP7H0RQjdPXHmM1g8b.jpg", Grotesquerie | S1.E3
-https://www.filestream.linkpc.net/dl/67088f623e46f4e6486927a6
+https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421b
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/s0KGgH5hxA9dX8RUf5BtDiNQdxS.jpg", Grotesquerie | S1.E4
-https://www.filestream.linkpc.net/dl/67088f623e46f4e6486927a7
+https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421c
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dPA9WcDwxlZZvqntpza6MeJ30f9.jpg", Grotesquerie | S1.E5
-https://www.filestream.linkpc.net/dl/67088f4b3e46f4e6486927a3
+https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4212
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dDMguU43euo7xGZllaoUEFJAYsg.jpg", Grotesquerie | S1.E6
-https://www.filestream.linkpc.net/dl/67088f4b3e46f4e6486927a4
+https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421a
 
 
 
@@ -80,6 +95,8 @@ https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111c
 https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1c
 #EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/AgVRZBzGnmv8m4k7YyYjyUpHYqt.jpg", From | S3.E3 - Mouse Trap
 https://directlink.public-l.workers.dev/dl/6705e97c11a617da73bd0f71
+#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kn1RwVHbbgQyYUFn73uE9CmjXMx.jpg", From | S3.E4 - There and Back Again
+https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41f1
 
 
 
@@ -91,6 +108,8 @@ https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111b
 https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1a
 #EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/knvqcoTLLli2QagMQNnM1yT2tmD.jpg", Tulsa King | S2.E4 - Heroes and Villians
 https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6c
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qcFKPnlM6FIsQA8pLQJ3DxUhbdr.jpg", Tulsa King | S2.E5 - Tilting at Windmills
+https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ed
 
 
 
@@ -108,30 +127,30 @@ https://directlink.public-l.workers.dev/dl/66ef4d9f5a776c72c05095fb
 #EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wTwIfcOAzJjG9FjLDWEKSeo4xJy.jpg", High Potential | S1.E2 - Dancers in the Dark
 https://directlink.public-l.workers.dev/dl/66f7450c8e4cdd190e64110b
 #EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ledYVUEw19gRQhdDobb5FJd2Hb9.jpg", High Potential | S1.E3 - Dirty Rotten Scoundrel
-https://www.filestream.linkpc.net/dl/670718c19a67e358f2e6579a
+https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4213
 
 
 
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cwelHOreb6fSskjmVZ9iQXzuNjl.jpg", Outer Banks | S1.E1 - The Gold
-https://www.filestream.linkpc.net/dl/670896813e46f4e6486927bc
+https://directlink.public-l.workers.dev/dl/670c1c82c55946d017db4226
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/t29KIIJIlkdfR1VSLFcvI3MHLL4.jpg", Outer Banks | S1.E2 - The Heist
-https://www.filestream.linkpc.net/dl/6708960d3e46f4e6486927b8
+https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421d
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rfwHyzC8S6BzL7m7TWdC3gbsgEl.jpg", Outer Banks | S1.E3 - Prayers
-https://www.filestream.linkpc.net/dl/6708960d3e46f4e6486927b7
+https://directlink.public-l.workers.dev/dl/670c1c7dc55946d017db4222
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/k0MrvsJWOXtBDgmz0caImShsTC1.jpg", Outer Banks | S1.E4 - Homecoming
-https://www.filestream.linkpc.net/dl/670896813e46f4e6486927bb
+https://directlink.public-l.workers.dev/dl/670c1c82c55946d017db4224
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sbymbH8TQTbQ4SpPYuMLnMm6P1b.jpg", Outer Banks | S1.E5 - The Darkest Hours
-https://www.filestream.linkpc.net/dl/670896813e46f4e6486927bd
+https://directlink.public-l.workers.dev/dl/670c1c82c55946d017db4225
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wRyouNWdHPYpqqkkSe1AuN721OZ.jpg", Outer Banks | S1.E6 - The Druthers
-https://www.filestream.linkpc.net/dl/670896f33e46f4e6486927bf
+https://directlink.public-l.workers.dev/dl/670c1ca6c55946d017db422b
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/u5Cqe0P2nEW2r1zdzzSe8tLWwQZ.jpg", Outer Banks | S1.E7 - The Bonfire
-https://www.filestream.linkpc.net/dl/670896f33e46f4e6486927c0
+https://directlink.public-l.workers.dev/dl/670c1cacc55946d017db422e
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/h1MjIGDELyWpjSQxNm7rpZi5yO0.jpg", Outer Banks | S1.E8 - The Cross
-https://www.filestream.linkpc.net/dl/670896f33e46f4e6486927c1
+https://directlink.public-l.workers.dev/dl/670c1cadc55946d017db422f
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aqrUaSEXMRc4nXjoA8c2d4fpD6R.jpg", Outer Banks | S1.E9 - Trapped
-https://www.filestream.linkpc.net/dl/6708960d3e46f4e6486927b9
+https://directlink.public-l.workers.dev/dl/670c1c7dc55946d017db4221
 #EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/x1fTloW79BxhMif7i94AGfzsZLK.jpg", Outer Banks | S1.E10 - The Coastal Venture
-https://www.filestream.linkpc.net/dl/670896f53e46f4e6486927c2
+https://directlink.public-l.workers.dev/dl/670c1caec55946d017db4230
 
 
 
@@ -165,7 +184,7 @@ https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641110
 #EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zPftWX6LrcXCJHqVIyu1Z3XteeS.jpg", Fight Night: The Million Dollar Heist | S1.E7 - Jekyll Island
 https://directlink.public-l.workers.dev/dl/66ff0abe788356063c227f9a
 #EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mMxuMP0zsX83sURrvK2oQxs9Qoh.jpg", Fight Night: The Million Dollar Heist | S1.E8 - Testify
-https://www.filestream.linkpc.net/dl/67088f4b3e46f4e6486927a5
+https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4211
 
 
 
