@@ -1,5 +1,13 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Bagman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg", Bagman (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/6714f7f4de3f10ca2cb6cc6a
+#EXTINF:-1, group-title="The Shadow Strays" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfkcrKySRyJiIdLo6c6kNSyLFh7.jpg", The Shadow Strays (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/6714f7f4de3f10ca2cb6cc6b
+#EXTINF:-1, group-title="Alien Romulus" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg", Akien Romulus (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc6d
+#EXTINF:-1, group-title="Women of The Hour" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jMxTIXOTyLLg6xTVrgK5opRDNv.jpg", Women of The Hour (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc6f
 #EXTINF:-1, group-title="Uprising (Jeon, Ran)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg", Uprising (Jeon, Ran) (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/670c1cb1c55946d017db4232
 #EXTINF:-1, group-title="Lonely Planet" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sH7Orig1yqa6ojMLIzLDxA2GRkH.jpg", Lonely Planet (2024 | 1080P)
@@ -79,7 +87,7 @@ https://directlink.public-l.workers.dev/dl/66d5472453ff0d15c68cd05e
 #EXTINF:-1, group-title="Napoleon" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yweHFOchVNJTJwkwrmVw3dpIAyw.jpg", Napoleon (2023 | Director's Cut | 1080P)
 https://directlink.public-l.workers.dev/dl/66d54a1553ff0d15c68cd062
 #EXTINF:-1, group-title="Despicable Me 4" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg", Despicable Me 4 (2024 | FHD | SEEDR)
-https://www.filestream.linkpc.net/dl/66e62c2e9cb32dd56a829448
+https://directlink.public-l.workers.dev/dl/6714f83fde3f10ca2cb6cc91
 #EXTINF:-1, group-title="The Garfield Movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xYduFGuch9OwbCOEUiamml18ZoB.jpg", The Garfield Movie (2024 | FHD | SEEDR)
 https://www.filestream.linkpc.net/dl/66e62c2e9cb32dd56a829447
 #EXTINF:-1, group-title="Bad Boys: Ride or Die" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qLyzyTXMFkqhzQ4aEeYYUoM4o18.jpg", Bad Boys: Ride or Die (2024 | FHD | SEEDR)
@@ -87,13 +95,13 @@ https://www.filestream.linkpc.net/dl/66e62ebe9cb32dd56a829456
 
 
 #EXTINF:8700, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jHV0bDiAqzzgtoHiJ03LhBPB05o.jpg", Kingdom of the Planet of the Apes (2024 | FHD)
-https://www.filestream.linkpc.net/dl/66e62cc09cb32dd56a829449
+https://directlink.public-l.workers.dev/dl/6714f83ade3f10ca2cb6cc8d
 #EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lyf09k0KnIKNAWjxAHAdJLnsJnO.jpg", Descendants: The Rise of Red (2024 | FHD)
-https://www.filestream.linkpc.net/dl/6695a9ccbe2998847a9657ce
+https://directlink.public-l.workers.dev/dl/6714f840de3f10ca2cb6cc92
 #EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t5GM2kSZDSsv77z0H0S4fwhBvwb.jpg", Space Cadet (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66872d19ad9282b7e97f8a32
 #EXTINF:5760, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWaF9dThPUbaBK8TbDu1AROJydd.jpg", Boneyard (2024 | FHD)
-https://www.filestream.linkpc.net/dl/66872c67ad9282b7e97f8a30
+https://directlink.public-l.workers.dev/dl/6714f83ade3f10ca2cb6cc8c
 #EXTINF:6420, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Cg4G1iQpisGXmWqns5uo4I6fPk.jpg", Babes (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66872c67ad9282b7e97f8a31
 #EXTINF:7080, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5OehGNBJUJeYrwMwtb2p0aXtpju.jpg", Beverly Hills Cop: Axel F (2024 | FHD)

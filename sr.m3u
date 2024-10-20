@@ -1,6 +1,40 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/perMuyDoEMDpwFNC1ilctJoypHJ.jpg", Ludwig | S1.E1
+https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc6c
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ydLP8Nisju3Im2gPuxq81DPEtEY.jpg", Ludwig | S1.E2
+https://directlink.public-l.workers.dev/dl/6714f7f8de3f10ca2cb6cc74
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rJHurIQstoSDrDzl168B56gTsf6.jpg", Ludwig | S1.E3
+https://directlink.public-l.workers.dev/dl/6714f7fede3f10ca2cb6cc78
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fD2mOgKjFkZ1NqWSwDZePiEpnOQ.jpg", Ludwig | S1.E4
+https://directlink.public-l.workers.dev/dl/6714f7fede3f10ca2cb6cc77
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/35eI1ucIKQs1obUCnlPo3mSHngw.jpg", Ludwig | S1.E5
+https://directlink.public-l.workers.dev/dl/6714f7fede3f10ca2cb6cc79
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/gXcX11AznO9E9GzIJdrwzbZm0JR.jpg", Ludwig | S1.E6
+https://directlink.public-l.workers.dev/dl/6714f805de3f10ca2cb6cc7d
+
+
+
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aQ8lC1AyRSl0KTDjdc2mJTt652a.jpg", Hysteria | S1.E1 - Hysteria
+https://directlink.public-l.workers.dev/dl/6714f805de3f10ca2cb6cc7e
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4tzaamViJzPl29zC0Zeqsid0Atp.jpg", Hysteria | S1.E2 - Die Young
+https://directlink.public-l.workers.dev/dl/6714f80ade3f10ca2cb6cc81
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sMOOX7LiSyMiiJ4OcQ30eL1Y78J.jpg", Hysteria | S1.E3 - Can I Play with Madness
+https://directlink.public-l.workers.dev/dl/6714f80ade3f10ca2cb6cc82
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uYTknw8tt82n72UP34bCZzGnHkP.jpg", Hysteria | S1.E4 - Dance Macabre
+https://directlink.public-l.workers.dev/dl/6714f80cde3f10ca2cb6cc83
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vsnPewEY0dGhHRKCv1PIaL0PGoh.jpg", Hysteria | S1.E5 - Mother
+https://directlink.public-l.workers.dev/dl/6714f834de3f10ca2cb6cc87
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vx9jHAVp8rKgtmRH4bAIzAqaII8.jpg", Hysteria | S1.E6 -Speaking in Tongues
+https://directlink.public-l.workers.dev/dl/6714f834de3f10ca2cb6cc88
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/5S1XxS2cFawNpMYupBlGUUDfpws.jpg", Hysteria | S1.E7 - It's Late
+https://directlink.public-l.workers.dev/dl/6714f839de3f10ca2cb6cc8a
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ntGUchSvr3NnElJrB8vgZTiR7Ok.jpg", Hysteria | S1.E8 - Heaven's on Fire
+https://directlink.public-l.workers.dev/dl/6714f83ade3f10ca2cb6cc8b
+
+
+
 #EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jgnvUK6f9FJ76517VoUMDuk9Mc7.jpg", Sweetpea | S1.E1 - Sorry for Your Loss
 https://directlink.public-l.workers.dev/dl/670c1ba1c55946d017db41fc
 #EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cOKss9nV0wsFV2kMr8fTsKM7Ftu.jpg", Sweetpea | S1.E2 - This Sort of Thing Needs Some Feminine Energy
@@ -69,23 +103,20 @@ https://directlink.public-l.workers.dev/dl/66fba17d02d0a028f45a6e32
 
 
 
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/UG4jT4xzBgxS5wofmKUsQFpC0.jpg", Grotesquerie | S1.E1
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/UG4jT4xzBgxS5wofmKUsQFpC0.jpg", Grotesquerie | S1.E1 - Pilot
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641111
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8gnKpTwF3hBc9apWBVKHjiaIy8N.jpg", Grotesquerie | S1.E2
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8gnKpTwF3hBc9apWBVKHjiaIy8N.jpg", Grotesquerie | S1.E2 - True Crime Catholics
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641112
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uTk28VwTCFP7H0RQjdPXHmM1g8b.jpg", Grotesquerie | S1.E3
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uTk28VwTCFP7H0RQjdPXHmM1g8b.jpg", Grotesquerie | S1.E3 - The Bender
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421b
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/s0KGgH5hxA9dX8RUf5BtDiNQdxS.jpg", Grotesquerie | S1.E4
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/s0KGgH5hxA9dX8RUf5BtDiNQdxS.jpg", Grotesquerie | S1.E4 - Cordinates
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421c
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dPA9WcDwxlZZvqntpza6MeJ30f9.jpg", Grotesquerie | S1.E5
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dPA9WcDwxlZZvqntpza6MeJ30f9.jpg", Grotesquerie | S1.E5 - Red Haze
 https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4212
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dDMguU43euo7xGZllaoUEFJAYsg.jpg", Grotesquerie | S1.E6
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dDMguU43euo7xGZllaoUEFJAYsg.jpg", Grotesquerie | S1.E6 - Good Caesarean Work
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421a
-
-
-
-#EXTINF:-1, group-title="Matlock" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rRFXz6BkNSTjr42h0Xj8X5VPUsi.jpg", Matlock (2024) | S1.E1 - Pilot
-https://directlink.public-l.workers.dev/dl/66fba1a802d0a028f45a6e37
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/csMe4KFt2mKGxMqSneDnJ9Pmvos.jpg", Grotesquerie | S1.E7 - Unplugged
+https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc70
 
 
 
@@ -97,6 +128,8 @@ https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1c
 https://directlink.public-l.workers.dev/dl/6705e97c11a617da73bd0f71
 #EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kn1RwVHbbgQyYUFn73uE9CmjXMx.jpg", From | S3.E4 - There and Back Again
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41f1
+#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aqAHsFCNFgIYh7zpGoCHxnQrdx4.jpg", From | S3.E5 - The Light of Day
+https://directlink.public-l.workers.dev/dl/6714f844de3f10ca2cb6cc96
 
 
 
@@ -110,6 +143,8 @@ https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1a
 https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6c
 #EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qcFKPnlM6FIsQA8pLQJ3DxUhbdr.jpg", Tulsa King | S2.E5 - Tilting at Windmills
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ed
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/bHZr5AdtpLjOhXMGTVTcAgqPNVP.jpg", Tulsa King | S2.E6 - Navigator
+https://directlink.public-l.workers.dev/dl/6714f844de3f10ca2cb6cc97
 
 
 
