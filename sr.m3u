@@ -1,5 +1,28 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9JWwqv9vlBAYRnSZdeh6SoOz3HU.jpg", Like a Dragon: Yakuza | S1.E1
+https://directlink.public-l.workers.dev/dl/671b0cd2afdfefecf027c43c
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/26DHlLKvl3tQl7zrmlX3iVmfjPF.jpg", Like a Dragon: Yakuza | S1.E2
+https://directlink.public-l.workers.dev/dl/671b0cd2afdfefecf027c43d
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jg9ygZzdh5dGWGmkMjubREO5PGo.jpg", Like a Dragon: Yakuza | S1.E3
+https://directlink.public-l.workers.dev/dl/671b0cf3afdfefecf027c442
+
+
+
+#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/x7pGZsdc5raEGZNfWNLKKfawQF3.jpg", Territory | S1.E1
+https://directlink.public-l.workers.dev/dl/671b0cb7afdfefecf027c42e
+#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/n7YSjl8ZqVVBjwtSDrAV23lwUUU.jpg", Territory | S1.E2
+https://directlink.public-l.workers.dev/dl/671b0cbdafdfefecf027c432
+#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/z7fdnd45Pla7a2BJFUYZYmxZJFu.jpg", Territory | S1.E3
+https://directlink.public-l.workers.dev/dl/671b0cbdafdfefecf027c433
+#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nnJ2d8CMaO1rqnKWWsYhxuMdrA8.jpg", Territory | S1.E4
+https://directlink.public-l.workers.dev/dl/671b0cbdafdfefecf027c431
+#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uhZ7NBZPtriQqaE4jlMuJN2DUpz.jpg", Territory | S1.E5
+https://directlink.public-l.workers.dev/dl/671b0cc2afdfefecf027c438
+#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/t08GqgNmbJhaeZfFhYlJlPzihsJ.jpg", Territory | S1.E6
+https://directlink.public-l.workers.dev/dl/671b0cc7afdfefecf027c439
+
+
 
 #EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/perMuyDoEMDpwFNC1ilctJoypHJ.jpg", Ludwig | S1.E1
 https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc6c
@@ -117,6 +140,10 @@ https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4212
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421a
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/csMe4KFt2mKGxMqSneDnJ9Pmvos.jpg", Grotesquerie | S1.E7 - Unplugged
 https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc70
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6Ib7xKMeB67PUyb2cWRKGwOfolA.jpg", Grotesquerie | S1.E8 - In Dreams
+https://directlink.public-l.workers.dev/dl/671b0cc8afdfefecf027c43b
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cksf44qW1dQQQ9kqfZc5SkGt7DE.jpg", Grotesquerie | S1.E9 - The Stinging Aroma of Sulfur
+https://directlink.public-l.workers.dev/dl/671b0cc8afdfefecf027c43a
 
 
 
@@ -154,6 +181,10 @@ https://directlink.public-l.workers.dev/dl/66ef4bbb5a776c72c05095f3
 https://directlink.public-l.workers.dev/dl/66fb9ebd02d0a028f45a6e16
 #EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/92Zz1q4VcisKPxKagfh9dEVGkeS.jpg", The Penguin | S1.E3 - Bliss
 https://directlink.public-l.workers.dev/dl/6705e97c11a617da73bd0f70
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6InFSm29R8xFPZQfSjEuwwg2j4q.jpg", The Penguin | S1.E4 - Cent'anni
+https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c425
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ewa7rDjtl8WDaaL43NGl6I3yb21.jpg", The Penguin | S1.E5 - Homecoming
+https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c427
 
 
 
@@ -163,6 +194,10 @@ https://directlink.public-l.workers.dev/dl/66ef4d9f5a776c72c05095fb
 https://directlink.public-l.workers.dev/dl/66f7450c8e4cdd190e64110b
 #EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ledYVUEw19gRQhdDobb5FJd2Hb9.jpg", High Potential | S1.E3 - Dirty Rotten Scoundrel
 https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4213
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yZtZIXr2xyYJZQdlu0LrweDmiwI.jpg", High Potential | S1.E4 - Survival Mode
+https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c424
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vU4LF4TSmWjRtDXY3nxsaPp3yEh.jpg", High Potential | S1.E4 - Croaked
+https://directlink.public-l.workers.dev/dl/671b0cb4afdfefecf027c42d
 
 
 

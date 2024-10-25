@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Transformers One" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg", Transformers One (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c426
+#EXTINF:-1, group-title="Canary Black" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg", Canary Black (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/671b0cb4afdfefecf027c42c
 #EXTINF:-1, group-title="Bagman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg", Bagman (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6714f7f4de3f10ca2cb6cc6a
 #EXTINF:-1, group-title="The Shadow Strays" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfkcrKySRyJiIdLo6c6kNSyLFh7.jpg", The Shadow Strays (2024 | 1080P)
