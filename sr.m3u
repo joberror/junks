@@ -1,5 +1,32 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg", Special Ops: Lioness | S1.E1 - Sacrificial Soldiers
+https://directlink.public-l.workers.dev/dl/671e844eb3731c35ab857ecf
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg", Special Ops: Lioness | S1.E2 - The Beating
+https://directlink.public-l.workers.dev/dl/671e8449b3731c35ab857ecc
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/trvQgNJdoVoTJNLoSVR6goqlKZf.jpg", Special Ops: Lioness | S1.E3 - Bruise Like a Fist
+https://directlink.public-l.workers.dev/dl/671e8446b3731c35ab857ec6
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg", Special Ops: Lioness | S1.E4 - The Choice of Failure
+https://directlink.public-l.workers.dev/dl/671e8446b3731c35ab857ec5
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ciYRv08dxwk1idonANAUKEXZHI6.jpg", Special Ops: Lioness | S1.E5 - Truth Is the Shrewdest Lie
+https://directlink.public-l.workers.dev/dl/671e8445b3731c35ab857ec4
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg", Special Ops: Lioness | S1.E6 - The Lie Is the Truth
+https://directlink.public-l.workers.dev/dl/671e8446b3731c35ab857ec9
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg", Special Ops: Lioness | S1.E7 - Wish the Fight Away
+https://directlink.public-l.workers.dev/dl/671e8445b3731c35ab857ec2
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3ndiiSM8sWMclfS123YaVIBOtsw.jpg", Special Ops: Lioness | S1.E8 - Gone Is the Illusion of Order
+https://directlink.public-l.workers.dev/dl/671e8445b3731c35ab857ec3
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg", Special Ops: Lioness | S2.E1 - Beware the Old Soldier
+https://directlink.public-l.workers.dev/dl/671e5099b3731c35ab857e8e
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg", Special Ops: Lioness | S2.E1 - Beware the Old Soldier [Alt Link]
+https://cdn4-xtreme.mysterysd.in/dl/671e500f299de04683881a98
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg", Special Ops: Lioness | S2.E2 - I Love My Country
+https://directlink.public-l.workers.dev/dl/671e509ab3731c35ab857e94
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg", Special Ops: Lioness | S2.E2 - I Love My Country [Alt Link]
+https://cdn4-xtreme.mysterysd.in/dl/671e500f299de04683881a97
+
+
+
 #EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9JWwqv9vlBAYRnSZdeh6SoOz3HU.jpg", Like a Dragon: Yakuza | S1.E1
 https://directlink.public-l.workers.dev/dl/671b0cd2afdfefecf027c43c
 #EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/26DHlLKvl3tQl7zrmlX3iVmfjPF.jpg", Like a Dragon: Yakuza | S1.E2
@@ -157,6 +184,8 @@ https://directlink.public-l.workers.dev/dl/6705e97c11a617da73bd0f71
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41f1
 #EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aqAHsFCNFgIYh7zpGoCHxnQrdx4.jpg", From | S3.E5 - The Light of Day
 https://directlink.public-l.workers.dev/dl/6714f844de3f10ca2cb6cc96
+#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/py43U9q02kanZ1kholuqHeQoKAm.jpg", From | S3.E6 - Scar Tissue
+https://directlink.public-l.workers.dev/dl/671e5099b3731c35ab857e8f
 
 
 
@@ -172,6 +201,8 @@ https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6c
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ed
 #EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/bHZr5AdtpLjOhXMGTVTcAgqPNVP.jpg", Tulsa King | S2.E6 - Navigator
 https://directlink.public-l.workers.dev/dl/6714f844de3f10ca2cb6cc97
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xb3qUdeVgeR95YB8eQHgUz0prnp.jpg", Tulsa King | S2.E7 - Life Support
+https://directlink.public-l.workers.dev/dl/671e509ab3731c35ab857e91
 
 
 
