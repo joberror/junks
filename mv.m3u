@@ -1,9 +1,14 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:-1, group-title="The Critic" tvg-logo=https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg", The Critic (2024 | 1080P)
-https://cdn3-xtreme.mysterysd.in/dl/671fc560299de04683881b3d
+
+#EXTINF:-1, group-title="The Substance" tvg-logo="https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg", The Substance (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/67259f74223a9ab56c53fa34
+#EXTINF:-1, group-title="Cellar Door" tvg-logo="https://image.tmdb.org/t/p/w500/9vasnPh69RoUg9oUpzXoErMVDB7.jpg", Cellar Door (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/67259fcd223a9ab56c53fa3c
+#EXTINF:-1, group-title="The Critic" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg", The Critic (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa14
 #EXTINF:-1, group-title="Joker: Folie à Deux" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg", Joker: Folie à Deux (2024 | 1080P)
-https://cdn1-xtreme.mysterysd.in/dl/67212187b6dcea8c0b91b571
+https://directlink.public-l.workers.dev/dl/67259f2f223a9ab56c53fa1c
 #EXTINF:-1, group-title="Don't move" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg", Don't move (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/671e509ab3731c35ab857e93
 #EXTINF:-1, group-title="Transformers One" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg", Transformers One (2024 | 1080P)

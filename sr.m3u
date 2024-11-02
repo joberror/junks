@@ -1,5 +1,36 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/5CdBj4c7co4ZAAWBbGA336jIgku.jpg", The Diplomat | S1.E1 - The Cinderella Thing
+https://directlink.public-l.workers.dev/dl/6725a841223a9ab56c53fa60
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/A4a9gcahgiXRtiQrXkWGwtaVeHz.jpg", The Diplomat | S1.E2 - Don't Call It a Kidnapping
+https://directlink.public-l.workers.dev/dl/6725a841223a9ab56c53fa61
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/26IgdDkp0YSkFVXNgQ9h9nWJMNa.jpg", The Diplomat | S1.E3 - Lambs in the Dark
+https://directlink.public-l.workers.dev/dl/6725a83b223a9ab56c53fa5e
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/mUAIyDyGggdgJ0T1RYoayB5torN.jpg", The Diplomat | S1.E4 - He Bought a Hat
+https://directlink.public-l.workers.dev/dl/6725a841223a9ab56c53fa5f
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/c2PwuUdhovZDUL4bFeoNwUARmz2.jpg", The Diplomat | S1.E5 - The Dogcatcher
+https://directlink.public-l.workers.dev/dl/6725a835223a9ab56c53fa59
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/f1T5pTKaoWADN5tbU4q4LdBlHzN.jpg", The Diplomat | S1.E6 - Some Lusty Tornado
+https://directlink.public-l.workers.dev/dl/6725a835223a9ab56c53fa56
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/dBZhN7cvrmb52IwCw8llxf3q1OK.jpg", The Diplomat | S1.E7 - Keep Your Enemies Closer
+https://directlink.public-l.workers.dev/dl/6725a835223a9ab56c53fa58
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/i9i8ZFEQgWfuPBxm32h1BFj0Tmu.jpg", The Diplomat | S1.E8 - The James Bond Clause
+https://directlink.public-l.workers.dev/dl/6725a835223a9ab56c53fa57
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/iKZSCqnYafmGAjyxezKDsR2fYA9.jpg", The Diplomat | S2.E1 - hen a Stranger Calls
+https://directlink.public-l.workers.dev/dl/6725a82b223a9ab56c53fa53
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/yb8KRkFRq59UHKcg088TrcyHfS.jpg", The Diplomat | S2.E2 - St. Paul's
+https://directlink.public-l.workers.dev/dl/6725a82a223a9ab56c53fa4c
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/w7BjmPaVMBcIp4zIqE0ioDfEOp7.jpg", The Diplomat | S2.E3 -  The Ides of March
+https://directlink.public-l.workers.dev/dl/6725a82a223a9ab56c53fa4a
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/qokpUQpaeQusc57G9Ad5XVXrGw7.jpg", The Diplomat | S2.E4 - The Other Army
+https://directlink.public-l.workers.dev/dl/6725a82a223a9ab56c53fa4e
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/6lIHoKptaDqE194PFMufQfNWHzG.jpg", The Diplomat | S2.E5 - Our Lady of Immaculate Deception
+https://directlink.public-l.workers.dev/dl/6725a82a223a9ab56c53fa4d
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/cVBIL6Qb13lu47aOWP75j5nuumm.jpg", The Diplomat | S2.E6 - Dreadnought
+https://directlink.public-l.workers.dev/dl/6725a82a223a9ab56c53fa4b
+
+
+
 #EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg", Special Ops: Lioness | S1.E1 - Sacrificial Soldiers
 https://directlink.public-l.workers.dev/dl/671e844eb3731c35ab857ecf
 #EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg", Special Ops: Lioness | S1.E2 - The Beating
@@ -27,12 +58,18 @@ https://cdn4-xtreme.mysterysd.in/dl/671e500f299de04683881a97
 
 
 
-#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9JWwqv9vlBAYRnSZdeh6SoOz3HU.jpg", Like a Dragon: Yakuza | S1.E1
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://image.tmdb.org/t/p/w500/9JWwqv9vlBAYRnSZdeh6SoOz3HU.jpg", Like a Dragon: Yakuza | S1.E1 - Departure／Return
 https://directlink.public-l.workers.dev/dl/671b0cd2afdfefecf027c43c
-#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/26DHlLKvl3tQl7zrmlX3iVmfjPF.jpg", Like a Dragon: Yakuza | S1.E2
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://image.tmdb.org/t/p/w500/26DHlLKvl3tQl7zrmlX3iVmfjPF.jpg", Like a Dragon: Yakuza | S1.E2 - Ambition／Desire
 https://directlink.public-l.workers.dev/dl/671b0cd2afdfefecf027c43d
-#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jg9ygZzdh5dGWGmkMjubREO5PGo.jpg", Like a Dragon: Yakuza | S1.E3
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://image.tmdb.org/t/p/w500/jg9ygZzdh5dGWGmkMjubREO5PGo.jpg", Like a Dragon: Yakuza | S1.E3 - Brothers／Sisters
 https://directlink.public-l.workers.dev/dl/671b0cf3afdfefecf027c442
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://image.tmdb.org/t/p/w500/gIHi4YWnQnObpKPbO69g6qpCqLY.jpg", Like a Dragon: Yakuza | S1.E4 - Betrayal／Promise
+https://directlink.public-l.workers.dev/dl/67259fcd223a9ab56c53fa3b
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://image.tmdb.org/t/p/w500/zrIMLa5j6FbZ2KauSvArgR7KPVT.jpg", Like a Dragon: Yakuza | S1.E5 - Despair／Hope
+https://directlink.public-l.workers.dev/dl/67259fcd223a9ab56c53fa3d
+#EXTINF:-1, group-title="Like a Dragon: Yakuza" tvg-logo="https://image.tmdb.org/t/p/w500/nsHc1ApuVgq2QQGUHqgTEIPPGYO.jpg", Like a Dragon: Yakuza | S1.E6 - Fate／Showdown
+https://directlink.public-l.workers.dev/dl/67259fcd223a9ab56c53fa3e
 
 
 
@@ -52,29 +89,29 @@ https://directlink.public-l.workers.dev/dl/671b0cc7afdfefecf027c439
 
 
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/c28wngerlJ7MM0ocYjX1dzwueH0.jpg", Hellbound A.K.A Jiok | S1.E1
-https://cdn4-xtreme.mysterysd.in/dl/67213a2bb6dcea8c0b91b57a
+https://directlink.public-l.workers.dev/dl/67259f3e223a9ab56c53fa26
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/iYGMucvbhqz88F1FC3ttBHiq0mB.jpg", Hellbound A.K.A Jiok | S1.E2
-https://cdn2-xtreme.mysterysd.in/dl/67213a2bb6dcea8c0b91b57c
+https://directlink.public-l.workers.dev/dl/67259f3e223a9ab56c53fa27
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/os9bLyU35xZlOQkcA6Ee2T2Rein.jpg", Hellbound A.K.A Jiok | S1.E3
-https://cdn4-xtreme.mysterysd.in/dl/67213a2bb6dcea8c0b91b57b
+https://directlink.public-l.workers.dev/dl/67259f43223a9ab56c53fa2c
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zRge9nmPBBhkfsVwmJpNhLEBU1f.jpg", Hellbound A.K.A Jiok | S1.E4
-https://cdn1-xtreme.mysterysd.in/dl/67213a2cb6dcea8c0b91b57e
+https://directlink.public-l.workers.dev/dl/67259f43223a9ab56c53fa2b
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6G6tvlxcctuVVk6YXUmEcvmioBh.jpg", Hellbound A.K.A Jiok | S1.E5
-https://cdn4-xtreme.mysterysd.in/dl/67213a2cb6dcea8c0b91b57f
+https://directlink.public-l.workers.dev/dl/67259f6e223a9ab56c53fa2d
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/oGdlZt118qzw1Iar5YH3Ddy4jCX.jpg", Hellbound A.K.A Jiok | S1.E6
-https://cdn1-xtreme.mysterysd.in/dl/67213a2bb6dcea8c0b91b57d
+https://directlink.public-l.workers.dev/dl/67259f6e223a9ab56c53fa2e
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xScitPU6asSBhTPcLdf6iVgrcvH.jpg", Hellbound A.K.A Jiok | S2.E1
-https://cdn2-xtreme.mysterysd.in/dl/672139dab6dcea8c0b91b579
+https://directlink.public-l.workers.dev/dl/67259f38223a9ab56c53fa20
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nKmglTaG0DqtUk0T9D5EmRdWhwm.jpg", Hellbound A.K.A Jiok | S2.E2
-https://cdn3-xtreme.mysterysd.in/dl/672136a4b6dcea8c0b91b574
+https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa19
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jCx4IqZjwWeN8YWf9nGNvoeNGo9.jpg", Hellbound A.K.A Jiok | S2.E3
-https://cdn3-xtreme.mysterysd.in/dl/672136e6b6dcea8c0b91b575
+https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa16
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zICJMPYcb8pOt4NBYRCfdV8wcdg.jpg", Hellbound A.K.A Jiok | S2.E4
-https://cdn3-xtreme.mysterysd.in/dl/672139dab6dcea8c0b91b577
+https://directlink.public-l.workers.dev/dl/67259f39223a9ab56c53fa21
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cLBDwn2pugMBq4l6pPxmOmqW7QY.jpg", Hellbound A.K.A Jiok | S2.E5
-https://cdn1-xtreme.mysterysd.in/dl/672139dab6dcea8c0b91b578
+https://directlink.public-l.workers.dev/dl/67259f39223a9ab56c53fa22
 #EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3SsnFjznTz35uuuBf3ISnWHocXy.jpg", Hellbound A.K.A Jiok | S2.E6
-https://cdn2-xtreme.mysterysd.in/dl/672136e6b6dcea8c0b91b576
+https://directlink.public-l.workers.dev/dl/67259f32223a9ab56c53fa1d
 
 
 
@@ -198,6 +235,8 @@ https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc70
 https://directlink.public-l.workers.dev/dl/671b0cc8afdfefecf027c43b
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cksf44qW1dQQQ9kqfZc5SkGt7DE.jpg", Grotesquerie | S1.E9 - The Stinging Aroma of Sulfur
 https://directlink.public-l.workers.dev/dl/671b0cc8afdfefecf027c43a
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/zOQ1EzwiGHeuy3te4FYRATHE7qu.jpg", Grotesquerie | S1.E10 - I Think I'm Dead
+https://directlink.public-l.workers.dev/dl/67259f74223a9ab56c53fa33
 
 
 
@@ -213,6 +252,7 @@ https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41f1
 https://directlink.public-l.workers.dev/dl/6714f844de3f10ca2cb6cc96
 #EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/py43U9q02kanZ1kholuqHeQoKAm.jpg", From | S3.E6 - Scar Tissue
 https://directlink.public-l.workers.dev/dl/671e5099b3731c35ab857e8f
+
 
 
 
@@ -244,7 +284,7 @@ https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c425
 #EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ewa7rDjtl8WDaaL43NGl6I3yb21.jpg", The Penguin | S1.E5 - Homecoming
 https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c427
 #EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dQrxfFP45iz6sLPh6KkfU1Idea5.jpg", The Penguin | S1.E6 - Gold Summit
-https://cdn3-xtreme.mysterysd.in/dl/671fc560299de04683881b3e
+https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa15
 
 
 
@@ -256,8 +296,10 @@ https://directlink.public-l.workers.dev/dl/66f7450c8e4cdd190e64110b
 https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4213
 #EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yZtZIXr2xyYJZQdlu0LrweDmiwI.jpg", High Potential | S1.E4 - Survival Mode
 https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c424
-#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vU4LF4TSmWjRtDXY3nxsaPp3yEh.jpg", High Potential | S1.E4 - Croaked
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vU4LF4TSmWjRtDXY3nxsaPp3yEh.jpg", High Potential | S1.E5 - Croaked
 https://directlink.public-l.workers.dev/dl/671b0cb4afdfefecf027c42d
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://image.tmdb.org/t/p/w500/eA2Zb4SFoJT2nE7PSRl1zhUj23o.jpg", High Potential | S1.E6 - Hangover
+https://directlink.public-l.workers.dev/dl/67259f6e223a9ab56c53fa2f
 
 
 
