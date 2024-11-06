@@ -1,147 +1,158 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
-
+#EXTINF:-1, group-title="The Outrun" tvg-logo="https://image.tmdb.org/t/p/w500/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg, The Outrun (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/672ae5ede30b5e5640a2ff39
+#EXTINF:-1, group-title="The Wild Robot" tvg-logo="https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg", The Wild Robot (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/672ad54ee30b5e5640a2ff24
+#EXTINF:-1, group-title="Terrifier" tvg-logo="https://image.tmdb.org/t/p/w500/sFaPj5UyIAsiRuIgVl60pCYUzmR.jpg", Terrifier (2016 | 1080P)
+https://directlink.public-l.workers.dev/dl/672ad8a3e30b5e5640a2ff2d
+#EXTINF:-1, group-title="Terrifier 2" tvg-logo="https://image.tmdb.org/t/p/w500/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg", Terrifier 2 (2022 | 1080P)
+https://directlink.public-l.workers.dev/dl/672ad54ee30b5e5640a2ff22
+#EXTINF:-1, group-title="Terrifier 3" tvg-logo="https://image.tmdb.org/t/p/w500/63xYQj1BwRFielxsBDXvHIJyXVm.jpg", Terrifier 3 (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/672ad8a3e30b5e5640a2ff2c
+#EXTINF:-1, group-title="Super/Man: The Christopher Reeve Story" tvg-logo="https://image.tmdb.org/t/p/w500/73WchlI0Hj4HQd0T2KOztKquOek.jpg", Super/Man: The Christopher Reeve Story (2024 | 1080P)
+https://directlink.public-l.workers.dev/dl/672ad54ee30b5e5640a2ff23
 #EXTINF:-1, group-title="The Substance" tvg-logo="https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg", The Substance (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/67259f74223a9ab56c53fa34
 #EXTINF:-1, group-title="Cellar Door" tvg-logo="https://image.tmdb.org/t/p/w500/9vasnPh69RoUg9oUpzXoErMVDB7.jpg", Cellar Door (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/67259fcd223a9ab56c53fa3c
-#EXTINF:-1, group-title="The Critic" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg", The Critic (2024 | 1080P)
+#EXTINF:-1, group-title="The Critic" tvg-logo="https://image.tmdb.org/t/p/w500/mVqE5pCoofJ2QKu2LjXNcxVRR8V.jpg", The Critic (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa14
-#EXTINF:-1, group-title="Joker: Folie à Deux" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg", Joker: Folie à Deux (2024 | 1080P)
+#EXTINF:-1, group-title="Joker: Folie à Deux" tvg-logo="https://image.tmdb.org/t/p/w500/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg", Joker: Folie à Deux (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/67259f2f223a9ab56c53fa1c
-#EXTINF:-1, group-title="Don't move" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg", Don't move (2024 | 1080P)
+#EXTINF:-1, group-title="Don't move" tvg-logo="https://image.tmdb.org/t/p/w500/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg", Don't move (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/671e509ab3731c35ab857e93
-#EXTINF:-1, group-title="Transformers One" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg", Transformers One (2024 | 1080P)
+#EXTINF:-1, group-title="Transformers One" tvg-logo="https://image.tmdb.org/t/p/w500/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg", Transformers One (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c426
-#EXTINF:-1, group-title="Canary Black" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg", Canary Black (2024 | 1080P)
+#EXTINF:-1, group-title="Canary Black" tvg-logo="https://image.tmdb.org/t/p/w500/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg", Canary Black (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/671b0cb4afdfefecf027c42c
-#EXTINF:-1, group-title="Bagman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg", Bagman (2024 | 1080P)
+#EXTINF:-1, group-title="Bagman" tvg-logo="https://image.tmdb.org/t/p/w500/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg", Bagman (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6714f7f4de3f10ca2cb6cc6a
-#EXTINF:-1, group-title="The Shadow Strays" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cfkcrKySRyJiIdLo6c6kNSyLFh7.jpg", The Shadow Strays (2024 | 1080P)
+#EXTINF:-1, group-title="The Shadow Strays" tvg-logo="https://image.tmdb.org/t/p/w500/cfkcrKySRyJiIdLo6c6kNSyLFh7.jpg", The Shadow Strays (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6714f7f4de3f10ca2cb6cc6b
-#EXTINF:-1, group-title="Alien Romulus" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg", Akien Romulus (2024 | 1080P)
+#EXTINF:-1, group-title="Alien Romulus" tvg-logo="https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg", Akien Romulus (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc6d
-#EXTINF:-1, group-title="Women of The Hour" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jMxTIXOTyLLg6xTVrgK5opRDNv.jpg", Women of The Hour (2024 | 1080P)
+#EXTINF:-1, group-title="Women of The Hour" tvg-logo="https://image.tmdb.org/t/p/w500/2jMxTIXOTyLLg6xTVrgK5opRDNv.jpg", Women of The Hour (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc6f
-#EXTINF:-1, group-title="Uprising (Jeon, Ran)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg", Uprising (Jeon, Ran) (2024 | 1080P)
+#EXTINF:-1, group-title="Uprising (Jeon, Ran)" tvg-logo="https://image.tmdb.org/t/p/w500/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg", Uprising (Jeon, Ran) (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/670c1cb1c55946d017db4232
-#EXTINF:-1, group-title="Lonely Planet" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sH7Orig1yqa6ojMLIzLDxA2GRkH.jpg", Lonely Planet (2024 | 1080P)
+#EXTINF:-1, group-title="Lonely Planet" tvg-logo="https://image.tmdb.org/t/p/w500/sH7Orig1yqa6ojMLIzLDxA2GRkH.jpg", Lonely Planet (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/670c1ba1c55946d017db41fa
-#EXTINF:-1, group-title="Caddo Lake" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg", Caddo Lake (2024 | 1080P)
+#EXTINF:-1, group-title="Caddo Lake" tvg-logo="https://image.tmdb.org/t/p/w500/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg", Caddo Lake (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/670c1bacc55946d017db4205
-#EXTINF:-1, group-title="Beetlejuice Beetlejuice" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg", Beetlejuice Beetlejuice (2024 | 1080P)
+#EXTINF:-1, group-title="Beetlejuice Beetlejuice" tvg-logo="https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg", Beetlejuice Beetlejuice (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6b
-#EXTINF:-1, group-title="Hellboy: The Crooked Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4wdFRlklq5ke75VKeJrmSyAtHN9.jpg", Hellboy: The Crooked Man (2024 | 1080P)
+#EXTINF:-1, group-title="Hellboy: The Crooked Man" tvg-logo="https://image.tmdb.org/t/p/w500/4wdFRlklq5ke75VKeJrmSyAtHN9.jpg", Hellboy: The Crooked Man (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6a
-#EXTINF:-1, group-title="A Quiet Place: Day One" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hU42CRk14JuPEdqZG3AWmagiPAP.jpg", A Quiet Place: Day One (2024 | 1080P)
+#EXTINF:-1, group-title="A Quiet Place: Day One" tvg-logo="https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg", A Quiet Place: Day One (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4210
-#EXTINF:-1, group-title="The Killer's Game" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg", The Killer's Game (2024 | 1080P)
+#EXTINF:-1, group-title="The Killer's Game" tvg-logo="https://image.tmdb.org/t/p/w500/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg", The Killer's Game (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/67009df24f9a6ba159556aee
-#EXTINF:-1, group-title="The Platform 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg", The Platform 2 (2024 | 1080P)
+#EXTINF:-1, group-title="The Platform 2" tvg-logo="https://image.tmdb.org/t/p/w500/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg", The Platform 2 (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/67009df24f9a6ba159556aef
-#EXTINF:-1, group-title="Salem's Lot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg", Salem's Lot (2024 | 1080P)
+#EXTINF:-1, group-title="Salem's Lot" tvg-logo="https://image.tmdb.org/t/p/w500/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg", Salem's Lot (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66ff0abe788356063c227f99
-#EXTINF:-1, group-title="Speak No Evil" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg", Speak No Evil (2024 | 1080P)
+#EXTINF:-1, group-title="Speak No Evil" tvg-logo="https://image.tmdb.org/t/p/w500/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg", Speak No Evil (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66fbe3ef02d0a028f45a6ee9
-#EXTINF:-1, group-title="Strange Darling" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg", Strange Darling (2024 | 1080P)
+#EXTINF:-1, group-title="Strange Darling" tvg-logo="https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg", Strange Darling (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66fbe3ef02d0a028f45a6ee8
-#EXTINF:-1, group-title="The Wasp" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i7MKgAUDmsyqtkseoktqfb1GKrl.jpg", The Wasp (2024 | 1080P)
+#EXTINF:-1, group-title="The Wasp" tvg-logo="https://image.tmdb.org/t/p/w500/i7MKgAUDmsyqtkseoktqfb1GKrl.jpg", The Wasp (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66fb9ebe02d0a028f45a6e17
-#EXTINF:-1, group-title="Deadpool & Wolverine" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", Deadpool & Wolverine (2024 | 1080P)
+#EXTINF:-1, group-title="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", Deadpool & Wolverine (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66fb9ec702d0a028f45a6e20
-#EXTINF:-1, group-title="Lisabi: The Uprising" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1q3Ze0FVuV82pSrAWEGlC4PWu2h.jpg", Lisabi: The Uprising (2024 | 720P)
+#EXTINF:-1, group-title="Lisabi: The Uprising" tvg-logo="https://image.tmdb.org/t/p/w500/1q3Ze0FVuV82pSrAWEGlC4PWu2h.jpg", Lisabi: The Uprising (2024 | 720P)
 https://directlink.public-l.workers.dev/dl/66f7617d8e4cdd190e641121
-#EXTINF:-1, group-title="Wolfs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/57LO8XrYP7GRmtIzriHDOCErRq2.jpg", Wolfs (2024 | 1080P)
+#EXTINF:-1, group-title="Wolfs" tvg-logo="https://image.tmdb.org/t/p/w500/57LO8XrYP7GRmtIzriHDOCErRq2.jpg", Wolfs (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66f744c48e4cdd190e641108
-#EXTINF:-1, group-title="Killer Heat" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hdgKqiHIbowCnVZeODJ37VbVGFa.jpg", Killer Heat (2024 | 1080P)
+#EXTINF:-1, group-title="Killer Heat" tvg-logo="https://image.tmdb.org/t/p/w500/hdgKqiHIbowCnVZeODJ37VbVGFa.jpg", Killer Heat (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641113
-#EXTINF:-1, group-title="It Ends With Us" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJSbiu7S5pqDnzH9weTW82bYbWu.jpg", It Ends With Us (2024 | 1080P)
+#EXTINF:-1, group-title="It Ends With Us" tvg-logo="https://image.tmdb.org/t/p/w500/tJSbiu7S5pqDnzH9weTW82bYbWu.jpg", It Ends With Us (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e64110f
-#EXTINF:-1, group-title="The Front Room" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p0qqnfmhmJYYz73jK7UOwP3ZUgn.jpg", The Front Room (2024 | 1080P)
+#EXTINF:-1, group-title="The Front Room" tvg-logo="https://image.tmdb.org/t/p/w500/p0qqnfmhmJYYz73jK7UOwP3ZUgn.jpg", The Front Room (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e64110e
-#EXTINF:-1, group-title="Omni Loop" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKrwq3HeyFcl5MXb7tcsileoF9I.jpg", Omni Loop (2024 | 1080P)
+#EXTINF:-1, group-title="Omni Loop" tvg-logo="https://image.tmdb.org/t/p/w500/aKrwq3HeyFcl5MXb7tcsileoF9I.jpg", Omni Loop (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66ef4c4e5a776c72c05095f9
-#EXTINF:-1, group-title="Slingshot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/80zdgev0Uw1X52ouP79GJRr5fdQ.jpg", Slingshot (2024 | 1080P)
+#EXTINF:-1, group-title="Slingshot" tvg-logo="https://image.tmdb.org/t/p/w500/80zdgev0Uw1X52ouP79GJRr5fdQ.jpg", Slingshot (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6d9aa78b26fed62b649
-#EXTINF:-1, group-title="Blink Twice" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xnPtCOyyaeG8jD4Bsj57hoK4lJA.jpg", Blink Twice (2024 | 1080P)
+#EXTINF:-1, group-title="Blink Twice" tvg-logo="https://image.tmdb.org/t/p/w500/xnPtCOyyaeG8jD4Bsj57hoK4lJA.jpg", Blink Twice (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6d8aa78b26fed62b644
-#EXTINF:-1, group-title="Afraid" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg", Afraid (2024 | 1080P)
+#EXTINF:-1, group-title="Afraid" tvg-logo="https://image.tmdb.org/t/p/w500/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg", Afraid (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6d9aa78b26fed62b648
-#EXTINF:-1, group-title="The Invisibles" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxHYWpoZxRbKZuCNvIj5mPb9bVO.jpg", The Invisibles (2024 | 1080P)
+#EXTINF:-1, group-title="The Invisibles" tvg-logo="https://image.tmdb.org/t/p/w500/uxHYWpoZxRbKZuCNvIj5mPb9bVO.jpg", The Invisibles (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6d8aa78b26fed62b643
-#EXTINF:-1, group-title="Cuckoo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iWutSB1trhqcgPCBoAdP732oI6b.jpg", Cuckoo (2024 | 1080P)
+#EXTINF:-1, group-title="Cuckoo" tvg-logo="https://image.tmdb.org/t/p/w500/iWutSB1trhqcgPCBoAdP732oI6b.jpg", Cuckoo (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6d9aa78b26fed62b645
-#EXTINF:-1, group-title="1992" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tp3FR7V0omA8iB6P0uF7zPLdbi.jpg", 1992 (2024 | 1080P)
+#EXTINF:-1, group-title="1992" tvg-logo="https://image.tmdb.org/t/p/w500/5tp3FR7V0omA8iB6P0uF7zPLdbi.jpg", 1992 (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6d8aa78b26fed62b642
-#EXTINF:-1, group-title="Mulholland Drive" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6O9xIMiVL4J3wUbutwWQWSWbXO.jpg", Mulholland Drive (2001 | Remastered | 1080P)
+#EXTINF:-1, group-title="Mulholland Drive" tvg-logo="https://image.tmdb.org/t/p/w500/d6O9xIMiVL4J3wUbutwWQWSWbXO.jpg", Mulholland Drive (2001 | Remastered | 1080P)
 https://directlink.public-l.workers.dev/dl/66eae6b2aa78b26fed62b640
-#EXTINF:-1, group-title="Uglies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/og1SH6we0UQx5XNIDSfxDD4S1Sp.jpg", Uglies (2024 | 1080P)
+#EXTINF:-1, group-title="Uglies" tvg-logo="https://image.tmdb.org/t/p/w500/og1SH6we0UQx5XNIDSfxDD4S1Sp.jpg", Uglies (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66e63c89a52ad423ffde66c5
-#EXTINF:-1, group-title="The Crow" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AqchrmqqSCsEvhuinXgFXTD8q83.jpg", The Crow (2024 | 1080P)
+#EXTINF:-1, group-title="The Crow" tvg-logo="https://image.tmdb.org/t/p/w500/AqchrmqqSCsEvhuinXgFXTD8q83.jpg", The Crow (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66e63c89a52ad423ffde66c4
-#EXTINF:-1, group-title="Rebel Ridge" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0cL64iYeKYAYUBFupLgtxDXaVt.jpg", Rebel Ridge (2024 | 1080P)
+#EXTINF:-1, group-title="Rebel Ridge" tvg-logo="https://image.tmdb.org/t/p/w500/h0cL64iYeKYAYUBFupLgtxDXaVt.jpg", Rebel Ridge (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66df59f718a90d64bdffc6af
-#EXTINF:-1, group-title="Inside Out 2 " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mmdBbXCs85JxxKyG664KI46rdC3.jpg", Inside Out 2 (2024 | 1080P)
+#EXTINF:-1, group-title="Inside Out 2 " tvg-logo="https://image.tmdb.org/t/p/w500/mmdBbXCs85JxxKyG664KI46rdC3.jpg", Inside Out 2 (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c8ad3d2be482698fbeba67
-#EXTINF:-1, group-title="Crescent City" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vHiWN1A6O1pZdKSL6D44OQFWC6y.jpg", Crescent City (2024 | 1080P)
+#EXTINF:-1, group-title="Crescent City" tvg-logo="https://image.tmdb.org/t/p/w500/vHiWN1A6O1pZdKSL6D44OQFWC6y.jpg", Crescent City (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c8ad3d2be482698fbeba68
-#EXTINF:-1, group-title="Watchmen: Chapter I" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nXDTFZNldvQmbkgB0rktVEaFisZ.jpg", Watchmen: Chapter I (2024 | 1080P)
+#EXTINF:-1, group-title="Watchmen: Chapter I" tvg-logo="https://image.tmdb.org/t/p/w500/nXDTFZNldvQmbkgB0rktVEaFisZ.jpg", Watchmen: Chapter I (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c8ad3d2be482698fbeba6a
-#EXTINF:-1, group-title="Gunner" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eEkAY5veAnwxUOOlpF62KawkFO9.jpg", Gunner (2024 | 1080P)
+#EXTINF:-1, group-title="Gunner" tvg-logo="https://image.tmdb.org/t/p/w500/eEkAY5veAnwxUOOlpF62KawkFO9.jpg", Gunner (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c8ad8f2be482698fbeba6d
-#EXTINF:-1, group-title="Twisters" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg", Twisters (2024 | 1080P)
+#EXTINF:-1, group-title="Twisters" tvg-logo="https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg", Twisters (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c8aceb2be482698fbeba65
-#EXTINF:-1, group-title="Longlegs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4oB1ZqEBidYyExeGnIdxYktql3h.jpg", Longlegs (2024 | 1080P)
+#EXTINF:-1, group-title="Longlegs" tvg-logo="https://image.tmdb.org/t/p/w500/4oB1ZqEBidYyExeGnIdxYktql3h.jpg", Longlegs (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c90b972be482698fbeba97
-#EXTINF:-1, group-title="The Killer" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1EImSlh7UdFXxxEu4kBZwpg7EWx.jpg", The Killer (2024 | 1080P)
+#EXTINF:-1, group-title="The Killer" tvg-logo="https://image.tmdb.org/t/p/w500/1EImSlh7UdFXxxEu4kBZwpg7EWx.jpg", The Killer (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66c90b972be482698fbeba98
-#EXTINF:-1, group-title="Borderlands" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/865DntZzOdX6rLMd405R0nFkLmL.jpg", Borderlands (2024 | 1080P)
+#EXTINF:-1, group-title="Borderlands" tvg-logo="https://image.tmdb.org/t/p/w500/865DntZzOdX6rLMd405R0nFkLmL.jpg", Borderlands (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66d5472453ff0d15c68cd05d
-#EXTINF:-1, group-title="Trap" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/26RRXmtSiZ6p4D9HCiK217HEKIl.jpg", Trap (2024 | 1080P)
+#EXTINF:-1, group-title="Trap" tvg-logo="https://image.tmdb.org/t/p/w500/26RRXmtSiZ6p4D9HCiK217HEKIl.jpg", Trap (2024 | 1080P)
 https://directlink.public-l.workers.dev/dl/66d5472453ff0d15c68cd05e
-#EXTINF:-1, group-title="Napoleon" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yweHFOchVNJTJwkwrmVw3dpIAyw.jpg", Napoleon (2023 | Director's Cut | 1080P)
+#EXTINF:-1, group-title="Napoleon" tvg-logo="https://image.tmdb.org/t/p/w500/yweHFOchVNJTJwkwrmVw3dpIAyw.jpg", Napoleon (2023 | Director's Cut | 1080P)
 https://directlink.public-l.workers.dev/dl/66d54a1553ff0d15c68cd062
-#EXTINF:-1, group-title="Despicable Me 4" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg", Despicable Me 4 (2024 | FHD | SEEDR)
+#EXTINF:-1, group-title="Despicable Me 4" tvg-logo="https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg", Despicable Me 4 (2024 | FHD | SEEDR)
 https://directlink.public-l.workers.dev/dl/6714f83fde3f10ca2cb6cc91
-#EXTINF:-1, group-title="The Garfield Movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xYduFGuch9OwbCOEUiamml18ZoB.jpg", The Garfield Movie (2024 | FHD | SEEDR)
+#EXTINF:-1, group-title="The Garfield Movie" tvg-logo="https://image.tmdb.org/t/p/w500/xYduFGuch9OwbCOEUiamml18ZoB.jpg", The Garfield Movie (2024 | FHD | SEEDR)
 https://www.filestream.linkpc.net/dl/66e62c2e9cb32dd56a829447
-#EXTINF:-1, group-title="Bad Boys: Ride or Die" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qLyzyTXMFkqhzQ4aEeYYUoM4o18.jpg", Bad Boys: Ride or Die (2024 | FHD | SEEDR)
+#EXTINF:-1, group-title="Bad Boys: Ride or Die" tvg-logo="https://image.tmdb.org/t/p/w500/qLyzyTXMFkqhzQ4aEeYYUoM4o18.jpg", Bad Boys: Ride or Die (2024 | FHD | SEEDR)
 https://www.filestream.linkpc.net/dl/66e62ebe9cb32dd56a829456
 
 
-#EXTINF:8700, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jHV0bDiAqzzgtoHiJ03LhBPB05o.jpg", Kingdom of the Planet of the Apes (2024 | FHD)
+#EXTINF:8700, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/jHV0bDiAqzzgtoHiJ03LhBPB05o.jpg", Kingdom of the Planet of the Apes (2024 | FHD)
 https://directlink.public-l.workers.dev/dl/6714f83ade3f10ca2cb6cc8d
-#EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lyf09k0KnIKNAWjxAHAdJLnsJnO.jpg", Descendants: The Rise of Red (2024 | FHD)
+#EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/lyf09k0KnIKNAWjxAHAdJLnsJnO.jpg", Descendants: The Rise of Red (2024 | FHD)
 https://directlink.public-l.workers.dev/dl/6714f840de3f10ca2cb6cc92
-#EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t5GM2kSZDSsv77z0H0S4fwhBvwb.jpg", Space Cadet (2024 | FHD)
+#EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/t5GM2kSZDSsv77z0H0S4fwhBvwb.jpg", Space Cadet (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66872d19ad9282b7e97f8a32
-#EXTINF:5760, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWaF9dThPUbaBK8TbDu1AROJydd.jpg", Boneyard (2024 | FHD)
+#EXTINF:5760, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/yWaF9dThPUbaBK8TbDu1AROJydd.jpg", Boneyard (2024 | FHD)
 https://directlink.public-l.workers.dev/dl/6714f83ade3f10ca2cb6cc8c
-#EXTINF:6420, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Cg4G1iQpisGXmWqns5uo4I6fPk.jpg", Babes (2024 | FHD)
+#EXTINF:6420, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/1Cg4G1iQpisGXmWqns5uo4I6fPk.jpg", Babes (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66872c67ad9282b7e97f8a31
-#EXTINF:7080, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5OehGNBJUJeYrwMwtb2p0aXtpju.jpg", Beverly Hills Cop: Axel F (2024 | FHD)
+#EXTINF:7080, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/5OehGNBJUJeYrwMwtb2p0aXtpju.jpg", Beverly Hills Cop: Axel F (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66872c67ad9282b7e97f8a2f
-#EXTINF:6120, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hcs531VRASrBxcRR8cRbuuCXnZj.jpg", The Watchers (2024 | FHD)
+#EXTINF:6120, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/hcs531VRASrBxcRR8cRbuuCXnZj.jpg", The Watchers (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66837945a4839796174f1e3b
-#EXTINF:8940, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg", Furiosa: A Mad Max Saga (2024 | FHD | FS)
+#EXTINF:8940, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/ekxqPg2t1xQqCKbSUtuYJRry0WL.jpg", Furiosa: A Mad Max Saga (2024 | FHD | FS)
 https://www.filestream.linkpc.net/dl/667a0568e0322eb316c48482
-#EXTINF:5640, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vo4dqLToKIwmYOc5aySH4SpN4k0.jpg", In A Violent Nature (2024 | FHD)
+#EXTINF:5640, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/vo4dqLToKIwmYOc5aySH4SpN4k0.jpg", In A Violent Nature (2024 | FHD)
 https://www.filestream.linkpc.net/dl/6683793ea4839796174f1e37
-#EXTINF:6840, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gqhH1Bc1SYfbRV9mFHyGRU37r9l.jpg", A Family Affair (2024 | FHD)
+#EXTINF:6840, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/gqhH1Bc1SYfbRV9mFHyGRU37r9l.jpg", A Family Affair (2024 | FHD)
 https://www.filestream.linkpc.net/dl/6683793ea4839796174f1e3a
-#EXTINF:6360, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg", Trigger Warning (2024 | FHD)
+#EXTINF:6360, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg", Trigger Warning (2024 | FHD)
 https://www.filestream.linkpc.net/dl/6675e12df1f25ccc3a04d201
-#EXTINF:7020, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLlztG7W0fUH0ePO5sB3JqCUduS.jpg", Ultraman: Rising (2024 | FHD)
+#EXTINF:7020, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/rLlztG7W0fUH0ePO5sB3JqCUduS.jpg", Ultraman: Rising (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666ce2c69b1039af84481ac8
-#EXTINF:6000, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5HkiHTR7PJCC9Z1wHWpiV4nqqu.jpg", I Saw the TV Glow (2024 | FHD)
+#EXTINF:6000, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/5HkiHTR7PJCC9Z1wHWpiV4nqqu.jpg", I Saw the TV Glow (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666c38019b1039af84481a52
-#EXTINF:5580, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2sADrLwMQof6yYmrJRSa04tFZuS.jpg", Winnie-the-Pooh: Blood and Honey 2 (2024 | FHD)
+#EXTINF:5580, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg", Winnie-the-Pooh: Blood and Honey 2 (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666b7cafb3b2fb08abbb54f8
-#EXTINF:5460, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cdFZoQDxLRRWXLB3kxCnc674dBF.jpg", The Strangers: Chapter 1 (2024 | FHD)
+#EXTINF:5460, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/cdFZoQDxLRRWXLB3kxCnc674dBF.jpg", The Strangers: Chapter 1 (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666401bdd00b6c843c323ef5
-#EXTINF:5520, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKrDLfQX30tHaTIC2ZRAxG2PbQw.jpg", Die Hart 2: Die Harter (2024 | FHD)
+#EXTINF:5520, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/aKrDLfQX30tHaTIC2ZRAxG2PbQw.jpg", Die Hart 2: Die Harter (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666401f9d00b6c843c323efd
-#EXTINF:7140, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg", The First Omen (2024 | FHD)
+#EXTINF:7140, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg", The First Omen (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666401cdd00b6c843c323efb
 #EXTINF:6540, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://walter.trakt.tv/images/movies/000/745/438/posters/thumb/87df131090.jpg", Civil War (2024 | FHD)
 https://www.filestream.linkpc.net/dl/6663ffe6d00b6c843c323edf
@@ -165,35 +176,35 @@ https://www.filestream.linkpc.net/dl/66e630f19cb32dd56a82945e
 https://www.filestream.linkpc.net/dl/66e630909cb32dd56a82945d
 #EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UY337_.jpg", The Ministry of Ungentlemanly Warfare (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66e632739cb32dd56a829462
-#EXTINF:10020, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg", Dune: Part Two (2024 | FHD)
+#EXTINF:10020, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg", Dune: Part Two (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666400c6d00b6c843c323ee5
-#EXTINF:7380, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r4a3cO9Cc6GTLMeUR48gVqMb6jK.jpg", Rebel Moon - Part Two: The Scargiver (2024 | FHD)
+#EXTINF:7380, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/r4a3cO9Cc6GTLMeUR48gVqMb6jK.jpg", Rebel Moon - Part Two: The Scargiver (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666400c8d00b6c843c323ee8
-#EXTINF:7920, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg", Shaitaan (2024 | FHD)
+#EXTINF:7920, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg", Shaitaan (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666400c6d00b6c843c323ee4
-#EXTINF:5640, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xscMEP5VsvCLxFvrDQD84biWsLA.jpg", Mothers' Instinct (2024 | FHD)
+#EXTINF:5640, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/xscMEP5VsvCLxFvrDQD84biWsLA.jpg", Mothers' Instinct (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666401bbd00b6c843c323ef4
-#EXTINF:7200, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg", Asphalt City (2024 | FHD)
+#EXTINF:7200, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg", Asphalt City (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666401bbd00b6c843c323ef1
 
-#EXTINF:6900, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg", Hit Man (2024 | FHD | Blu-ray)
+#EXTINF:6900, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg", Hit Man (2024 | FHD | Blu-ray)
 https://www.filestream.linkpc.net/dl/6695a9d3be2998847a9657d2
-#EXTINF:6600, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/25JskXmchcYwj3jHRmcPm738MpB.jpg", Boy Kills World (2023 | FHD | Blu-ray)
+#EXTINF:6600, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/25JskXmchcYwj3jHRmcPm738MpB.jpg", Boy Kills World (2023 | FHD | Blu-ray)
 https://www.filestream.linkpc.net/dl/6695a9ccbe2998847a9657d0
-#EXTINF:7560, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tSz1qsmSJon0rqjHBxXZmrotuse.jpg", The Fall Guy (2024 | FHD | Blu-ray)
+#EXTINF:7560, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg", The Fall Guy (2024 | FHD | Blu-ray)
 https://www.filestream.linkpc.net/dl/6695a9d3be2998847a9657d3
-#EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg", Abigail (2024 | FHD)
+#EXTINF:-1, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg", Abigail (2024 | FHD)
 https://www.filestream.linkpc.net/dl/66e632739cb32dd56a829461
-#EXTINF:6420, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg", Arthur the King (2024 | FHD)
+#EXTINF:6420, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg", Arthur the King (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666400ced00b6c843c323eea
-#EXTINF:5520, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg", Arcadian (2024 | FHD)
+#EXTINF:5520, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg", Arcadian (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666400ced00b6c843c323eeb
-#EXTINF:5880, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xfurDAhrGzsOPx4Vb1BltqhIqhy.jpg", Damaged (2024 | FHD)
+#EXTINF:5880, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/xfurDAhrGzsOPx4Vb1BltqhIqhy.jpg", Damaged (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666401bbd00b6c843c323ef2
-#EXTINF:6900, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1hku2QAzbElm3TrYoZEgRqQHMQ5.jpg", Breath of Life (2023 | FHD)
+#EXTINF:6900, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/1hku2QAzbElm3TrYoZEgRqQHMQ5.jpg", Breath of Life (2023 | FHD)
 https://www.filestream.linkpc.net/dl/666401c8d00b6c843c323ef9
-#EXTINF:5580, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg", Late Night with the Devil (2024 | FHD)
+#EXTINF:5580, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg", Late Night with the Devil (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666400c6d00b6c843c323ee6
-#EXTINF:6960, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg", The Idea of You (2024 | FHD)
+#EXTINF:6960, group-title="Early 2024 🍿📽️🎥" tvg-logo="https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg", The Idea of You (2024 | FHD)
 https://www.filestream.linkpc.net/dl/666400ced00b6c843c323ee9
 

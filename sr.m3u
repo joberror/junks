@@ -1,5 +1,24 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/gKUUmjd0bZyxV9BAIdvFhrz1lY5.jpg", Beauty in Black | S1.E1 - Make It Rain
+https://directlink.public-l.workers.dev/dl/672ad52fe30b5e5640a2ff0f
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/4syKOE2xASycSauPa8t9qsISVeR.jpg", Beauty in Black | S1.E2 - A Dance with Daddy
+https://directlink.public-l.workers.dev/dl/672ad52fe30b5e5640a2ff11
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/jqZYDxOAfHXkclsO12KdSvPtahz.jpg", Beauty in Black | S1.E3 - The Aftermath
+https://directlink.public-l.workers.dev/dl/672ad530e30b5e5640a2ff16
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/wFqaQzbOuVJVA25GKM28DX5tTDM.jpg", Beauty in Black | S1.E4 -  A Family Affair
+https://directlink.public-l.workers.dev/dl/672ad530e30b5e5640a2ff17
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/uhWj5RRPuoZySwOQGZG3g4i6fGe.jpg", Beauty in Black | S1.E5 - Unraveling Threads
+https://directlink.public-l.workers.dev/dl/672ad534e30b5e5640a2ff18
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/lOzYIeXZTOOjTvtnYv1P3hhaCDw.jpg", Beauty in Black | S1.E6 - Bang Bang
+https://directlink.public-l.workers.dev/dl/672ad538e30b5e5640a2ff1b
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/gkAojWvXFRAPGXl2WEt36wxOLtC.jpg", Beauty in Black | S1.E7 - Even Playing Field
+https://directlink.public-l.workers.dev/dl/672ad539e30b5e5640a2ff1d
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/tLoZBCmqvXqgdOGF4DvSVfWYizb.jpg", Beauty in Black | S1.E8 - Killing Karma
+https://directlink.public-l.workers.dev/dl/672ad538e30b5e5640a2ff1c
+
+
+
 #EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/5CdBj4c7co4ZAAWBbGA336jIgku.jpg", The Diplomat | S1.E1 - The Cinderella Thing
 https://directlink.public-l.workers.dev/dl/6725a841223a9ab56c53fa60
 #EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/A4a9gcahgiXRtiQrXkWGwtaVeHz.jpg", The Diplomat | S1.E2 - Don't Call It a Kidnapping
@@ -31,30 +50,28 @@ https://directlink.public-l.workers.dev/dl/6725a82a223a9ab56c53fa4b
 
 
 
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg", Special Ops: Lioness | S1.E1 - Sacrificial Soldiers
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg", Special Ops: Lioness | S1.E1 - Sacrificial Soldiers
 https://directlink.public-l.workers.dev/dl/671e844eb3731c35ab857ecf
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg", Special Ops: Lioness | S1.E2 - The Beating
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg", Special Ops: Lioness | S1.E2 - The Beating
 https://directlink.public-l.workers.dev/dl/671e8449b3731c35ab857ecc
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/trvQgNJdoVoTJNLoSVR6goqlKZf.jpg", Special Ops: Lioness | S1.E3 - Bruise Like a Fist
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/trvQgNJdoVoTJNLoSVR6goqlKZf.jpg", Special Ops: Lioness | S1.E3 - Bruise Like a Fist
 https://directlink.public-l.workers.dev/dl/671e8446b3731c35ab857ec6
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg", Special Ops: Lioness | S1.E4 - The Choice of Failure
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg", Special Ops: Lioness | S1.E4 - The Choice of Failure
 https://directlink.public-l.workers.dev/dl/671e8446b3731c35ab857ec5
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ciYRv08dxwk1idonANAUKEXZHI6.jpg", Special Ops: Lioness | S1.E5 - Truth Is the Shrewdest Lie
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/ciYRv08dxwk1idonANAUKEXZHI6.jpg", Special Ops: Lioness | S1.E5 - Truth Is the Shrewdest Lie
 https://directlink.public-l.workers.dev/dl/671e8445b3731c35ab857ec4
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg", Special Ops: Lioness | S1.E6 - The Lie Is the Truth
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg", Special Ops: Lioness | S1.E6 - The Lie Is the Truth
 https://directlink.public-l.workers.dev/dl/671e8446b3731c35ab857ec9
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg", Special Ops: Lioness | S1.E7 - Wish the Fight Away
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg", Special Ops: Lioness | S1.E7 - Wish the Fight Away
 https://directlink.public-l.workers.dev/dl/671e8445b3731c35ab857ec2
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3ndiiSM8sWMclfS123YaVIBOtsw.jpg", Special Ops: Lioness | S1.E8 - Gone Is the Illusion of Order
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/3ndiiSM8sWMclfS123YaVIBOtsw.jpg", Special Ops: Lioness | S1.E8 - Gone Is the Illusion of Order
 https://directlink.public-l.workers.dev/dl/671e8445b3731c35ab857ec3
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg", Special Ops: Lioness | S2.E1 - Beware the Old Soldier
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg", Special Ops: Lioness | S2.E1 - Beware the Old Soldier
 https://directlink.public-l.workers.dev/dl/671e5099b3731c35ab857e8e
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg", Special Ops: Lioness | S2.E1 - Beware the Old Soldier [Alt Link]
-https://cdn4-xtreme.mysterysd.in/dl/671e500f299de04683881a98
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg", Special Ops: Lioness | S2.E2 - I Love My Country
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg", Special Ops: Lioness | S2.E2 - I Love My Country
 https://directlink.public-l.workers.dev/dl/671e509ab3731c35ab857e94
-#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg", Special Ops: Lioness | S2.E3 - I Love My Country [Alt Link]
-https://cdn4-xtreme.mysterysd.in/dl/671e500f299de04683881a97
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/oFPPXT4erNP898TSEElI9fAZULG.jpg", Special Ops: Lioness | S2.E3 - Along Came a Spider
+https://directlink.public-l.workers.dev/dl/672ad52fe30b5e5640a2ff10
 
 
 
@@ -73,465 +90,471 @@ https://directlink.public-l.workers.dev/dl/67259fcd223a9ab56c53fa3e
 
 
 
-#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/x7pGZsdc5raEGZNfWNLKKfawQF3.jpg", Territory | S1.E1
+#EXTINF:-1, group-title="Territory" tvg-logo="https://image.tmdb.org/t/p/w500/x7pGZsdc5raEGZNfWNLKKfawQF3.jpg", Territory | S1.E1
 https://directlink.public-l.workers.dev/dl/671b0cb7afdfefecf027c42e
-#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/n7YSjl8ZqVVBjwtSDrAV23lwUUU.jpg", Territory | S1.E2
+#EXTINF:-1, group-title="Territory" tvg-logo="https://image.tmdb.org/t/p/w500/n7YSjl8ZqVVBjwtSDrAV23lwUUU.jpg", Territory | S1.E2
 https://directlink.public-l.workers.dev/dl/671b0cbdafdfefecf027c432
-#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/z7fdnd45Pla7a2BJFUYZYmxZJFu.jpg", Territory | S1.E3
+#EXTINF:-1, group-title="Territory" tvg-logo="https://image.tmdb.org/t/p/w500/z7fdnd45Pla7a2BJFUYZYmxZJFu.jpg", Territory | S1.E3
 https://directlink.public-l.workers.dev/dl/671b0cbdafdfefecf027c433
-#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nnJ2d8CMaO1rqnKWWsYhxuMdrA8.jpg", Territory | S1.E4
+#EXTINF:-1, group-title="Territory" tvg-logo="https://image.tmdb.org/t/p/w500/nnJ2d8CMaO1rqnKWWsYhxuMdrA8.jpg", Territory | S1.E4
 https://directlink.public-l.workers.dev/dl/671b0cbdafdfefecf027c431
-#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uhZ7NBZPtriQqaE4jlMuJN2DUpz.jpg", Territory | S1.E5
+#EXTINF:-1, group-title="Territory" tvg-logo="https://image.tmdb.org/t/p/w500/uhZ7NBZPtriQqaE4jlMuJN2DUpz.jpg", Territory | S1.E5
 https://directlink.public-l.workers.dev/dl/671b0cc2afdfefecf027c438
-#EXTINF:-1, group-title="Territory" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/t08GqgNmbJhaeZfFhYlJlPzihsJ.jpg", Territory | S1.E6
+#EXTINF:-1, group-title="Territory" tvg-logo="https://image.tmdb.org/t/p/w500/t08GqgNmbJhaeZfFhYlJlPzihsJ.jpg", Territory | S1.E6
 https://directlink.public-l.workers.dev/dl/671b0cc7afdfefecf027c439
 
 
 
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/c28wngerlJ7MM0ocYjX1dzwueH0.jpg", Hellbound A.K.A Jiok | S1.E1
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/c28wngerlJ7MM0ocYjX1dzwueH0.jpg", Hellbound A.K.A Jiok | S1.E1
 https://directlink.public-l.workers.dev/dl/67259f3e223a9ab56c53fa26
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/iYGMucvbhqz88F1FC3ttBHiq0mB.jpg", Hellbound A.K.A Jiok | S1.E2
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/iYGMucvbhqz88F1FC3ttBHiq0mB.jpg", Hellbound A.K.A Jiok | S1.E2
 https://directlink.public-l.workers.dev/dl/67259f3e223a9ab56c53fa27
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/os9bLyU35xZlOQkcA6Ee2T2Rein.jpg", Hellbound A.K.A Jiok | S1.E3
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/os9bLyU35xZlOQkcA6Ee2T2Rein.jpg", Hellbound A.K.A Jiok | S1.E3
 https://directlink.public-l.workers.dev/dl/67259f43223a9ab56c53fa2c
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zRge9nmPBBhkfsVwmJpNhLEBU1f.jpg", Hellbound A.K.A Jiok | S1.E4
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/zRge9nmPBBhkfsVwmJpNhLEBU1f.jpg", Hellbound A.K.A Jiok | S1.E4
 https://directlink.public-l.workers.dev/dl/67259f43223a9ab56c53fa2b
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6G6tvlxcctuVVk6YXUmEcvmioBh.jpg", Hellbound A.K.A Jiok | S1.E5
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/6G6tvlxcctuVVk6YXUmEcvmioBh.jpg", Hellbound A.K.A Jiok | S1.E5
 https://directlink.public-l.workers.dev/dl/67259f6e223a9ab56c53fa2d
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/oGdlZt118qzw1Iar5YH3Ddy4jCX.jpg", Hellbound A.K.A Jiok | S1.E6
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/oGdlZt118qzw1Iar5YH3Ddy4jCX.jpg", Hellbound A.K.A Jiok | S1.E6
 https://directlink.public-l.workers.dev/dl/67259f6e223a9ab56c53fa2e
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xScitPU6asSBhTPcLdf6iVgrcvH.jpg", Hellbound A.K.A Jiok | S2.E1
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/xScitPU6asSBhTPcLdf6iVgrcvH.jpg", Hellbound A.K.A Jiok | S2.E1
 https://directlink.public-l.workers.dev/dl/67259f38223a9ab56c53fa20
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nKmglTaG0DqtUk0T9D5EmRdWhwm.jpg", Hellbound A.K.A Jiok | S2.E2
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/nKmglTaG0DqtUk0T9D5EmRdWhwm.jpg", Hellbound A.K.A Jiok | S2.E2
 https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa19
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jCx4IqZjwWeN8YWf9nGNvoeNGo9.jpg", Hellbound A.K.A Jiok | S2.E3
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/jCx4IqZjwWeN8YWf9nGNvoeNGo9.jpg", Hellbound A.K.A Jiok | S2.E3
 https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa16
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zICJMPYcb8pOt4NBYRCfdV8wcdg.jpg", Hellbound A.K.A Jiok | S2.E4
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/zICJMPYcb8pOt4NBYRCfdV8wcdg.jpg", Hellbound A.K.A Jiok | S2.E4
 https://directlink.public-l.workers.dev/dl/67259f39223a9ab56c53fa21
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cLBDwn2pugMBq4l6pPxmOmqW7QY.jpg", Hellbound A.K.A Jiok | S2.E5
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/cLBDwn2pugMBq4l6pPxmOmqW7QY.jpg", Hellbound A.K.A Jiok | S2.E5
 https://directlink.public-l.workers.dev/dl/67259f39223a9ab56c53fa22
-#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3SsnFjznTz35uuuBf3ISnWHocXy.jpg", Hellbound A.K.A Jiok | S2.E6
+#EXTINF:-1, group-title="Hellbound A.K.A Jiok" tvg-logo="https://image.tmdb.org/t/p/w500/3SsnFjznTz35uuuBf3ISnWHocXy.jpg", Hellbound A.K.A Jiok | S2.E6
 https://directlink.public-l.workers.dev/dl/67259f32223a9ab56c53fa1d
 
 
 
-#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/perMuyDoEMDpwFNC1ilctJoypHJ.jpg", Ludwig | S1.E1
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://image.tmdb.org/t/p/w500/perMuyDoEMDpwFNC1ilctJoypHJ.jpg", Ludwig | S1.E1
 https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc6c
-#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ydLP8Nisju3Im2gPuxq81DPEtEY.jpg", Ludwig | S1.E2
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://image.tmdb.org/t/p/w500/ydLP8Nisju3Im2gPuxq81DPEtEY.jpg", Ludwig | S1.E2
 https://directlink.public-l.workers.dev/dl/6714f7f8de3f10ca2cb6cc74
-#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rJHurIQstoSDrDzl168B56gTsf6.jpg", Ludwig | S1.E3
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://image.tmdb.org/t/p/w500/rJHurIQstoSDrDzl168B56gTsf6.jpg", Ludwig | S1.E3
 https://directlink.public-l.workers.dev/dl/6714f7fede3f10ca2cb6cc78
-#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fD2mOgKjFkZ1NqWSwDZePiEpnOQ.jpg", Ludwig | S1.E4
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://image.tmdb.org/t/p/w500/fD2mOgKjFkZ1NqWSwDZePiEpnOQ.jpg", Ludwig | S1.E4
 https://directlink.public-l.workers.dev/dl/6714f7fede3f10ca2cb6cc77
-#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/35eI1ucIKQs1obUCnlPo3mSHngw.jpg", Ludwig | S1.E5
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://image.tmdb.org/t/p/w500/35eI1ucIKQs1obUCnlPo3mSHngw.jpg", Ludwig | S1.E5
 https://directlink.public-l.workers.dev/dl/6714f7fede3f10ca2cb6cc79
-#EXTINF:-1, group-title="Ludwig" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/gXcX11AznO9E9GzIJdrwzbZm0JR.jpg", Ludwig | S1.E6
+#EXTINF:-1, group-title="Ludwig" tvg-logo="https://image.tmdb.org/t/p/w500/gXcX11AznO9E9GzIJdrwzbZm0JR.jpg", Ludwig | S1.E6
 https://directlink.public-l.workers.dev/dl/6714f805de3f10ca2cb6cc7d
 
 
 
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aQ8lC1AyRSl0KTDjdc2mJTt652a.jpg", Hysteria | S1.E1 - Hysteria
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/aQ8lC1AyRSl0KTDjdc2mJTt652a.jpg", Hysteria | S1.E1 - Hysteria
 https://directlink.public-l.workers.dev/dl/6714f805de3f10ca2cb6cc7e
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4tzaamViJzPl29zC0Zeqsid0Atp.jpg", Hysteria | S1.E2 - Die Young
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/4tzaamViJzPl29zC0Zeqsid0Atp.jpg", Hysteria | S1.E2 - Die Young
 https://directlink.public-l.workers.dev/dl/6714f80ade3f10ca2cb6cc81
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sMOOX7LiSyMiiJ4OcQ30eL1Y78J.jpg", Hysteria | S1.E3 - Can I Play with Madness
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/sMOOX7LiSyMiiJ4OcQ30eL1Y78J.jpg", Hysteria | S1.E3 - Can I Play with Madness
 https://directlink.public-l.workers.dev/dl/6714f80ade3f10ca2cb6cc82
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uYTknw8tt82n72UP34bCZzGnHkP.jpg", Hysteria | S1.E4 - Dance Macabre
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/uYTknw8tt82n72UP34bCZzGnHkP.jpg", Hysteria | S1.E4 - Dance Macabre
 https://directlink.public-l.workers.dev/dl/6714f80cde3f10ca2cb6cc83
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vsnPewEY0dGhHRKCv1PIaL0PGoh.jpg", Hysteria | S1.E5 - Mother
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/vsnPewEY0dGhHRKCv1PIaL0PGoh.jpg", Hysteria | S1.E5 - Mother
 https://directlink.public-l.workers.dev/dl/6714f834de3f10ca2cb6cc87
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vx9jHAVp8rKgtmRH4bAIzAqaII8.jpg", Hysteria | S1.E6 -Speaking in Tongues
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/vx9jHAVp8rKgtmRH4bAIzAqaII8.jpg", Hysteria | S1.E6 -Speaking in Tongues
 https://directlink.public-l.workers.dev/dl/6714f834de3f10ca2cb6cc88
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/5S1XxS2cFawNpMYupBlGUUDfpws.jpg", Hysteria | S1.E7 - It's Late
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/5S1XxS2cFawNpMYupBlGUUDfpws.jpg", Hysteria | S1.E7 - It's Late
 https://directlink.public-l.workers.dev/dl/6714f839de3f10ca2cb6cc8a
-#EXTINF:-1, group-title="Hysteria" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ntGUchSvr3NnElJrB8vgZTiR7Ok.jpg", Hysteria | S1.E8 - Heaven's on Fire
+#EXTINF:-1, group-title="Hysteria" tvg-logo="https://image.tmdb.org/t/p/w500/ntGUchSvr3NnElJrB8vgZTiR7Ok.jpg", Hysteria | S1.E8 - Heaven's on Fire
 https://directlink.public-l.workers.dev/dl/6714f83ade3f10ca2cb6cc8b
 
 
 
-#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jgnvUK6f9FJ76517VoUMDuk9Mc7.jpg", Sweetpea | S1.E1 - Sorry for Your Loss
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w500/jgnvUK6f9FJ76517VoUMDuk9Mc7.jpg", Sweetpea | S1.E1 - Sorry for Your Loss
 https://directlink.public-l.workers.dev/dl/670c1ba1c55946d017db41fc
-#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cOKss9nV0wsFV2kMr8fTsKM7Ftu.jpg", Sweetpea | S1.E2 - This Sort of Thing Needs Some Feminine Energy
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w500/cOKss9nV0wsFV2kMr8fTsKM7Ftu.jpg", Sweetpea | S1.E2 - This Sort of Thing Needs Some Feminine Energy
 https://directlink.public-l.workers.dev/dl/670c1baac55946d017db4203
-#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dkpMWTlXtm5Inx45HCfdJ0Ewc9r.jpg", Sweetpea | S1.E3 - Black Spots in the Garage
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w500/dkpMWTlXtm5Inx45HCfdJ0Ewc9r.jpg", Sweetpea | S1.E3 - Black Spots in the Garage
 https://directlink.public-l.workers.dev/dl/670c1bacc55946d017db4204
-#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/2T4h7PZ3jxfIgstV5VSfvnQusVP.jpg", Sweetpea | S1.E4 - Everybody Loves Julia
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w500/2T4h7PZ3jxfIgstV5VSfvnQusVP.jpg", Sweetpea | S1.E4 - Everybody Loves Julia
 https://directlink.public-l.workers.dev/dl/670c1bacc55946d017db4205
-#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dhVOQcOsG9kywp0qO6mf4tDMkHR.jpg", Sweetpea | S1.E5 - Someone's Been a Naughty Girl
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w500/dhVOQcOsG9kywp0qO6mf4tDMkHR.jpg", Sweetpea | S1.E5 - Someone's Been a Naughty Girl
 https://directlink.public-l.workers.dev/dl/670c1bacc55946d017db4206
-#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg", Sweetpea | S1.E6 - Life 2.0
+#EXTINF:-1, group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w500/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg", Sweetpea | S1.E6 - Life 2.0
 https://directlink.public-l.workers.dev/dl/670c1bd5c55946d017db4209
 
 
 
-#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fQZz58bKGWr7gh37G6gIljcvwyb.jpg", Citadel: Diana | S1.E1 - Split in Two
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://image.tmdb.org/t/p/w500/fQZz58bKGWr7gh37G6gIljcvwyb.jpg", Citadel: Diana | S1.E1 - Split in Two
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41f0
-#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9gFXm9OKSERnpnvQQa55xYPMooX.jpg", Citadel: Diana | S1.E2 - War
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://image.tmdb.org/t/p/w500/9gFXm9OKSERnpnvQQa55xYPMooX.jpg", Citadel: Diana | S1.E2 - War
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ee
-#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vXjQuftUlWfbDpqDhuAnxkoeE6I.jpg", Citadel: Diana | S1.E3 - Together
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://image.tmdb.org/t/p/w500/vXjQuftUlWfbDpqDhuAnxkoeE6I.jpg", Citadel: Diana | S1.E3 - Together
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ef
-#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pqdcBZV6FYqTZd9J3es83rILLbi.jpg", Citadel: Diana | S1.E4 - The Zanis
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://image.tmdb.org/t/p/w500/pqdcBZV6FYqTZd9J3es83rILLbi.jpg", Citadel: Diana | S1.E4 - The Zanis
 https://directlink.public-l.workers.dev/dl/670c1b97c55946d017db41f7
-#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jwh16a10blfYTkXjgTPYcHDjYyN.jpg", Citadel: Diana | S1.E5 - Attack
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://image.tmdb.org/t/p/w500/jwh16a10blfYTkXjgTPYcHDjYyN.jpg", Citadel: Diana | S1.E5 - Attack
 https://directlink.public-l.workers.dev/dl/670c1b9fc55946d017db41f8
-#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/51N91s7MQ4ZImtCTeJJMEsw1H3P.jpg", Citadel: Diana | S1.E6 - Jupiter
+#EXTINF:-1, group-title="Citadel: Diana" tvg-logo="https://image.tmdb.org/t/p/w500/51N91s7MQ4ZImtCTeJJMEsw1H3P.jpg", Citadel: Diana | S1.E6 - Jupiter
 https://directlink.public-l.workers.dev/dl/670c1ba1c55946d017db41f9
 
 
 
-#EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rbI6dTX5AGTPt8b7wvJDVNSpmpP.jpg", Joan | S1.E1
+#EXTINF:-1, group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/rbI6dTX5AGTPt8b7wvJDVNSpmpP.jpg", Joan | S1.E1
 https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1b
-#EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/evDS5lFtyKnf6ZFbjEkblS545T1.jpg", Joan | S1.E2
+#EXTINF:-1, group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/evDS5lFtyKnf6ZFbjEkblS545T1.jpg", Joan | S1.E2
 https://directlink.public-l.workers.dev/dl/66ff0b1f788356063c227f9d
-#EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qGttr70vqGF6qYJnWkEKqlE2AwP.jpg", Joan | S1.E3
+#EXTINF:-1, group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/qGttr70vqGF6qYJnWkEKqlE2AwP.jpg", Joan | S1.E3
 https://directlink.public-l.workers.dev/dl/66ff0b1f788356063c227fa1
-#EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/N8RRosxITl0bSzCeIt7XsweIRq.jpg", Joan | S1.E4
+#EXTINF:-1, group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/N8RRosxITl0bSzCeIt7XsweIRq.jpg", Joan | S1.E4
 https://directlink.public-l.workers.dev/dl/66ff0b1f788356063c227f9f
-#EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vQgbXkl5dKqgnWMDGWSzCmGOAdp.jpg", Joan | S1.E5
+#EXTINF:-1, group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/vQgbXkl5dKqgnWMDGWSzCmGOAdp.jpg", Joan | S1.E5
 https://directlink.public-l.workers.dev/dl/66ff0b1f788356063c227fa0
-#EXTINF:-1, group-title="Joan" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/87TOJLFOMe3nnlX4PQx5ro6ijNz.jpg", Joan | S1.E6
+#EXTINF:-1, group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/87TOJLFOMe3nnlX4PQx5ro6ijNz.jpg", Joan | S1.E6
 https://directlink.public-l.workers.dev/dl/66ff0b1f788356063c227f9e
 
 
 
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3WXZ2kTJtuK6j27ws1DSUO3PP7l.jpg", Nobody Wants This | S1.E1 - Pilot
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/3WXZ2kTJtuK6j27ws1DSUO3PP7l.jpg", Nobody Wants This | S1.E1 - Pilot
 https://directlink.public-l.workers.dev/dl/66fba17402d0a028f45a6e23
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/gGED98zXDeqzwvav8pHgly1zirY.jpg", Nobody Wants This | S1.E2 - A Shiksa Walks Into a Temple
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/gGED98zXDeqzwvav8pHgly1zirY.jpg", Nobody Wants This | S1.E2 - A Shiksa Walks Into a Temple
 https://directlink.public-l.workers.dev/dl/66fba17402d0a028f45a6e25
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eaRoEsZ1O1dxjgqzVcIIdyzV9e.jpg", Nobody Wants This | S1.E3 - Either Aura
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/eaRoEsZ1O1dxjgqzVcIIdyzV9e.jpg", Nobody Wants This | S1.E3 - Either Aura
 https://directlink.public-l.workers.dev/dl/66fba17402d0a028f45a6e24
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3Cr08ccrv5VumPwGppDLW1oNiVc.jpg", Nobody Wants This | S1.E4 - Obliterated
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/3Cr08ccrv5VumPwGppDLW1oNiVc.jpg", Nobody Wants This | S1.E4 - Obliterated
 https://directlink.public-l.workers.dev/dl/66fba17502d0a028f45a6e2b
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qDk6n76HinlSmlSagg7xMjXuWZg.jpg", Nobody Wants This | S1.E5 - My Friend Joanne
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/qDk6n76HinlSmlSagg7xMjXuWZg.jpg", Nobody Wants This | S1.E5 - My Friend Joanne
 https://directlink.public-l.workers.dev/dl/66fba17402d0a028f45a6e27
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i7ziMZh6erkGYGOQqYJRB0P5aa.jpg", Nobody Wants This | S1.E6 - The Ick
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/i7ziMZh6erkGYGOQqYJRB0P5aa.jpg", Nobody Wants This | S1.E6 - The Ick
 https://directlink.public-l.workers.dev/dl/66fba17502d0a028f45a6e2a
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fREh6JYQpmlyp7UG2jXQMvR2ntE.jpg", Nobody Wants This | S1.E7 - WAGS
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/fREh6JYQpmlyp7UG2jXQMvR2ntE.jpg", Nobody Wants This | S1.E7 - WAGS
 https://directlink.public-l.workers.dev/dl/66fba17802d0a028f45a6e2d
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/w2GdNdPF3qhT2tMbeViDkinBc9r.jpg", Nobody Wants This | S1.E8 - Rebecca's Box
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/w2GdNdPF3qhT2tMbeViDkinBc9r.jpg", Nobody Wants This | S1.E8 - Rebecca's Box
 https://directlink.public-l.workers.dev/dl/66fba17c02d0a028f45a6e30
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/KtHu2YZ9aWbWq4cX4P0OokZHOm.jpg", Nobody Wants This | S1.E9 - My Girl Bina
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/KtHu2YZ9aWbWq4cX4P0OokZHOm.jpg", Nobody Wants This | S1.E9 - My Girl Bina
 https://directlink.public-l.workers.dev/dl/66fba17c02d0a028f45a6e31
-#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/5vjGq9ZPzv1W35MppxIYdpE4ZBu.jpg", Nobody Wants This | S1.E10 - Bat Mitzvah Crashers
+#EXTINF:-1, group-title="Nobody Wants This" tvg-logo="https://image.tmdb.org/t/p/w500/5vjGq9ZPzv1W35MppxIYdpE4ZBu.jpg", Nobody Wants This | S1.E10 - Bat Mitzvah Crashers
 https://directlink.public-l.workers.dev/dl/66fba17d02d0a028f45a6e32
 
 
 
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/UG4jT4xzBgxS5wofmKUsQFpC0.jpg", Grotesquerie | S1.E1 - Pilot
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/UG4jT4xzBgxS5wofmKUsQFpC0.jpg", Grotesquerie | S1.E1 - Pilot
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641111
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8gnKpTwF3hBc9apWBVKHjiaIy8N.jpg", Grotesquerie | S1.E2 - True Crime Catholics
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/8gnKpTwF3hBc9apWBVKHjiaIy8N.jpg", Grotesquerie | S1.E2 - True Crime Catholics
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641112
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uTk28VwTCFP7H0RQjdPXHmM1g8b.jpg", Grotesquerie | S1.E3 - The Bender
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/uTk28VwTCFP7H0RQjdPXHmM1g8b.jpg", Grotesquerie | S1.E3 - The Bender
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421b
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/s0KGgH5hxA9dX8RUf5BtDiNQdxS.jpg", Grotesquerie | S1.E4 - Cordinates
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/s0KGgH5hxA9dX8RUf5BtDiNQdxS.jpg", Grotesquerie | S1.E4 - Cordinates
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421c
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dPA9WcDwxlZZvqntpza6MeJ30f9.jpg", Grotesquerie | S1.E5 - Red Haze
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/dPA9WcDwxlZZvqntpza6MeJ30f9.jpg", Grotesquerie | S1.E5 - Red Haze
 https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4212
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dDMguU43euo7xGZllaoUEFJAYsg.jpg", Grotesquerie | S1.E6 - Good Caesarean Work
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/dDMguU43euo7xGZllaoUEFJAYsg.jpg", Grotesquerie | S1.E6 - Good Caesarean Work
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421a
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/csMe4KFt2mKGxMqSneDnJ9Pmvos.jpg", Grotesquerie | S1.E7 - Unplugged
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/csMe4KFt2mKGxMqSneDnJ9Pmvos.jpg", Grotesquerie | S1.E7 - Unplugged
 https://directlink.public-l.workers.dev/dl/6714f7f5de3f10ca2cb6cc70
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6Ib7xKMeB67PUyb2cWRKGwOfolA.jpg", Grotesquerie | S1.E8 - In Dreams
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/6Ib7xKMeB67PUyb2cWRKGwOfolA.jpg", Grotesquerie | S1.E8 - In Dreams
 https://directlink.public-l.workers.dev/dl/671b0cc8afdfefecf027c43b
-#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cksf44qW1dQQQ9kqfZc5SkGt7DE.jpg", Grotesquerie | S1.E9 - The Stinging Aroma of Sulfur
+#EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/cksf44qW1dQQQ9kqfZc5SkGt7DE.jpg", Grotesquerie | S1.E9 - The Stinging Aroma of Sulfur
 https://directlink.public-l.workers.dev/dl/671b0cc8afdfefecf027c43a
 #EXTINF:-1, group-title="Grotesquerie" tvg-logo="https://image.tmdb.org/t/p/w500/zOQ1EzwiGHeuy3te4FYRATHE7qu.jpg", Grotesquerie | S1.E10 - I Think I'm Dead
 https://directlink.public-l.workers.dev/dl/67259f74223a9ab56c53fa33
 
 
 
-#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/v0HhlqpPPv6v3ok5RMFEPL66qPD.jpg", From | S3.E1 - Shatter
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/v0HhlqpPPv6v3ok5RMFEPL66qPD.jpg", From | S3.E1 - Shatter
 https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111c
-#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/arQ9vSh1F1tjUq2nA2hlw2t8mD1.jpg", From | S3.E2 - When We Go
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/arQ9vSh1F1tjUq2nA2hlw2t8mD1.jpg", From | S3.E2 - When We Go
 https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1c
-#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/AgVRZBzGnmv8m4k7YyYjyUpHYqt.jpg", From | S3.E3 - Mouse Trap
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/AgVRZBzGnmv8m4k7YyYjyUpHYqt.jpg", From | S3.E3 - Mouse Trap
 https://directlink.public-l.workers.dev/dl/6705e97c11a617da73bd0f71
-#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kn1RwVHbbgQyYUFn73uE9CmjXMx.jpg", From | S3.E4 - There and Back Again
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/kn1RwVHbbgQyYUFn73uE9CmjXMx.jpg", From | S3.E4 - There and Back Again
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41f1
-#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aqAHsFCNFgIYh7zpGoCHxnQrdx4.jpg", From | S3.E5 - The Light of Day
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/aqAHsFCNFgIYh7zpGoCHxnQrdx4.jpg", From | S3.E5 - The Light of Day
 https://directlink.public-l.workers.dev/dl/6714f844de3f10ca2cb6cc96
-#EXTINF:-1, group-title="From" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/py43U9q02kanZ1kholuqHeQoKAm.jpg", From | S3.E6 - Scar Tissue
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/py43U9q02kanZ1kholuqHeQoKAm.jpg", From | S3.E6 - Scar Tissue
 https://directlink.public-l.workers.dev/dl/671e5099b3731c35ab857e8f
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/jIMSYqNIjAqMIDdeD361dzWwfZB.jpg", From | S3.E7 - These Fragile Lives
+https://directlink.public-l.workers.dev/dl/672ad52fe30b5e5640a2ff0e
 
 
 
 
-#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fwhIXHQkM49JxmHSNMMfeMsB4sP.jpg", Tulsa King | S2.E1 - Back in the Saddle
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/fwhIXHQkM49JxmHSNMMfeMsB4sP.jpg", Tulsa King | S2.E1 - Back in the Saddle
 https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111a
-#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zyAtRHRuWy52DtxhIARerpaYIKE.jpg", Tulsa King | S2.E2 - Kansas City Blues
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/zyAtRHRuWy52DtxhIARerpaYIKE.jpg", Tulsa King | S2.E2 - Kansas City Blues
 https://directlink.public-l.workers.dev/dl/66f746bc8e4cdd190e64111b
-#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jynaGCnHGcPfLhwpUfSx0ONyabC.jpg", Tulsa King | S2.E3 - Oklahoma v. Manfredi
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/jynaGCnHGcPfLhwpUfSx0ONyabC.jpg", Tulsa King | S2.E3 - Oklahoma v. Manfredi
 https://directlink.public-l.workers.dev/dl/66fb9ec202d0a028f45a6e1a
-#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/knvqcoTLLli2QagMQNnM1yT2tmD.jpg", Tulsa King | S2.E4 - Heroes and Villians
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/knvqcoTLLli2QagMQNnM1yT2tmD.jpg", Tulsa King | S2.E4 - Heroes and Villians
 https://directlink.public-l.workers.dev/dl/6705e93011a617da73bd0f6c
-#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qcFKPnlM6FIsQA8pLQJ3DxUhbdr.jpg", Tulsa King | S2.E5 - Tilting at Windmills
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/qcFKPnlM6FIsQA8pLQJ3DxUhbdr.jpg", Tulsa King | S2.E5 - Tilting at Windmills
 https://directlink.public-l.workers.dev/dl/670c1b96c55946d017db41ed
-#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/bHZr5AdtpLjOhXMGTVTcAgqPNVP.jpg", Tulsa King | S2.E6 - Navigator
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/bHZr5AdtpLjOhXMGTVTcAgqPNVP.jpg", Tulsa King | S2.E6 - Navigator
 https://directlink.public-l.workers.dev/dl/6714f844de3f10ca2cb6cc97
-#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xb3qUdeVgeR95YB8eQHgUz0prnp.jpg", Tulsa King | S2.E7 - Life Support
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/xb3qUdeVgeR95YB8eQHgUz0prnp.jpg", Tulsa King | S2.E7 - Life Support
 https://directlink.public-l.workers.dev/dl/671e509ab3731c35ab857e91
+#EXTINF:-1, group-title="Tulsa king" tvg-logo="https://image.tmdb.org/t/p/w500/pYwQAxFeTVcXcPWHg86Jr9P1NCD.jpg", Tulsa King | S2.E8 - Under New Management
+https://directlink.public-l.workers.dev/dl/672adbc8e30b5e5640a2ff31
 
 
 
-#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ecX4IMGRlKwyq5eZd5sjPxtUTaT.jpg", The Penguin | S1.E1 - After Hours
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/ecX4IMGRlKwyq5eZd5sjPxtUTaT.jpg", The Penguin | S1.E1 - After Hours
 https://directlink.public-l.workers.dev/dl/66ef4bbb5a776c72c05095f3
-#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/esZEDbBtRJdTex16IR9BIvop852.jpg", The Penguin | S1.E2 - Inside Man
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/esZEDbBtRJdTex16IR9BIvop852.jpg", The Penguin | S1.E2 - Inside Man
 https://directlink.public-l.workers.dev/dl/66fb9ebd02d0a028f45a6e16
-#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/92Zz1q4VcisKPxKagfh9dEVGkeS.jpg", The Penguin | S1.E3 - Bliss
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/92Zz1q4VcisKPxKagfh9dEVGkeS.jpg", The Penguin | S1.E3 - Bliss
 https://directlink.public-l.workers.dev/dl/6705e97c11a617da73bd0f70
-#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6InFSm29R8xFPZQfSjEuwwg2j4q.jpg", The Penguin | S1.E4 - Cent'anni
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/6InFSm29R8xFPZQfSjEuwwg2j4q.jpg", The Penguin | S1.E4 - Cent'anni
 https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c425
-#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ewa7rDjtl8WDaaL43NGl6I3yb21.jpg", The Penguin | S1.E5 - Homecoming
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/ewa7rDjtl8WDaaL43NGl6I3yb21.jpg", The Penguin | S1.E5 - Homecoming
 https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c427
-#EXTINF:-1, group-title="The Penguin" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dQrxfFP45iz6sLPh6KkfU1Idea5.jpg", The Penguin | S1.E6 - Gold Summit
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/dQrxfFP45iz6sLPh6KkfU1Idea5.jpg", The Penguin | S1.E6 - Gold Summit
 https://directlink.public-l.workers.dev/dl/67259f2e223a9ab56c53fa15
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/eU9qFjD98jA5AChyANK8zc52N2o.jpg", The Penguin | S1.E7 - Top Hat
+https://directlink.public-l.workers.dev/dl/672ad54fe30b5e5640a2ff25
 
 
 
-#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4uI8P52KK6PyguW1zpL0NG2EGP0.jpg", High Potential | S1.E1 - Pilot
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://image.tmdb.org/t/p/w500/4uI8P52KK6PyguW1zpL0NG2EGP0.jpg", High Potential | S1.E1 - Pilot
 https://directlink.public-l.workers.dev/dl/66ef4d9f5a776c72c05095fb
-#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wTwIfcOAzJjG9FjLDWEKSeo4xJy.jpg", High Potential | S1.E2 - Dancers in the Dark
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://image.tmdb.org/t/p/w500/wTwIfcOAzJjG9FjLDWEKSeo4xJy.jpg", High Potential | S1.E2 - Dancers in the Dark
 https://directlink.public-l.workers.dev/dl/66f7450c8e4cdd190e64110b
-#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ledYVUEw19gRQhdDobb5FJd2Hb9.jpg", High Potential | S1.E3 - Dirty Rotten Scoundrel
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://image.tmdb.org/t/p/w500/ledYVUEw19gRQhdDobb5FJd2Hb9.jpg", High Potential | S1.E3 - Dirty Rotten Scoundrel
 https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4213
-#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yZtZIXr2xyYJZQdlu0LrweDmiwI.jpg", High Potential | S1.E4 - Survival Mode
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://image.tmdb.org/t/p/w500/yZtZIXr2xyYJZQdlu0LrweDmiwI.jpg", High Potential | S1.E4 - Survival Mode
 https://directlink.public-l.workers.dev/dl/671b0cb3afdfefecf027c424
-#EXTINF:-1, group-title="High Potential" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vU4LF4TSmWjRtDXY3nxsaPp3yEh.jpg", High Potential | S1.E5 - Croaked
+#EXTINF:-1, group-title="High Potential" tvg-logo="https://image.tmdb.org/t/p/w500/vU4LF4TSmWjRtDXY3nxsaPp3yEh.jpg", High Potential | S1.E5 - Croaked
 https://directlink.public-l.workers.dev/dl/671b0cb4afdfefecf027c42d
 #EXTINF:-1, group-title="High Potential" tvg-logo="https://image.tmdb.org/t/p/w500/eA2Zb4SFoJT2nE7PSRl1zhUj23o.jpg", High Potential | S1.E6 - Hangover
 https://directlink.public-l.workers.dev/dl/67259f6e223a9ab56c53fa2f
 
 
 
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cwelHOreb6fSskjmVZ9iQXzuNjl.jpg", Outer Banks | S1.E1 - The Gold
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/cwelHOreb6fSskjmVZ9iQXzuNjl.jpg", Outer Banks | S1.E1 - The Gold
 https://directlink.public-l.workers.dev/dl/670c1c82c55946d017db4226
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/t29KIIJIlkdfR1VSLFcvI3MHLL4.jpg", Outer Banks | S1.E2 - The Heist
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/t29KIIJIlkdfR1VSLFcvI3MHLL4.jpg", Outer Banks | S1.E2 - The Heist
 https://directlink.public-l.workers.dev/dl/670c1c77c55946d017db421d
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rfwHyzC8S6BzL7m7TWdC3gbsgEl.jpg", Outer Banks | S1.E3 - Prayers
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/rfwHyzC8S6BzL7m7TWdC3gbsgEl.jpg", Outer Banks | S1.E3 - Prayers
 https://directlink.public-l.workers.dev/dl/670c1c7dc55946d017db4222
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/k0MrvsJWOXtBDgmz0caImShsTC1.jpg", Outer Banks | S1.E4 - Homecoming
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/k0MrvsJWOXtBDgmz0caImShsTC1.jpg", Outer Banks | S1.E4 - Homecoming
 https://directlink.public-l.workers.dev/dl/670c1c82c55946d017db4224
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sbymbH8TQTbQ4SpPYuMLnMm6P1b.jpg", Outer Banks | S1.E5 - The Darkest Hours
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/sbymbH8TQTbQ4SpPYuMLnMm6P1b.jpg", Outer Banks | S1.E5 - The Darkest Hours
 https://directlink.public-l.workers.dev/dl/670c1c82c55946d017db4225
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wRyouNWdHPYpqqkkSe1AuN721OZ.jpg", Outer Banks | S1.E6 - The Druthers
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/wRyouNWdHPYpqqkkSe1AuN721OZ.jpg", Outer Banks | S1.E6 - The Druthers
 https://directlink.public-l.workers.dev/dl/670c1ca6c55946d017db422b
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/u5Cqe0P2nEW2r1zdzzSe8tLWwQZ.jpg", Outer Banks | S1.E7 - The Bonfire
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/u5Cqe0P2nEW2r1zdzzSe8tLWwQZ.jpg", Outer Banks | S1.E7 - The Bonfire
 https://directlink.public-l.workers.dev/dl/670c1cacc55946d017db422e
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/h1MjIGDELyWpjSQxNm7rpZi5yO0.jpg", Outer Banks | S1.E8 - The Cross
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/h1MjIGDELyWpjSQxNm7rpZi5yO0.jpg", Outer Banks | S1.E8 - The Cross
 https://directlink.public-l.workers.dev/dl/670c1cadc55946d017db422f
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aqrUaSEXMRc4nXjoA8c2d4fpD6R.jpg", Outer Banks | S1.E9 - Trapped
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/aqrUaSEXMRc4nXjoA8c2d4fpD6R.jpg", Outer Banks | S1.E9 - Trapped
 https://directlink.public-l.workers.dev/dl/670c1c7dc55946d017db4221
-#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/x1fTloW79BxhMif7i94AGfzsZLK.jpg", Outer Banks | S1.E10 - The Coastal Venture
+#EXTINF:-1, group-title="Outer Banks" tvg-logo="https://image.tmdb.org/t/p/w500/x1fTloW79BxhMif7i94AGfzsZLK.jpg", Outer Banks | S1.E10 - The Coastal Venture
 https://directlink.public-l.workers.dev/dl/670c1caec55946d017db4230
 
 
 
-#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jpHS648BqBDBEdZmj0IufrwaOf1.jpg", Nightsleeper | S1.E1
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://image.tmdb.org/t/p/w500/jpHS648BqBDBEdZmj0IufrwaOf1.jpg", Nightsleeper | S1.E1
 https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afb7
-#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pvJ5hCjt7LCDZF0F2V5Z9gDBqVx.jpg", Nightsleeper | S1.E2
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://image.tmdb.org/t/p/w500/pvJ5hCjt7LCDZF0F2V5Z9gDBqVx.jpg", Nightsleeper | S1.E2
 https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afb8
-#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9DS4MDmo2WZgn90oMwGWeC9r8vD.jpg", Nightsleeper | S1.E3
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://image.tmdb.org/t/p/w500/9DS4MDmo2WZgn90oMwGWeC9r8vD.jpg", Nightsleeper | S1.E3
 https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afba
-#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eCNEixw0fB5OPv4Q96NpKCZawfm.jpg", Nightsleeper | S1.E4
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://image.tmdb.org/t/p/w500/eCNEixw0fB5OPv4Q96NpKCZawfm.jpg", Nightsleeper | S1.E4
 https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afbb
-#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4BfW0E2r2434GdBbwFz4ImAgnx1.jpg", Nightsleeper | S1.E5
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://image.tmdb.org/t/p/w500/4BfW0E2r2434GdBbwFz4ImAgnx1.jpg", Nightsleeper | S1.E5
 https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afb9
-#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/krD0Q61jU6DJl7zXenJvKnuo8Wd.jpg", Nightsleeper | S1.E6
+#EXTINF:-1, group-title="Nightsleeper" tvg-logo="https://image.tmdb.org/t/p/w500/krD0Q61jU6DJl7zXenJvKnuo8Wd.jpg", Nightsleeper | S1.E6
 https://directlink.public-l.workers.dev/dl/66e8305cdfa0e059f6b8afbc
 
 
 
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kaHM1CTVHhv5jnfPvUgIMmil8LD.jpg", Fight Night: The Million Dollar Heist | S1.E1 - The Ballad of Chicken Man
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/kaHM1CTVHhv5jnfPvUgIMmil8LD.jpg", Fight Night: The Million Dollar Heist | S1.E1 - The Ballad of Chicken Man
 https://directlink.public-l.workers.dev/dl/66df6fd218a90d64bdffc6bd
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/baLr5eRLIRILNdInw6V8JkYRTZ9.jpg", Fight Night: The Million Dollar Heist | S1.E2 - Fight Night
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/baLr5eRLIRILNdInw6V8JkYRTZ9.jpg", Fight Night: The Million Dollar Heist | S1.E2 - Fight Night
 https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b9
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qo6gCkOEcB1tyGGQUMLKKpejjpB.jpg", Fight Night: The Million Dollar Heist | S1.E3 - Black Vegas
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/qo6gCkOEcB1tyGGQUMLKKpejjpB.jpg", Fight Night: The Million Dollar Heist | S1.E3 - Black Vegas
 https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b8
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8xAg26w5Ukd13dvfv8URuZs0x5X.jpg", Fight Night: The Million Dollar Heist | S1.E4 - Real Policework
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/8xAg26w5Ukd13dvfv8URuZs0x5X.jpg", Fight Night: The Million Dollar Heist | S1.E4 - Real Policework
 https://directlink.public-l.workers.dev/dl/66e3fab8a6f81c9212b5317d
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/71hvxuwQ2qa2tBNrhpmKdmGgUe0.jpg", Fight Night: The Million Dollar Heist | S1.E5 - Ambition Ain't Free
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/71hvxuwQ2qa2tBNrhpmKdmGgUe0.jpg", Fight Night: The Million Dollar Heist | S1.E5 - Ambition Ain't Free
 https://directlink.public-l.workers.dev/dl/66ef4bcd5a776c72c05095f5
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zPftWX6LrcXCJHqVIyu1Z3XteeS.jpg", Fight Night: The Million Dollar Heist | S1.E6 - Community Men
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/zPftWX6LrcXCJHqVIyu1Z3XteeS.jpg", Fight Night: The Million Dollar Heist | S1.E6 - Community Men
 https://directlink.public-l.workers.dev/dl/66f745ad8e4cdd190e641110
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zPftWX6LrcXCJHqVIyu1Z3XteeS.jpg", Fight Night: The Million Dollar Heist | S1.E7 - Jekyll Island
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/zPftWX6LrcXCJHqVIyu1Z3XteeS.jpg", Fight Night: The Million Dollar Heist | S1.E7 - Jekyll Island
 https://directlink.public-l.workers.dev/dl/66ff0abe788356063c227f9a
-#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mMxuMP0zsX83sURrvK2oQxs9Qoh.jpg", Fight Night: The Million Dollar Heist | S1.E8 - Testify
+#EXTINF:-1, group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w500/mMxuMP0zsX83sURrvK2oQxs9Qoh.jpg", Fight Night: The Million Dollar Heist | S1.E8 - Testify
 https://directlink.public-l.workers.dev/dl/670c1c6cc55946d017db4211
 
 
 
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ormRRPmSdaxTc6fpLsfEyjV0R6v.jpg", Gyeongseong Creature | S1.E1 - Najin
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/ormRRPmSdaxTc6fpLsfEyjV0R6v.jpg", Gyeongseong Creature | S1.E1 - Najin
 https://directlink.public-l.workers.dev/dl/66fb9e8302d0a028f45a6e03
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mJWRkFdg1o6dEjEYjSAD2IxYX4F.jpg", Gyeongseong Creature | S1.E2 - Mother
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/mJWRkFdg1o6dEjEYjSAD2IxYX4F.jpg", Gyeongseong Creature | S1.E2 - Mother
 https://directlink.public-l.workers.dev/dl/66fb9e7c02d0a028f45a6dfe
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/lt6G704DKPRHSR6c3ekWsf39Ge8.jpg", Gyeongseong Creature | S1.E3 - Signal
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/lt6G704DKPRHSR6c3ekWsf39Ge8.jpg", Gyeongseong Creature | S1.E3 - Signal
 https://directlink.public-l.workers.dev/dl/66fb9e8102d0a028f45a6e02
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/77AjDw34uFNJzX0TYMM5jGiKDSl.jpg", Gyeongseong Creature | S1.E4 - Imprinting
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/77AjDw34uFNJzX0TYMM5jGiKDSl.jpg", Gyeongseong Creature | S1.E4 - Imprinting
 https://directlink.public-l.workers.dev/dl/66fb9e7c02d0a028f45a6dff
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qEao47ad8eVDs5rOESeGvwaRWiw.jpg", Gyeongseong Creature | S1.E5 - Desperation
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/qEao47ad8eVDs5rOESeGvwaRWiw.jpg", Gyeongseong Creature | S1.E5 - Desperation
 https://directlink.public-l.workers.dev/dl/66fb9e7802d0a028f45a6dfa
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/e6qAh7Y2Nk1i49wE7BS08kdUAZH.jpg", Gyeongseong Creature | S1.E6 - Chaos
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/e6qAh7Y2Nk1i49wE7BS08kdUAZH.jpg", Gyeongseong Creature | S1.E6 - Chaos
 https://directlink.public-l.workers.dev/dl/66fb9e7802d0a028f45a6df8
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/AfHcsfPdJ1k7gj1NgidCc4t2z70.jpg", Gyeongseong Creature | S1.E7 - Chase
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/AfHcsfPdJ1k7gj1NgidCc4t2z70.jpg", Gyeongseong Creature | S1.E7 - Chase
 https://directlink.public-l.workers.dev/dl/66fb9e7802d0a028f45a6df6
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eSWZzsNBM0hss2CNq79KujuY8ws.jpg", Gyeongseong Creature | S1.E8 - Awakening
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/eSWZzsNBM0hss2CNq79KujuY8ws.jpg", Gyeongseong Creature | S1.E8 - Awakening
 https://directlink.public-l.workers.dev/dl/66fb9e7802d0a028f45a6df9
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vwYouok2Sq6yKhRiEbPvI5ArLHL.jpg", Gyeongseong Creature | S1.E9 - Atrocity
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/vwYouok2Sq6yKhRiEbPvI5ArLHL.jpg", Gyeongseong Creature | S1.E9 - Atrocity
 https://directlink.public-l.workers.dev/dl/66fb9e7802d0a028f45a6df7
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rpIS5XGSQIUXNBuKYL5WbhKr5sC.jpg", Gyeongseong Creature | S1.E10 - Tear
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/rpIS5XGSQIUXNBuKYL5WbhKr5sC.jpg", Gyeongseong Creature | S1.E10 - Tear
 https://directlink.public-l.workers.dev/dl/66fb9e7802d0a028f45a6df5
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jBjo2HOI9Gh4MYKMsi7WYVWivvx.jpg", Gyeongseong Creature | S2.E1 - Ho-jae
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/jBjo2HOI9Gh4MYKMsi7WYVWivvx.jpg", Gyeongseong Creature | S2.E1 - Ho-jae
 https://directlink.public-l.workers.dev/dl/66fb9eb702d0a028f45a6e11
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/axihAJpJtfLgddH3MYfmJSIH8rF.jpg", Gyeongseong Creature | S2.E2 - Sign
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/axihAJpJtfLgddH3MYfmJSIH8rF.jpg", Gyeongseong Creature | S2.E2 - Sign
 https://directlink.public-l.workers.dev/dl/66fb9eb702d0a028f45a6e12
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cPzrwUVxlecLXPe7t0sMaHHEMt2.jpg", Gyeongseong Creature | S2.E3 - Pieces Of Memories
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/cPzrwUVxlecLXPe7t0sMaHHEMt2.jpg", Gyeongseong Creature | S2.E3 - Pieces Of Memories
 https://directlink.public-l.workers.dev/dl/66fb9e8c02d0a028f45a6e0e
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dNiK2XN0gWE4WUlr6K5l5OsLYtS.jpg", Gyeongseong Creature | S2.E4 - The Other Side
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/dNiK2XN0gWE4WUlr6K5l5OsLYtS.jpg", Gyeongseong Creature | S2.E4 - The Other Side
 https://directlink.public-l.workers.dev/dl/66fb9e8c02d0a028f45a6e0d
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ny5dgoRfXbsWp9IjCLJ8mkZkDG8.jpg", Gyeongseong Creature | S2.E5 - The Creature
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/ny5dgoRfXbsWp9IjCLJ8mkZkDG8.jpg", Gyeongseong Creature | S2.E5 - The Creature
 https://directlink.public-l.workers.dev/dl/66fb9e8c02d0a028f45a6e0c
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eKQHMiLAit6yFdBToxUXEVtt0zY.jpg", Gyeongseong Creature | S2.E6 - Bait
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/eKQHMiLAit6yFdBToxUXEVtt0zY.jpg", Gyeongseong Creature | S2.E6 - Bait
 https://directlink.public-l.workers.dev/dl/66fb9e8602d0a028f45a6e09
-#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/l0ukajEYsY2NPNRSJRDWaA5qGlT.jpg", Gyeongseong Creature | S2.E7 - Marginal Man
+#EXTINF:-1, group-title="Gyeongseong Creature" tvg-logo="https://image.tmdb.org/t/p/w500/l0ukajEYsY2NPNRSJRDWaA5qGlT.jpg", Gyeongseong Creature | S2.E7 - Marginal Man
 https://directlink.public-l.workers.dev/dl/66fb9e8302d0a028f45a6e04
 
 
 
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/m5VBUJvssOrpgL9s4pu4Lzb4lgF.jpg", Emperor of Ocean Park: Chapter One
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/m5VBUJvssOrpgL9s4pu4Lzb4lgF.jpg", Emperor of Ocean Park: Chapter One
 https://directlink.public-l.workers.dev/dl/66c61c41e8ed5382ca4e9e12
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/l8RHGebTFwg3YRD3KPK8LCnboke.jpg", Emperor of Ocean Park: Chapter Two
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/l8RHGebTFwg3YRD3KPK8LCnboke.jpg", Emperor of Ocean Park: Chapter Two
 https://directlink.public-l.workers.dev/dl/66c6ed8a2dadd3a95875973d
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/siT0XHVefYGDhzoxflDc7QeWYVy.jpg", Emperor of Ocean Park: Chapter Three
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/siT0XHVefYGDhzoxflDc7QeWYVy.jpg", Emperor of Ocean Park: Chapter Three
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a958759740
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xMkw62g0ZO8ttWQcqtecT5O1WXE.jpg", Emperor of Ocean Park: Chapter Four
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/xMkw62g0ZO8ttWQcqtecT5O1WXE.jpg", Emperor of Ocean Park: Chapter Four
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a95875973f
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aD3nKPEwx5juRyBnNyucmjUrnJL.jpg", Emperor of Ocean Park: Chapter Five
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/aD3nKPEwx5juRyBnNyucmjUrnJL.jpg", Emperor of Ocean Park: Chapter Five
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a958759741
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mLaw1FkbfHHPIZXJm98vAg35TWW.jpg", Emperor of Ocean Park: Chapter Six
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/mLaw1FkbfHHPIZXJm98vAg35TWW.jpg", Emperor of Ocean Park: Chapter Six
 https://directlink.public-l.workers.dev/dl/66c6ede42dadd3a958759745
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ewRE9jeWkOsEUx8Zks7PG9sWtte.jpg", Emperor of Ocean Park: Chapter Seven
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/ewRE9jeWkOsEUx8Zks7PG9sWtte.jpg", Emperor of Ocean Park: Chapter Seven
 https://directlink.public-l.workers.dev/dl/66cc69b4f3a51f1fc5eaa348
-#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eekzOh4qBUZovssbs7dYgegWLIA.jpg", Emperor of Ocean Park: Chapter Eight
+#EXTINF:-1, group-title="Emperor of Ocean Park" tvg-logo="https://image.tmdb.org/t/p/w500/eekzOh4qBUZovssbs7dYgegWLIA.jpg", Emperor of Ocean Park: Chapter Eight
 https://directlink.public-l.workers.dev/dl/66df5a1718a90d64bdffc6b2
-#EXTINF:-1, group-title="Emperor of Ocean Park " tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1VWpT71ksbO9gm5NpoRYO8Ol91D.jpg", Emperor of Ocean Park: Chapter Nine
+#EXTINF:-1, group-title="Emperor of Ocean Park " tvg-logo="https://image.tmdb.org/t/p/w500/1VWpT71ksbO9gm5NpoRYO8Ol91D.jpg", Emperor of Ocean Park: Chapter Nine
 https://directlink.public-l.workers.dev/dl/66df5a1718a90d64bdffc6b1
-#EXTINF:-1, group-title="Emperor of Ocean Park " tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kRMFjOpPEKeOXVZQw6W7jhq6dbi.jpg", Emperor of Ocean Park: Chapter Ten
+#EXTINF:-1, group-title="Emperor of Ocean Park " tvg-logo="https://image.tmdb.org/t/p/w500/kRMFjOpPEKeOXVZQw6W7jhq6dbi.jpg", Emperor of Ocean Park: Chapter Ten
 https://directlink.public-l.workers.dev/dl/66e8303cdfa0e059f6b8afb5
 
 
 
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sFplF5Ya6irRVvMUInjE57fjO8Z.jpg", House Of The Dragon | S2.E1 ∙ A Son for a Son . HD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/sFplF5Ya6irRVvMUInjE57fjO8Z.jpg", House Of The Dragon | S2.E1 ∙ A Son for a Son . HD
 https://directlink.public-l.workers.dev/dl/66e3fe6fa6f81c9212b5318f
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sFplF5Ya6irRVvMUInjE57fjO8Z.jpg", House Of The Dragon | S2.E1 ∙ A Son for a Son . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/sFplF5Ya6irRVvMUInjE57fjO8Z.jpg", House Of The Dragon | S2.E1 ∙ A Son for a Son . FHD
 https://directlink.public-l.workers.dev/dl/66e3fe6fa6f81c9212b5318e
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/plVChbDtiWCZowdqiKThSXZaWYa.jpg", House Of The Dragon | S2.E2 ∙ Rhaenyra the Cruel . HD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/plVChbDtiWCZowdqiKThSXZaWYa.jpg", House Of The Dragon | S2.E2 ∙ Rhaenyra the Cruel . HD
 https://directlink.public-l.workers.dev/dl/66e3fe64a6f81c9212b53187
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/plVChbDtiWCZowdqiKThSXZaWYa.jpg", House Of The Dragon | S2.E2 ∙ Rhaenyra the Cruel . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/plVChbDtiWCZowdqiKThSXZaWYa.jpg", House Of The Dragon | S2.E2 ∙ Rhaenyra the Cruel . FHD
 https://directlink.public-l.workers.dev/dl/66e3fe64a6f81c9212b53186
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4eFX6KvK36EdSxrT9PU9sflfWlr.jpg", House Of The Dragon | S2.E3 ∙ The Burning Mill . HD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/4eFX6KvK36EdSxrT9PU9sflfWlr.jpg", House Of The Dragon | S2.E3 ∙ The Burning Mill . HD
 https://directlink.public-l.workers.dev/dl/66e4002da6f81c9212b53194
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4eFX6KvK36EdSxrT9PU9sflfWlr.jpg", House Of The Dragon | S2.E3 ∙ The Burning Mill . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/4eFX6KvK36EdSxrT9PU9sflfWlr.jpg", House Of The Dragon | S2.E3 ∙ The Burning Mill . FHD
 https://directlink.public-l.workers.dev/dl/66e3fe64a6f81c9212b53184
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3PUDi380j8xIwJ3dMAext9kj2GR.jpg", House Of The Dragon | S2.E4 ∙ The Red Dragon and the Gold . HD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/3PUDi380j8xIwJ3dMAext9kj2GR.jpg", House Of The Dragon | S2.E4 ∙ The Red Dragon and the Gold . HD
 https://directlink.public-l.workers.dev/dl/66e3fe64a6f81c9212b53185
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3PUDi380j8xIwJ3dMAext9kj2GR.jpg", House Of The Dragon | S2.E4 ∙ The Red Dragon and the Gold . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/3PUDi380j8xIwJ3dMAext9kj2GR.jpg", House Of The Dragon | S2.E4 ∙ The Red Dragon and the Gold . FHD
 https://directlink.public-l.workers.dev/dl/66e3fe64a6f81c9212b53183
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/b2ynXBWVy0dSL47lUDbQeiPW5SH.jpg", House Of The Dragon | S2.E5 ∙ Regent . HD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/b2ynXBWVy0dSL47lUDbQeiPW5SH.jpg", House Of The Dragon | S2.E5 ∙ Regent . HD
 https://directlink.public-l.workers.dev/dl/66e3fe64a6f81c9212b53182
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/b2ynXBWVy0dSL47lUDbQeiPW5SH.jpg", House Of The Dragon | S2.E5 ∙ Regent . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/b2ynXBWVy0dSL47lUDbQeiPW5SH.jpg", House Of The Dragon | S2.E5 ∙ Regent . FHD
 https://directlink.public-l.workers.dev/dl/66e3fea7a6f81c9212b53192
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cCUY9j9Yv8q0T9Pw6oAzoMcbP1M.jpg", House Of The Dragon | S2.E6 ∙ Smallfolk . HD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/cCUY9j9Yv8q0T9Pw6oAzoMcbP1M.jpg", House Of The Dragon | S2.E6 ∙ Smallfolk . HD
 https://directlink.public-l.workers.dev/dl/66e3f622a6f81c9212b53163
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cCUY9j9Yv8q0T9Pw6oAzoMcbP1M.jpg", House Of The Dragon | S2.E6 ∙ Smallfolk . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/cCUY9j9Yv8q0T9Pw6oAzoMcbP1M.jpg", House Of The Dragon | S2.E6 ∙ Smallfolk . FHD
 https://directlink.public-l.workers.dev/dl/66e3f622a6f81c9212b53162
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/7qlMA2vzSDY6iYHt5txdavLkTNQ.jpg", House Of The Dragon | S2.E7 ∙ The Red Sowing . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/7qlMA2vzSDY6iYHt5txdavLkTNQ.jpg", House Of The Dragon | S2.E7 ∙ The Red Sowing . FHD
 https://directlink.public-l.workers.dev/dl/66e400dca6f81c9212b53197
-#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1XuMwNuO3BKUXFCQCOoC4qcdvKi.jpg", House Of The Dragon | S2.E8 ∙ The Queen Who Ever Was . FHD
+#EXTINF:3540, group-title="House Of The Dragon" tvg-logo="https://image.tmdb.org/t/p/w500/1XuMwNuO3BKUXFCQCOoC4qcdvKi.jpg", House Of The Dragon | S2.E8 ∙ The Queen Who Ever Was . FHD
 https://directlink.public-l.workers.dev/dl/66e400dca6f81c9212b53196
 
 
 
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qGU2b17L1DaXyldPOlsou8vKWxD.jpg", S1.E1 ∙  Rise or Die
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/qGU2b17L1DaXyldPOlsou8vKWxD.jpg", S1.E1 ∙  Rise or Die
 https://directlink.public-l.workers.dev/dl/66e3f60aa6f81c9212b53152
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6H922s5XmSuslOyCWfet8bLHg3L.jpg", S1.E2 ∙  Trust None
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/6H922s5XmSuslOyCWfet8bLHg3L.jpg", S1.E2 ∙  Trust None
 https://directlink.public-l.workers.dev/dl/66e3f60aa6f81c9212b5314e
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eMz4xu5FFBEb8kdDRMPtBXiYyD3.jpg", S1.E3 ∙  Death's Door
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/eMz4xu5FFBEb8kdDRMPtBXiYyD3.jpg", S1.E3 ∙  Death's Door
 https://directlink.public-l.workers.dev/dl/66e3f60aa6f81c9212b53153
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8gNE80H5YvuUjTaiCoxgb1IUTr5.jpg", S1.E4 ∙  Fool's Bet
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/8gNE80H5YvuUjTaiCoxgb1IUTr5.jpg", S1.E4 ∙  Fool's Bet
 https://directlink.public-l.workers.dev/dl/66e3f60ea6f81c9212b53155
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mJ4VBsDGEfFqVlNEkUR1wJIdS2r.jpg", S1.E5 ∙  Betrayal
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/mJ4VBsDGEfFqVlNEkUR1wJIdS2r.jpg", S1.E5 ∙  Betrayal
 https://directlink.public-l.workers.dev/dl/66e3f614a6f81c9212b53158
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uhPP03pWHNtqfpgiUeuvGqZ8iuc.jpg", S1.E6 ∙  Blood Relation
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/uhPP03pWHNtqfpgiUeuvGqZ8iuc.jpg", S1.E6 ∙  Blood Relation
 https://directlink.public-l.workers.dev/dl/66e3f614a6f81c9212b5315a
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4xIFcHUBBCTy4R5dxaYw1xIFBPW.jpg", S1.E7 ∙  Death's Bed
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/4xIFcHUBBCTy4R5dxaYw1xIFBPW.jpg", S1.E7 ∙  Death's Bed
 https://directlink.public-l.workers.dev/dl/66e3f614a6f81c9212b53159
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8G0pujJxfWTo2K3borpzmUoJT8G.jpg", S1.E8 ∙  All or Nothing
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/8G0pujJxfWTo2K3borpzmUoJT8G.jpg", S1.E8 ∙  All or Nothing
 https://directlink.public-l.workers.dev/dl/66e3f618a6f81c9212b5315d
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mJWidCUk2VEjiENYuSBhldioKaX.jpg", S1.E9 ∙  The Die Is Cast
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/mJWidCUk2VEjiENYuSBhldioKaX.jpg", S1.E9 ∙  The Die Is Cast
 https://directlink.public-l.workers.dev/dl/66e3f618a6f81c9212b5315e
-#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/15z6ArQ2or5p3Q8ZFVTYQ3OE1jJ.jpg", S1.E10 ∙ Let the Games Begin
+#EXTINF:-1, group-title="Those About to Die" tvg-logo="https://image.tmdb.org/t/p/w500/15z6ArQ2or5p3Q8ZFVTYQ3OE1jJ.jpg", S1.E10 ∙ Let the Games Begin
 https://directlink.public-l.workers.dev/dl/66e3f619a6f81c9212b5315f
 
 
 
-#EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wGUlUbuLuvGVlaGWtnrsK0r3uWd.jpg", Power Book II: Ghost | S4.E1 ∙ I Don't Die Easy . HD
+#EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/wGUlUbuLuvGVlaGWtnrsK0r3uWd.jpg", Power Book II: Ghost | S4.E1 ∙ I Don't Die Easy . HD
 https://directlink.public-l.workers.dev/dl/66e3f9baa6f81c9212b5317a
-#EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wGUlUbuLuvGVlaGWtnrsK0r3uWd.jpg", Power Book II: Ghost | S4.E1 ∙ I Don't Die Easy . FHD
+#EXTINF:3600, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/wGUlUbuLuvGVlaGWtnrsK0r3uWd.jpg", Power Book II: Ghost | S4.E1 ∙ I Don't Die Easy . FHD
 https://directlink.public-l.workers.dev/dl/66e3f9baa6f81c9212b53179
-#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/c3eO410tEueqFt3WooxGDr9Ff5I.jpg", Power Book II: Ghost | S4.E2 ∙ To Thine Own Self . HD
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/c3eO410tEueqFt3WooxGDr9Ff5I.jpg", Power Book II: Ghost | S4.E2 ∙ To Thine Own Self . HD
 https://directlink.public-l.workers.dev/dl/66e3f9b0a6f81c9212b53170
-#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/c3eO410tEueqFt3WooxGDr9Ff5I.jpg", Power Book II: Ghost | S4.E2 ∙ To Thine Own Self . FHD
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/c3eO410tEueqFt3WooxGDr9Ff5I.jpg", Power Book II: Ghost | S4.E2 ∙ To Thine Own Self . FHD
 https://directlink.public-l.workers.dev/dl/66e3f9b0a6f81c9212b53171
 #EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://walter.trakt.tv/images/shows/000/158/091/fanarts/thumb/fe114ad8a7.jpg", Power Book II: Ghost | S4.E3 ∙ Birthright . HD
 https://directlink.public-l.workers.dev/dl/66e3f9b0a6f81c9212b5316f
 #EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://walter.trakt.tv/images/shows/000/158/091/fanarts/thumb/fe114ad8a7.jpg", Power Book II: Ghost | S4.E3 ∙ Birthright . FHD
 https://directlink.public-l.workers.dev/dl/66e3f9b0a6f81c9212b53176
-#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rdl6DFiTyU3PbFNNGj1lEscqYI1.jpg", Power Book II: Ghost | S4.E4 ∙ The Reckoning . HD
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/rdl6DFiTyU3PbFNNGj1lEscqYI1.jpg", Power Book II: Ghost | S4.E4 ∙ The Reckoning . HD
 https://directlink.public-l.workers.dev/dl/66e3f9b0a6f81c9212b5316e
-#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rdl6DFiTyU3PbFNNGj1lEscqYI1.jpg", Power Book II: Ghost | S4.E4 ∙ The Reckoning . FHD
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/rdl6DFiTyU3PbFNNGj1lEscqYI1.jpg", Power Book II: Ghost | S4.E4 ∙ The Reckoning . FHD
 https://directlink.public-l.workers.dev/dl/66e3f9b0a6f81c9212b5316d
-#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fEU9QcbVAPhLWxyJ8iSouvXn8Gv.jpg", Power Book II: Ghost | S4.E5 ∙ Ego Death . HD
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/fEU9QcbVAPhLWxyJ8iSouvXn8Gv.jpg", Power Book II: Ghost | S4.E5 ∙ Ego Death . HD
 https://matiztechz.online/486233/video.mp4?hash=AgADxA
-#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fEU9QcbVAPhLWxyJ8iSouvXn8Gv.jpg", Power Book II: Ghost | S4.E5 ∙ Ego Death . FHD
+#EXTINF:3240, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/fEU9QcbVAPhLWxyJ8iSouvXn8Gv.jpg", Power Book II: Ghost | S4.E5 ∙ Ego Death . FHD
 https://directlink.public-l.workers.dev/dl/66e3f609a6f81c9212b5314c
-#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1bdeBNXTfOTBGYJ0ipzQvtgwPPx.jpg", Power Book II: Ghost | S4.E6 - Devil's Playground . HD
+#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/1bdeBNXTfOTBGYJ0ipzQvtgwPPx.jpg", Power Book II: Ghost | S4.E6 - Devil's Playground . HD
 https://directlink.public-l.workers.dev/dl/66e3f3f0a6f81c9212b53149
-#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1bdeBNXTfOTBGYJ0ipzQvtgwPPx.jpg", Power Book II: Ghost | S4.E6 - Devil's Playground . FHD
+#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/1bdeBNXTfOTBGYJ0ipzQvtgwPPx.jpg", Power Book II: Ghost | S4.E6 - Devil's Playground . FHD
 https://directlink.public-l.workers.dev/dl/66df6fd118a90d64bdffc6b7
-#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/xksYi4qnK6hsIydsEAfGKJnnvgR.jpg", Power Book II: Ghost | S4.E7 - I Can't Fix This . FHD
+#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/xksYi4qnK6hsIydsEAfGKJnnvgR.jpg", Power Book II: Ghost | S4.E7 - I Can't Fix This . FHD
 https://www.filestream.linkpc.net/dl/66e63b759cb32dd56a829466
-#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qaVrxcCwUT2Ug4iZkKRQPs3Xtkg.jpg", Power Book II: Ghost | S4.E8 - Higher Calling . FHD
+#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/qaVrxcCwUT2Ug4iZkKRQPs3Xtkg.jpg", Power Book II: Ghost | S4.E8 - Higher Calling . FHD
 https://directlink.public-l.workers.dev/dl/66ef4be95a776c72c05095f7
-#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4t7Ek9x4C08HX1wsFvEteTyQcOn.jpg", Power Book II: Ghost | S4.E9 - Married to the Game
+#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/4t7Ek9x4C08HX1wsFvEteTyQcOn.jpg", Power Book II: Ghost | S4.E9 - Married to the Game
 https://directlink.public-l.workers.dev/dl/66f744c48e4cdd190e641107
-#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hUKwOMr3tQUgPs9VepGThCGmK3J.jpg", Power Book II: Ghost | S4.E10 - Ghost in the Machine
+#EXTINF:-1, group-title="Power Book II: Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/hUKwOMr3tQUgPs9VepGThCGmK3J.jpg", Power Book II: Ghost | S4.E10 - Ghost in the Machine
 https://directlink.public-l.workers.dev/dl/67009dd74f9a6ba159556aec
 
 
 
-#EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg", Presumed Innocent | S1.E1 ∙ Bases Loaded . HD
+#EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg", Presumed Innocent | S1.E1 ∙ Bases Loaded . HD
 https://directlink.public-l.workers.dev/dl/66e63dfea52ad423ffde66d2
-#EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg", Presumed Innocent | S1.E1 ∙ Bases Loaded . FHD
+#EXTINF:2700, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/hToxFEhhlPTR9lT5O3EVAg7uU5K.jpg", Presumed Innocent | S1.E1 ∙ Bases Loaded . FHD
 https://directlink.public-l.workers.dev/dl/66e63edca52ad423ffde66e3
-#EXTINF:2580, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aZtruAnHmjBoxcKqmq1SDPbgImM.jpg", Presumed Innocent | S1.E2 ∙ People vs. Rozat Sabich . HD
+#EXTINF:2580, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/aZtruAnHmjBoxcKqmq1SDPbgImM.jpg", Presumed Innocent | S1.E2 ∙ People vs. Rozat Sabich . HD
 https://directlink.public-l.workers.dev/dl/66e63dfea52ad423ffde66d4
-#EXTINF:2580, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aZtruAnHmjBoxcKqmq1SDPbgImM.jpg", Presumed Innocent | S1.E2 ∙ People vs. Rozat Sabich . FHD
+#EXTINF:2580, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/aZtruAnHmjBoxcKqmq1SDPbgImM.jpg", Presumed Innocent | S1.E2 ∙ People vs. Rozat Sabich . FHD
 https://directlink.public-l.workers.dev/dl/66e63dfea52ad423ffde66d3
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dAqkXnWgTVaflC3WqiZNDoYRRfH.jpg", Presumed Innocent | S1.E3 ∙ Discovery . HD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/dAqkXnWgTVaflC3WqiZNDoYRRfH.jpg", Presumed Innocent | S1.E3 ∙ Discovery . HD
 https://directlink.public-l.workers.dev/dl/66e63dfea52ad423ffde66d6
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dAqkXnWgTVaflC3WqiZNDoYRRfH.jpg", Presumed Innocent | S1.E3 ∙ Discovery . FHD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/dAqkXnWgTVaflC3WqiZNDoYRRfH.jpg", Presumed Innocent | S1.E3 ∙ Discovery . FHD
 https://directlink.public-l.workers.dev/dl/66e63dfea52ad423ffde66d5
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3O4aIMZjAgDo69qdU1MmISWKy1N.jpg", Presumed Innocent | S1.E4 ∙ The Burden . HD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/3O4aIMZjAgDo69qdU1MmISWKy1N.jpg", Presumed Innocent | S1.E4 ∙ The Burden . HD
 https://directlink.public-l.workers.dev/dl/66e63e06a52ad423ffde66de
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3O4aIMZjAgDo69qdU1MmISWKy1N.jpg", Presumed Innocent | S1.E4 ∙ The Burden . FHD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/3O4aIMZjAgDo69qdU1MmISWKy1N.jpg", Presumed Innocent | S1.E4 ∙ The Burden . FHD
 https://directlink.public-l.workers.dev/dl/66e63e06a52ad423ffde66dd
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jc5j12FrBuqWtWYaCSzbajW4mqQ.jpg", Presumed Innocent | S1.E5 ∙ Pregame . HD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/jc5j12FrBuqWtWYaCSzbajW4mqQ.jpg", Presumed Innocent | S1.E5 ∙ Pregame . HD
 https://directlink.public-l.workers.dev/dl/66e63d26a52ad423ffde66cc
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jc5j12FrBuqWtWYaCSzbajW4mqQ.jpg", Presumed Innocent | S1.E5 ∙ Pregame . FHD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/jc5j12FrBuqWtWYaCSzbajW4mqQ.jpg", Presumed Innocent | S1.E5 ∙ Pregame . FHD
 https://directlink.public-l.workers.dev/dl/66e63d26a52ad423ffde66ca
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/p4Ot3tBVdFcLOTqmoczG4lb0Cjh.jpg", Presumed Innocent | S1.E6 ∙ The Elements . HD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/p4Ot3tBVdFcLOTqmoczG4lb0Cjh.jpg", Presumed Innocent | S1.E6 ∙ The Elements . HD
 https://directlink.public-l.workers.dev/dl/66e63d26a52ad423ffde66cd
-#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/p4Ot3tBVdFcLOTqmoczG4lb0Cjh.jpg", Presumed Innocent | S1.E6 ∙ The Elements . FHD
+#EXTINF:2520, group-title="Presumed Innocent" tvg-logo="https://image.tmdb.org/t/p/w500/p4Ot3tBVdFcLOTqmoczG4lb0Cjh.jpg", Presumed Innocent | S1.E6 ∙ The Elements . FHD
 https://directlink.public-l.workers.dev/dl/66e63d26a52ad423ffde66cb
 
 
@@ -578,27 +601,27 @@ https://directlink.public-l.workers.dev/dl/66e40377a6f81c9212b531a8
 https://directlink.public-l.workers.dev/dl/66e40375a6f81c9212b531a6
 #EXTINF:-1, group-title="Dark Matter (2024)" tvg-logo="https://walter.trakt.tv/images/episodes/011/455/816/screenshots/thumb/b65f2cb49b.jpg", Dark Matter | S1.E4 ∙ The Corridor
 https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319f
-#EXTINF:3300, group-title="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vBAi4tIHSYLiEBL3L1XGIublBNf.jpg", Dark Matter | S1.E5 ∙ Worldless
+#EXTINF:3300, group-title="Dark Matter (2024)" tvg-logo="https://image.tmdb.org/t/p/w500/vBAi4tIHSYLiEBL3L1XGIublBNf.jpg", Dark Matter | S1.E5 ∙ Worldless
 https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319e
-#EXTINF:3240, group-title="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/32NIhjkDZ4i187s3MglV77ZGUcF.jpg", Dark Matter | S1.E6 ∙ Superposition
+#EXTINF:3240, group-title="Dark Matter (2024)" tvg-logo="https://image.tmdb.org/t/p/w500/32NIhjkDZ4i187s3MglV77ZGUcF.jpg", Dark Matter | S1.E6 ∙ Superposition
 https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319a
-#EXTINF:3060, group-title="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/2KHUbO3DrLjtoHzX2o1sbPm22yz.jpg", Dark Matter | S1.E7 ∙ In the Fires of Dead Stars
+#EXTINF:3060, group-title="Dark Matter (2024)" tvg-logo="https://image.tmdb.org/t/p/w500/2KHUbO3DrLjtoHzX2o1sbPm22yz.jpg", Dark Matter | S1.E7 ∙ In the Fires of Dead Stars
 https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319c
-#EXTINF:3060, group-title="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/azRRjeuh603e2v4FBtiAgWiknc1.jpg", Dark Matter | S1.E8 ∙ Jupiter
+#EXTINF:3060, group-title="Dark Matter (2024)" tvg-logo="https://image.tmdb.org/t/p/w500/azRRjeuh603e2v4FBtiAgWiknc1.jpg", Dark Matter | S1.E8 ∙ Jupiter
 https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319b
-#EXTINF:3480, group-title="Dark Matter (2024)" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fEXSSxETYrZsoIYffX6k4op79wK.jpg", Dark Matter | S1.E9 ∙ Entanglement
+#EXTINF:3480, group-title="Dark Matter (2024)" tvg-logo="https://image.tmdb.org/t/p/w500/fEXSSxETYrZsoIYffX6k4op79wK.jpg", Dark Matter | S1.E9 ∙ Entanglement
 https://directlink.public-l.workers.dev/dl/66e4036ca6f81c9212b5319d
 
 
-#EXTINF:3180, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg", Eric | S1.E1 ∙ Episode 1
+#EXTINF:3180, group-title="Eric" tvg-logo="https://image.tmdb.org/t/p/w500/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg", Eric | S1.E1 ∙ Episode 1
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66b7
-#EXTINF:3360, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/k1JnFXNOayiPwyTGXhVWxSEnWRj.jpg", Eric | S1.E2 ∙ Episode 2
+#EXTINF:3360, group-title="Eric" tvg-logo="https://image.tmdb.org/t/p/w500/k1JnFXNOayiPwyTGXhVWxSEnWRj.jpg", Eric | S1.E2 ∙ Episode 2
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66b6
-#EXTINF:3240, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9dhHjoyC3o4tGSLjMtU5rZnw28y.jpg", Eric | S1.E3 ∙ Episode 3
+#EXTINF:3240, group-title="Eric" tvg-logo="https://image.tmdb.org/t/p/w500/9dhHjoyC3o4tGSLjMtU5rZnw28y.jpg", Eric | S1.E3 ∙ Episode 3
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66bb
-#EXTINF:3120, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/imvCPQkF8f9b8fnqo437iwZ2fpN.jpg", Eric | S1.E4 ∙ Episode 4
+#EXTINF:3120, group-title="Eric" tvg-logo="https://image.tmdb.org/t/p/w500/imvCPQkF8f9b8fnqo437iwZ2fpN.jpg", Eric | S1.E4 ∙ Episode 4
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66ba
-#EXTINF:3120, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aQgnjxntc3oYtKcRC9zrEPx2Hc3.jpg", Eric | S1.E5 ∙ Episode 5
+#EXTINF:3120, group-title="Eric" tvg-logo="https://image.tmdb.org/t/p/w500/aQgnjxntc3oYtKcRC9zrEPx2Hc3.jpg", Eric | S1.E5 ∙ Episode 5
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66b9
-#EXTINF:3180, group-title="Eric" tvg-logo="https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fYl61UW4fb41rCr35x8kRnYJMmb.jpg", Eric | S1.E6 ∙ Episode 6
+#EXTINF:3180, group-title="Eric" tvg-logo="https://image.tmdb.org/t/p/w500/fYl61UW4fb41rCr35x8kRnYJMmb.jpg", Eric | S1.E6 ∙ Episode 6
 https://directlink.public-l.workers.dev/dl/66e638c9a52ad423ffde66b8
