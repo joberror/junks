@@ -1,5 +1,33 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/s8aP07mFe5a02PXs5lCP9Br6pzj.jpg", The Day of The Jackal | S1.E1
+https://www.tg-x-server3.workers.dev/dl/144949?hash=AgADCR
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/pHGF5nco5u0gw2HpPqt5hTsQ5Rr.jpg", The Day of The Jackal | S1.E2
+https://www.tg-x-server3.workers.dev/dl/144954?hash=AgADDB
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/evM6hY3bwOIZAgl8sp9T7h4Hu7d.jpg", The Day of The Jackal | S1.E3
+https://www.tg-x-server1.workers.dev/dl/144952?hash=AgADDh
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/d637d1TXhf3E2nD7yIvpaxrgW5W.jpg", The Day of The Jackal | S1.E4
+https://www.tg-x-server3.workers.dev/dl/144948?hash=AgADEB
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/28EWCf4DmqFz4YCbu3dqnkCuTap.jpg", The Day of The Jackal | S1.E5
+https://www.tg-x-server3.workers.dev/dl/144946?hash=AgADEx
+
+
+
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/2EEB1MQcldphUBHbU2pLLskg3kA.jpg", Citadel: Honey Bunny | S1.E1 - Dancing and Fighting
+https://www.tg-x-server4.workers.dev/dl/144961?hash=AgADaB
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/iMzbY86smsItCv1rXOdbyVxeZgA.jpg", Citadel: Honey Bunny | S1.E2 - Talwar
+https://www.tg-x-server2.workers.dev/dl/144968?hash=AgADcB
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/pTs0xuvuzRyTsUxekmaJceCQmRO.jpg", Citadel: Honey Bunny | S1.E3 - Spy Game
+https://www.tg-x-server5.workers.dev/dl/144970?hash=AgADcx
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/78hlB5TY4qeNNbjoGL2FrODqEC6.jpg", Citadel: Honey Bunny | S1.E4 - Home
+https://www.tg-x-server3.workers.dev/dl/144965?hash=AgADdB
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/xYcfwll9ivtOXZyhc9nehHRHPiW.jpg", Citadel: Honey Bunny | S1.E5 - Traitor
+https://www.tg-x-server4.workers.dev/dl/144964?hash=AgADdR
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/rmWQEA0xOp9Rd6shDHMeueTkXn5.jpg", Citadel: Honey Bunny | S1.E6 - Play
+https://www.tg-x-server3.workers.dev/dl/144960?hash=AgADdh
+
+
+
 #EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/gKUUmjd0bZyxV9BAIdvFhrz1lY5.jpg", Beauty in Black | S1.E1 - Make It Rain
 https://directlink.public-l.workers.dev/dl/672ad52fe30b5e5640a2ff0f
 #EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/4syKOE2xASycSauPa8t9qsISVeR.jpg", Beauty in Black | S1.E2 - A Dance with Daddy
