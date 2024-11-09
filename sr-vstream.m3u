@@ -1,0 +1,72 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/s8aP07mFe5a02PXs5lCP9Br6pzj.jpg", The Day of The Jackal | S1.E1
+http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55047
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/pHGF5nco5u0gw2HpPqt5hTsQ5Rr.jpg", The Day of The Jackal | S1.E2
+http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55046
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/evM6hY3bwOIZAgl8sp9T7h4Hu7d.jpg", The Day of The Jackal | S1.E3
+http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55048
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/d637d1TXhf3E2nD7yIvpaxrgW5W.jpg", The Day of The Jackal | S1.E4
+http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55045
+#EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/28EWCf4DmqFz4YCbu3dqnkCuTap.jpg", The Day of The Jackal | S1.E5
+http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55044
+
+
+
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/2EEB1MQcldphUBHbU2pLLskg3kA.jpg", Citadel: Honey Bunny | S1.E1 - Dancing and Fighting
+http://mycloudy.biz.id:8080/dl/672fa000b81f43df71e5504a
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/iMzbY86smsItCv1rXOdbyVxeZgA.jpg", Citadel: Honey Bunny | S1.E2 - Talwar
+http://mycloudy.biz.id:8080/dl/672fa000b81f43df71e5504c
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/pTs0xuvuzRyTsUxekmaJceCQmRO.jpg", Citadel: Honey Bunny | S1.E3 - Spy Game
+http://mycloudy.biz.id:8080/dl/672fa000b81f43df71e55049
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/78hlB5TY4qeNNbjoGL2FrODqEC6.jpg", Citadel: Honey Bunny | S1.E4 - Home
+http://mycloudy.biz.id:8080/dl/672fa000b81f43df71e5504d
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/xYcfwll9ivtOXZyhc9nehHRHPiW.jpg", Citadel: Honey Bunny | S1.E5 - Traitor
+http://mycloudy.biz.id:8080/dl/672fa001b81f43df71e5504e
+#EXTINF:-1, group-title="Citadel: Honey Bunny" tvg-logo="https://image.tmdb.org/t/p/w500/rmWQEA0xOp9Rd6shDHMeueTkXn5.jpg", Citadel: Honey Bunny | S1.E6 - Play
+http://mycloudy.biz.id:8080/dl/672fa000b81f43df71e5504b
+
+
+
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/gKUUmjd0bZyxV9BAIdvFhrz1lY5.jpg", Beauty in Black | S1.E1 - Make It Rain
+http://mycloudy.biz.id:8080/dl/672f9f09b81f43df71e55041
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/4syKOE2xASycSauPa8t9qsISVeR.jpg", Beauty in Black | S1.E2 - A Dance with Daddy
+http://mycloudy.biz.id:8080/dl/672f9f0ab81f43df71e55042
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/jqZYDxOAfHXkclsO12KdSvPtahz.jpg", Beauty in Black | S1.E3 - The Aftermath
+http://mycloudy.biz.id:8080/dl/672f9f09b81f43df71e5503d
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/wFqaQzbOuVJVA25GKM28DX5tTDM.jpg", Beauty in Black | S1.E4 -  A Family Affair
+http://mycloudy.biz.id:8080/dl/672f9f09b81f43df71e5503f
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/uhWj5RRPuoZySwOQGZG3g4i6fGe.jpg", Beauty in Black | S1.E5 - Unraveling Threads
+http://mycloudy.biz.id:8080/dl/672f9f08b81f43df71e5503c
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/lOzYIeXZTOOjTvtnYv1P3hhaCDw.jpg", Beauty in Black | S1.E6 - Bang Bang
+http://mycloudy.biz.id:8080/dl/672f9f09b81f43df71e55040
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/gkAojWvXFRAPGXl2WEt36wxOLtC.jpg", Beauty in Black | S1.E7 - Even Playing Field
+http://mycloudy.biz.id:8080/dl/672f9f0ab81f43df71e55043
+#EXTINF:-1, group-title="Beauty in Black" tvg-logo="https://image.tmdb.org/t/p/w500/tLoZBCmqvXqgdOGF4DvSVfWYizb.jpg", Beauty in Black | S1.E8 - Killing Karma
+http://mycloudy.biz.id:8080/dl/672f9f09b81f43df71e5503e
+
+
+
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg", Special Ops: Lioness | S2.E1 - Beware the Old Soldier
+http://mycloudy.biz.id:8080/dl/672fcb09b81f43df71e5506d
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg", Special Ops: Lioness | S2.E2 - I Love My Country
+http://mycloudy.biz.id:8080/dl/672fcb09b81f43df71e5506e
+#EXTINF:-1, group-title="Special Ops: Lioness" tvg-logo="https://image.tmdb.org/t/p/w500/oFPPXT4erNP898TSEElI9fAZULG.jpg", Special Ops: Lioness | S2.E3 - Along Came a Spider
+http://mycloudy.biz.id:8080/dl/672fcb89b81f43df71e5506f
+
+
+
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/v0HhlqpPPv6v3ok5RMFEPL66qPD.jpg", From | S3.E1 - Shatter
+http://mycloudy.biz.id:8080/dl/672fc656b81f43df71e55067
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/arQ9vSh1F1tjUq2nA2hlw2t8mD1.jpg", From | S3.E2 - When We Go
+http://mycloudy.biz.id:8080/dl/672fc656b81f43df71e55064
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/AgVRZBzGnmv8m4k7YyYjyUpHYqt.jpg", From | S3.E3 - Mouse Trap
+http://mycloudy.biz.id:8080/dl/672fc655b81f43df71e55063
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/kn1RwVHbbgQyYUFn73uE9CmjXMx.jpg", From | S3.E4 - There and Back Again
+http://mycloudy.biz.id:8080/dl/672fc7a4b81f43df71e55069
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/aqAHsFCNFgIYh7zpGoCHxnQrdx4.jpg", From | S3.E5 - The Light of Day
+http://mycloudy.biz.id:8080/dl/672fc7dfb81f43df71e5506a
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/py43U9q02kanZ1kholuqHeQoKAm.jpg", From | S3.E6 - Scar Tissue
+http://mycloudy.biz.id:8080/dl/672fc656b81f43df71e55065
+#EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/jIMSYqNIjAqMIDdeD361dzWwfZB.jpg", From | S3.E7 - These Fragile Lives
+http://mycloudy.biz.id:8080/dl/672fc655b81f43df71e55062
