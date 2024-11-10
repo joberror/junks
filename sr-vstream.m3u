@@ -1,5 +1,18 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/dwEyGcpgCF0CVYioUVRqb304Pf0.jpg", Bank Under Siege | S1.E1 - Everybody Down!
+http://mycloudy.biz.id:8080/dl/67311512b81f43df71e55207
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/2Icl9zEy4yCBvkmHA0cp10MKO5s.jpg", Bank Under Siege | S1.E2 - Off-the-record
+http://mycloudy.biz.id:8080/dl/67311512b81f43df71e55206
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/7cXm0NE4JT2ltmOF1raMkknjHTZ.jpg", Bank Under Siege | S1.E3 - Ticktock, Ticktock
+http://mycloudy.biz.id:8080/dl/67311512b81f43df71e55204
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/hnXkLrlp1iriYWF7EISDHclv1Dv.jpg", Bank Under Siege | S1.E4 - Number 1
+http://mycloudy.biz.id:8080/dl/67311512b81f43df71e55205
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/A9a9JUC52MkXAn8pRiic1BW8biF.jpg", Bank Under Siege | S1.E5 - Moment of Truth
+http://mycloudy.biz.id:8080/dl/67311512b81f43df71e55203
+
+
+
 #EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/s8aP07mFe5a02PXs5lCP9Br6pzj.jpg", The Day of The Jackal | S1.E1
 http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55047
 #EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/pHGF5nco5u0gw2HpPqt5hTsQ5Rr.jpg", The Day of The Jackal | S1.E2
@@ -74,3 +87,34 @@ http://mycloudy.biz.id:8080/dl/672fc656b81f43df71e55065
 http://mycloudy.biz.id:8080/dl/672fc655b81f43df71e55062
 #EXTINF:-1, group-title="From" tvg-logo="https://image.tmdb.org/t/p/w500/9DdEmG48ctv1oguWluem5FaM9EG.jpg", From | S3.E8 - Thresholds
 http://mycloudy.biz.id:8080/dl/6730d6c0b81f43df71e551fc
+
+
+
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/5CdBj4c7co4ZAAWBbGA336jIgku.jpg", The Diplomat | S1.E1 - The Cinderella Thing
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e55213
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/A4a9gcahgiXRtiQrXkWGwtaVeHz.jpg", The Diplomat | S1.E2 - Don't Call It a Kidnapping
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e55211
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/26IgdDkp0YSkFVXNgQ9h9nWJMNa.jpg", The Diplomat | S1.E3 - Lambs in the Dark
+http://mycloudy.biz.id:8080/dl/6731286cb81f43df71e55214
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/mUAIyDyGggdgJ0T1RYoayB5torN.jpg", The Diplomat | S1.E4 - He Bought a Hat
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e5520f
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/c2PwuUdhovZDUL4bFeoNwUARmz2.jpg", The Diplomat | S1.E5 - The Dogcatcher
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e5520d
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/f1T5pTKaoWADN5tbU4q4LdBlHzN.jpg", The Diplomat | S1.E6 - Some Lusty Tornado
+http://mycloudy.biz.id:8080/dl/6731286cb81f43df71e55215
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/dBZhN7cvrmb52IwCw8llxf3q1OK.jpg", The Diplomat | S1.E7 - Keep Your Enemies Closer
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e5520e
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/i9i8ZFEQgWfuPBxm32h1BFj0Tmu.jpg", The Diplomat | S1.E8 - The James Bond Clause
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e55212
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/iKZSCqnYafmGAjyxezKDsR2fYA9.jpg", The Diplomat | S2.E1 - hen a Stranger Calls
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e55208
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/yb8KRkFRq59UHKcg088TrcyHfS.jpg", The Diplomat | S2.E2 - St. Paul's
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e5520b
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/w7BjmPaVMBcIp4zIqE0ioDfEOp7.jpg", The Diplomat | S2.E3 -  The Ides of March
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e5520c
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/qokpUQpaeQusc57G9Ad5XVXrGw7.jpg", The Diplomat | S2.E4 - The Other Army
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e55210
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/6lIHoKptaDqE194PFMufQfNWHzG.jpg", The Diplomat | S2.E5 - Our Lady of Immaculate Deception
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e5520a
+#EXTINF:-1, group-title="The Diplomat" tvg-logo="https://image.tmdb.org/t/p/w500/cVBIL6Qb13lu47aOWP75j5nuumm.jpg", The Diplomat | S2.E6 - Dreadnought
+http://mycloudy.biz.id:8080/dl/6731286bb81f43df71e55209

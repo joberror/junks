@@ -1,5 +1,13 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/dwEyGcpgCF0CVYioUVRqb304Pf0.jpg", Bank Under Siege | S1.E1 - Everybody Down!
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/2Icl9zEy4yCBvkmHA0cp10MKO5s.jpg", Bank Under Siege | S1.E2 - Off-the-record
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/7cXm0NE4JT2ltmOF1raMkknjHTZ.jpg", Bank Under Siege | S1.E3 - Ticktock, Ticktock
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/hnXkLrlp1iriYWF7EISDHclv1Dv.jpg", Bank Under Siege | S1.E4 - Number 1
+#EXTINF:-1, group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/A9a9JUC52MkXAn8pRiic1BW8biF.jpg", Bank Under Siege | S1.E5 - Moment of Truth
+
+
+
 #EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/s8aP07mFe5a02PXs5lCP9Br6pzj.jpg", The Day of The Jackal | S1.E1
 https://publicdirect123-4d8c92cd70c7.herokuapp.com/dl/672e0966f91c990451389c45
 #EXTINF:-1, group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/pHGF5nco5u0gw2HpPqt5hTsQ5Rr.jpg", The Day of The Jackal | S1.E2
