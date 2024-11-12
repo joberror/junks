@@ -1,6 +1,7 @@
 import requests
 import re
 import time
+from datetime import datetime, timedelta
 
 # Constants for TMDb API
 API_KEY = '75e3dda3b0e26622248eefdaa1015c82'
@@ -10,21 +11,31 @@ IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500'  # Base URL for images
 # Create a session to reuse connections
 session = requests.Session()
 
-def get_movie_cover(movie_name):
+def underscore_title(title):
+    """Convert title to underscore-separated format."""
+    return title.replace(" ", "_").lower()
+
+def get_movie_details(movie_name):
+    """Fetches movie cover URL and overview for a given movie name."""
     try:
         response = session.get(f"{API_URL}/search/movie", params={"api_key": API_KEY, "query": movie_name}, timeout=5)
         response.raise_for_status()
         movies = response.json().get('results', [])
         if not movies:
             print("Movie not found.")
-            return None
-        poster_path = movies[0].get('poster_path')
-        return f"{IMAGE_BASE_URL}{poster_path}" if poster_path else None
+            return None, None, None
+        movie = movies[0]
+        poster_path = movie.get('poster_path')
+        cover_url = f"{IMAGE_BASE_URL}{poster_path}" if poster_path else None
+        overview = movie.get('overview')
+        title = movie.get('title')
+        return title, cover_url, overview
     except requests.RequestException as e:
-        print(f"Failed to retrieve movie cover: {e}")
-        return None
+        print(f"Failed to retrieve movie details: {e}")
+        return None, None, None
 
 def parse_input_for_episode_range(user_input):
+    """Parses user input to extract series name, season, and episode range."""
     match = re.match(r"(.+?)\s+[sS](\d+)[eE](\d+)(?:\s*-\s*[eE](\d+))?", user_input)
     if match:
         series_name = match.group(1).strip()
@@ -36,6 +47,7 @@ def parse_input_for_episode_range(user_input):
         return user_input.strip(), None, None, None
 
 def search_series(series_name):
+    """Fetches the series ID for a given series name."""
     try:
         response = session.get(f"{API_URL}/search/tv", params={"api_key": API_KEY, "query": series_name}, timeout=5)
         response.raise_for_status()
@@ -49,6 +61,7 @@ def search_series(series_name):
         return None
 
 def get_episode_details(series_id, season_number, episode_number, retries=3):
+    """Fetches title, cover URL, and overview for a specific episode."""
     for attempt in range(retries):
         try:
             response = session.get(f"{API_URL}/tv/{series_id}/season/{season_number}/episode/{episode_number}", params={"api_key": API_KEY}, timeout=5)
@@ -57,28 +70,57 @@ def get_episode_details(series_id, season_number, episode_number, retries=3):
             title = episode_data.get('name')
             poster_path = episode_data.get('still_path')
             cover_url = f"{IMAGE_BASE_URL}{poster_path}" if poster_path else None
-            return title, cover_url
+            overview = episode_data.get('overview')
+            return title, cover_url, overview
         except requests.RequestException as e:
             print(f"Attempt {attempt + 1} failed to retrieve episode details: {e}")
-            time.sleep(0.5)  # Wait before retrying
+            time.sleep(0.5)
     print(f"Failed to retrieve details for episode {episode_number} after {retries} attempts.")
-    return None, None
+    return None, None, None
+
+def generate_output(id_name, title, cover_url, description):
+    """Generates the required XML and M3U8 formatted output."""
+    # Get the current time and future time (one year later)
+    start_time = datetime.utcnow()
+    stop_time = start_time + timedelta(days=365)
+
+    # Format start and stop times to the required format
+    start_time_str = start_time.strftime("%Y%m%d%H%M%S +0000")
+    stop_time_str = stop_time.strftime("%Y%m%d%H%M%S +0000")
+
+    # Generate the XML and M3U8 output
+    print(f"""
+<channel id="{id_name}">
+    <display-name>{title}</display-name>
+    <icon src="{cover_url}" />
+</channel>
+
+<programme start="{start_time_str}" stop="{stop_time_str}" channel="{id_name}">
+    <title>{title}</title>
+    <desc>{description}</desc>
+</programme>
+
+#EXTINF:-1 tvg-id="{id_name}" tvg-name="{title}" tvg-logo="{cover_url}", {title}
+""")
 
 def main():
     print("Select an option:")
-    print("1. Movie cover")
-    print("2. Episode cover and title")
+    print("1. Movie cover and description")
+    print("2. Episode cover, title, and description")
     choice = input("Enter 1 or 2: ").strip()
 
     if choice == "1":
+        # Movie cover and description
         movie_name = input("Enter movie name (e.g., 'Uprising 2024'): ").strip()
-        cover_url = get_movie_cover(movie_name)
-        if cover_url:
-            print("Movie Cover URL:", cover_url)
+        title, cover_url, overview = get_movie_details(movie_name)
+        if title and cover_url and overview:
+            id_name = underscore_title(title)
+            generate_output(id_name, title, cover_url, overview)
         else:
-            print("Cover image not found.")
+            print("Movie details not found.")
 
     elif choice == "2":
+        # Episode cover, title, and description
         user_input = input("Enter series name with season and episode range (e.g., 'Breaking Bad S1E1 - E8'): ").strip()
         series_name, season_number, start_episode, end_episode = parse_input_for_episode_range(user_input)
 
@@ -90,19 +132,16 @@ def main():
         if not series_id:
             return
 
+        # Loop over the range of episodes and print title, cover URL, and description
         for episode_number in range(start_episode, end_episode + 1):
-            title, cover_url = get_episode_details(series_id, season_number, episode_number)
-            if title:
-                print(f"Episode {episode_number} Title:", title)
+            title, cover_url, overview = get_episode_details(series_id, season_number, episode_number)
+            if title and cover_url and overview:
+                id_name = underscore_title(f"{series_name} S{season_number}E{episode_number}")
+                generate_output(id_name, title, cover_url, overview)
             else:
-                print(f"Title not found for Episode {episode_number}.")
-            
-            if cover_url:
-                print(f"Episode {episode_number} Cover URL:", cover_url)
-            else:
-                print(f"Cover image not found for Episode {episode_number}.")
+                print(f"Details not found for Episode {episode_number}.")
 
-            time.sleep(0.25)  # Short delay to respect TMDb rate limits
+            time.sleep(0.25)
 
     else:
         print("Invalid choice. Please enter 1 or 2.")

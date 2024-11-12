@@ -1,5 +1,6 @@
-#EXTINF:-1, The Count of Monte-Cristo
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:metadata:artwork_url=https://image.tmdb.org/t/p/w500/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg
+#EXTINF:-1 tvg-id="the_count_of_monte-cristo" tvg-name="The Count of Monte-Cristo" tvg-logo="https://image.tmdb.org/t/p/w500/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg", The Count of Monte-Cristo  
 https://directlink.public-l.workers.dev/dl/672fe550dc6f27a666224945
 http://mycloudy.biz.id:8080/dl/672eede4b81f43df71e54fff
+#EXTINF:-1 tvg-id="the_outrun" tvg-name="The Outrun" tvg-logo="https://image.tmdb.org/t/p/w500/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg", The Outrun
+https://directlink.public-l.workers.dev/dl/672ae5ede30b5e5640a2ff39
+http://mycloudy.biz.id:8080/dl/6732c785b81f43df71e55218
