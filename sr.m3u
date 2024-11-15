@@ -1,5 +1,24 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/jvVr3tR6ITxhb2LzR6jVoKtqL70.jpg", Cross | S1.E1 - Hero Complex
+https://dl.kpsbots.workers.dev/dl/67368f105f3cc33b8ca3326e
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/vEEGD2uoTOR0qnEzyfVMe2pKbG7.jpg", Cross | S1.E2 - Ride the White Horsey
+https://dl.kpsbots.workers.dev/dl/67368f105f3cc33b8ca33273
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/A1vbGogJ0wVnYLRiS9SSswIlyPd.jpg", Cross | S1.E3 - The Good Book
+https://dl.kpsbots.workers.dev/dl/67368f105f3cc33b8ca33272
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/1DkRla6Nnqbqi1UDrK3E0qzkv2i.jpg", Cross | S1.E4 - Masks
+https://dl.kpsbots.workers.dev/dl/67368f105f3cc33b8ca3326f
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/alhxU9PW8GTLmgX364unVoLkWBD.jpg", Cross | S1.E5 - What Happens at Ramsey's
+https://dl.kpsbots.workers.dev/dl/67368f105f3cc33b8ca33274
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/ne2wjVrh28vDTbEpKmnvVbT6iEr.jpg", Cross | S1.E6 - A Bang, Not a Whimper
+https://dl.kpsbots.workers.dev/dl/67368f105f3cc33b8ca33271
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/zcj4h3BYDgfSTKEq93qKE9ZoeHA.jpg", Cross | S1.E7 - Happy Birthday
+https://dl.kpsbots.workers.dev/dl/67368f105f3cc33b8ca33270
+#EXTINF:-1 group-title="Cross" tvg-logo="https://image.tmdb.org/t/p/w500/5OD4RYm3ULl5jKxHXZKmCt5Lu2Z.jpg", Cross | S1.E8 - You Had Me at Motherfucker
+https://dl.kpsbots.workers.dev/dl/67368f115f3cc33b8ca33275
+
+
+
 #EXTINF:-1 group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/dwEyGcpgCF0CVYioUVRqb304Pf0.jpg", Bank Under Siege | S1.E1 - Everybody Down!
 http://mycloudy.biz.id:8080/dl/67311512b81f43df71e55207
 #EXTINF:-1 group-title="Bank Under Siege" tvg-logo="https://image.tmdb.org/t/p/w500/2Icl9zEy4yCBvkmHA0cp10MKO5s.jpg", Bank Under Siege | S1.E2 - Off-the-record
@@ -23,6 +42,8 @@ http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55048
 http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55045
 #EXTINF:-1 group-title="The Day of The Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/28EWCf4DmqFz4YCbu3dqnkCuTap.jpg", The Day of The Jackal | S1.E5
 http://mycloudy.biz.id:8080/dl/672f9fafb81f43df71e55044
+#EXTINF:-1 group-title="The Day of the Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/8WOmqInybx4G89Q3zkosA5ovegg.jpg", The Day of the Jackal | S1.E6
+https://dl.kpsbots.workers.dev/dl/6736909d5f3cc33b8ca33284
 
 
 
@@ -216,3 +237,37 @@ http://mycloudy.biz.id:8080/dl/6733a3cdb81f43df71e55262
 http://mycloudy.biz.id:8080/dl/6733a3cdb81f43df71e5525e
 #EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w500/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg", Sweetpea | S1.E6 - Life 2.0
 http://mycloudy.biz.id:8080/dl/6733a3cdb81f43df71e5525d
+
+
+
+#EXTINF:-1 group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/rbI6dTX5AGTPt8b7wvJDVNSpmpP.jpg", Joan | S1.E1
+https://www.tg-x-server3.workers.dev/dl/192850?hash=AgAD9R
+#EXTINF:-1 group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/evDS5lFtyKnf6ZFbjEkblS545T1.jpg", Joan | S1.E2
+https://www.tg-x-server5.workers.dev/dl/192842?hash=AgADPl
+#EXTINF:-1 group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/qGttr70vqGF6qYJnWkEKqlE2AwP.jpg", Joan | S1.E3
+https://www.tg-x-server4.workers.dev/dl/192840?hash=AgADRl
+#EXTINF:-1 group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/N8RRosxITl0bSzCeIt7XsweIRq.jpg", Joan | S1.E4
+https://www.tg-x-server4.workers.dev/dl/192838?hash=AgADTl
+#EXTINF:-1 group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/vQgbXkl5dKqgnWMDGWSzCmGOAdp.jpg", Joan | S1.E5
+https://www.tg-x-server5.workers.dev/dl/192836?hash=AgADU1
+#EXTINF:-1 group-title="Joan" tvg-logo="https://image.tmdb.org/t/p/w500/87TOJLFOMe3nnlX4PQx5ro6ijNz.jpg", Joan | S1.E6
+https://www.tg-x-server5.workers.dev/dl/192834?hash=AgADWl
+
+
+
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/ecX4IMGRlKwyq5eZd5sjPxtUTaT.jpg", The Penguin | S1.E1 - After Hours
+https://matiztechz.online/dl/15282/video.mp4?hash=AgADNB
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/esZEDbBtRJdTex16IR9BIvop852.jpg", The Penguin | S1.E2 - Inside Man
+https://matiztechz.online/dl/15288/video.mp4?hash=AgADBF
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/92Zz1q4VcisKPxKagfh9dEVGkeS.jpg", The Penguin | S1.E3 - Bliss
+https://matiztechz.online/dl/15293/video.mp4?hash=AgADv0
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/6InFSm29R8xFPZQfSjEuwwg2j4q.jpg", The Penguin | S1.E4 - Cent'anni
+https://matiztechz.online/dl/15294/video.mp4?hash=AgADUw
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/ewa7rDjtl8WDaaL43NGl6I3yb21.jpg", The Penguin | S1.E5 - Homecoming
+https://matiztechz.online/dl/15283/video.mp4?hash=AgADnh
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/dQrxfFP45iz6sLPh6KkfU1Idea5.jpg", The Penguin | S1.E6 - Gold Summit
+https://matiztechz.online/dl/15289/video.mp4?hash=AgADAQ
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/eU9qFjD98jA5AChyANK8zc52N2o.jpg", The Penguin | S1.E7 - Top Hat
+https://matiztechz.online/dl/15286/video.mp4?hash=AgADCB
+#EXTINF:-1, group-title="The Penguin" tvg-logo="https://image.tmdb.org/t/p/w500/AmWwlp7XiIJZBbakRVIUNtABVVV.jpg", The Penguin | S1.E8 - A Great or Little Thing
+https://matiztechz.online/dl/15292/video.mp4?hash=AgADnh
