@@ -1,5 +1,24 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/iHTdxu9x7hJssYTIw25346ae2AP.jpg", The Madness | S1.E1 - Pilot
+https://www.tgxdl4.workers.dev/1:/dl/421?hash=AgADKh
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/zfMHPxPDRlQ6ihiIO0A0PqYURrK.jpg", The Madness | S1.E2 - Djibouti
+https://www.tgxdl4.workers.dev/1:/dl/422?hash=AgADKx
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/lxQXg9uQSVHG8IeqprZqlJPKd2Z.jpg", The Madness | S1.E3 - Discord
+https://www.tgxdl4.workers.dev/1:/dl/424?hash=AgADLB
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/mHNEkkWRytJWiHUDtCx0Bw3t9Pz.jpg", The Madness | S1.E4 - Radioactive
+https://www.tgxdl2.workers.dev/1:/dl/423?hash=AgADLR
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/5F1HRBE9BQHKvhSKs8qn7TG0XoM.jpg", The Madness | S1.E5 - Icarus
+https://www.tgxdl3.workers.dev/1:/dl/425?hash=AgADLh
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/tGulHTzy2uwCPDJ55QbXc752wNg.jpg", The Madness | S1.E6 - Loco
+https://www.tgxdl3.workers.dev/1:/dl/426?hash=AgADLx
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/ucYruyYvoEr2y3J19o9VTWPqKgy.jpg", The Madness | S1.E7 - DNA
+https://www.tgxdl2.workers.dev/1:/dl/428?hash=AgADMB
+#EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/xsirPmkAcmEWWUJ9O1CG520dny.jpg", The Madness | S1.E8 - No More Madness
+https://www.tgxdl1.workers.dev/1:/dl/427?hash=AgADMR
+
+
+
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/dtP8VGcSwlZp9x86cB3Y8iVmjJM.jpg", The Agency | S1.E1 - The Bends
 https://www.tgxdl3.workers.dev/1:/dl/255?hash=AgADYh
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/qhPqaFdHuZ6DLoQbrxAt1QQphdH.jpg", The Agency | S1.E2 - Wooden Duck
@@ -72,6 +91,8 @@ https://matiztechz.online/dl/22346/video.mp4?hash=AgADEx
 https://www.tgxdl5.workers.dev/0:/dl/19228?hash=AgADQB
 #EXTINF:-1 group-title="Dune Prophecy" tvg-logo="https://image.tmdb.org/t/p/w500/iqLJi0tYVwUjRJhvLcRpkG1ttII.jpg", Dune Prophecy | S1.E2 - Two Wolves
 https://www.tgxdl3.workers.dev/0:/dl/13191?hash=AgADhW
+#EXTINF:-1 group-title="Dune Prophecy" tvg-logo="https://image.tmdb.org/t/p/w500/qRscPri7qXpVTwVQ4IJOVDpGrIw.jpg", Dune Prophecy | S1.E3 - Sisterhood Above All
+https://web.filestreamsv.work.gd/dl/674e6c04a6b3514e7aa021d0
 
 
 
