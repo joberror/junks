@@ -1,5 +1,20 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/ctFX9iQwMSqhcdiN9BqigzDKQzC.jpg", Black Doves | S1.E1 - To Love Then
+https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752880f94207f3caddfaecf
+#EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/rUWap4kNKKvvOLOZrwrII8RM6U0.jpg", Black Doves | S1.E2 - A Little Black Dove
+https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752880f94207f3caddfaed0
+#EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/kx2PdT0WNFH9AElJCp9coUVAqaP.jpg", Black Doves | S1.E3 - The Coming Night
+https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752881094207f3caddfaed5
+#EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/zMmFARe3eOOtisNpRla3lHzvnJD.jpg", Black Doves | S1.E4 - Go Bang Time
+https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752880f94207f3caddfaed2
+#EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/uxJjXlsaerWrjPOCowoxtbnVIgL.jpg", Black Doves | S1.E5 - The Cost of It All
+https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752881094207f3caddfaed6
+#EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/jpOGtvNoPNfn8DO69RIiPiZhuRn.jpg", Black Doves | S1.E6 - In the Bleak Midwinter
+https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752881094207f3caddfaed4
+
+
+
 #EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/iHTdxu9x7hJssYTIw25346ae2AP.jpg", The Madness | S1.E1 - Pilot
 https://www.tgxdl4.workers.dev/1:/dl/421?hash=AgADKh
 #EXTINF:-1 group-title="The Madness" tvg-logo="https://image.tmdb.org/t/p/w500/zfMHPxPDRlQ6ihiIO0A0PqYURrK.jpg", The Madness | S1.E2 - Djibouti
