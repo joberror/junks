@@ -6,5 +6,5 @@
     "titleBar.inactiveBackground": "#554f81",
     "titleBar.inactiveForeground": "#d98b97"
   },
-  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+  "CodeGPT.apiKey": "Ollama"
 }
