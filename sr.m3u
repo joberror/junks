@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/ctFX9iQwMSqhcdiN9BqigzDKQzC.jpg", Black Doves | S1.E1 - To Love Then
-https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752880f94207f3caddfaecf
+https://www.tgxdl2.workers.dev/1:/dl/556?hash=AgADsB
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/rUWap4kNKKvvOLOZrwrII8RM6U0.jpg", Black Doves | S1.E2 - A Little Black Dove
-https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752880f94207f3caddfaed0
+https://www.tgxdl3.workers.dev/1:/dl/555?hash=AgADsR
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/kx2PdT0WNFH9AElJCp9coUVAqaP.jpg", Black Doves | S1.E3 - The Coming Night
-https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752881094207f3caddfaed5
+https://www.tgxdl2.workers.dev/1:/dl/554?hash=AgADsh
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/zMmFARe3eOOtisNpRla3lHzvnJD.jpg", Black Doves | S1.E4 - Go Bang Time
-https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752880f94207f3caddfaed2
+https://www.tgxdl2.workers.dev/1:/dl/557?hash=AgADtB
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/uxJjXlsaerWrjPOCowoxtbnVIgL.jpg", Black Doves | S1.E5 - The Cost of It All
-https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752881094207f3caddfaed6
+https://www.tgxdl3.workers.dev/1:/dl/553?hash=AgADtR
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/jpOGtvNoPNfn8DO69RIiPiZhuRn.jpg", Black Doves | S1.E6 - In the Bleak Midwinter
-https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/6752881094207f3caddfaed4
+https://www.tgxdl5.workers.dev/1:/dl/558?hash=AgADtx
 
 
 
@@ -38,6 +38,8 @@ https://www.tgxdl1.workers.dev/1:/dl/427?hash=AgADMR
 https://www.tgxdl3.workers.dev/1:/dl/255?hash=AgADYh
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/qhPqaFdHuZ6DLoQbrxAt1QQphdH.jpg", The Agency | S1.E2 - Wooden Duck
 https://www.tgxdl3.workers.dev/1:/dl/256?hash=AgADZR
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/uv3kWNuqaFG0rMoWBr4NVVTNtKX.jpg", The Agency | S1.E3 - Hawk from a Handsaw
+https://www.tgxdl1.workers.dev/1:/dl/561?hash=AgADzR
 
 
 
@@ -117,6 +119,8 @@ https://www.tgxdl5.workers.dev/0:/dl/19216?hash=AgADEy
 https://www.tgxdl4.workers.dev/0:/dl/13194?hash=AgADqh
 #EXTINF:-1 group-title="Silo" tvg-logo="https://image.tmdb.org/t/p/w500/dY1nJnRuuhC0stZqNWShBYqk93H.jpg", Silo | S2.E3 - Solo
 https://www.tgxdl5.workers.dev/0:/dl/19206?hash=AgADGh
+#EXTINF:-1 group-title="Silo" tvg-logo="https://image.tmdb.org/t/p/w500/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg", Silo | S2.E4 - The Harmonium
+https://www.tgxdl4.workers.dev/1:/dl/559?hash=AgADyx
 
 
 
@@ -169,7 +173,7 @@ https://www.tgxdl5.workers.dev/1:/dl/314?hash=AgADrW
 #EXTINF:-1 group-title="The Day of the Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/thpACk713j0JMoyljCEf8HMKkYo.jpg", The Day of the Jackal | S1.E8
 https://www.tgxdl2.workers.dev/0:/dl/24279?hash=AgADEB
 #EXTINF:-1 group-title="The Day of the Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/hN34C0fu0qFh2nk7nxLRPiFaztT.jpg", The Day of the Jackal | S1.E9
-https://pub-stream-dk0-d61b0fe4dfdd.herokuapp.com/dl/67527a0294207f3caddfaec7
+https://www.tgxdl5.workers.dev/1:/dl/563?hash=AgADux
 
 
 
