@@ -44,29 +44,36 @@ def format_and_display_info(data, media_type):
     title = data.get('title') or data.get('name')
     description = data.get('overview', 'No description available.')
     year = data.get('release_date', data.get('first_air_date', 'Unknown'))[:4]
-    rating = data.get('vote_average', 'N/A')
+    rating = f"⭐ {data.get('vote_average', 'N/A')}"
     poster_path = data.get('poster_path')
     cover_art_url = f"https://image.tmdb.org/t/p/w500{poster_path}" if poster_path else "No cover art available."
     total_episodes = data.get('number_of_episodes', '')  # For series, episodes count if available
     tmdb_link = f"https://www.themoviedb.org/{media_type}/{data.get('id')}"
 
-    # Get major cast members
+    # Get genres with hashtags
+    genres = data.get('genres', [])
+    genre_tags = ' '.join([f"#{genre['name'].replace(' ', '')}" for genre in genres]) if genres else "No genre information available."
+
+    # Get major cast members with hashtags
     cast = data.get('credits', {}).get('cast', [])
-    major_casts = ', '.join(
-        [f"[{actor['name']}](https://www.themoviedb.org/person/{actor['id']})" for actor in cast[:5]]
-    ) if cast else 'No cast information available.'
-    additional_casts = f", +{len(cast) - 5}" if len(cast) > 5 else ""
+    major_casts = ' '.join([f"#{actor['name'].replace(' ', '')}" for actor in cast[:5]]) if cast else 'No cast information available.'
+    additional_casts = f" +{len(cast) - 5}" if len(cast) > 5 else ""
+
+    # Determine type: Movie or Series
+    type_label = "Movie" if media_type == "movie" else "Series"
 
     # Format the title
     if media_type == "movie":
-        media_info = f"Movie: [{title}]({tmdb_link}) / {year} / {rating}".strip()  # Remove trailing "/"
+        media_info = f"{type_label}: {title} / {year} / {rating}".strip()  # Remove trailing "/"
     else:
-        media_info = f"Movie: [{title}]({tmdb_link}) / {year} / {rating} / {total_episodes} Episodes"
+        media_info = f"{type_label}: {title} / {year} / {rating} / {total_episodes} Episodes"
 
     # Display output
     print(media_info)
+    print(f"Genres: {genre_tags}")
     print(f"Description: {description}")
     print(f"Casts: {major_casts}{additional_casts}")
+    print(f"Movie Link: {tmdb_link}")
     print(f"Cover Art: {cover_art_url}")
 
 def main():
