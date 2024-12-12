@@ -1,5 +1,15 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1 group-title="Dream Productions" tvg-logo="https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg", Dream Productions | S1.E1 - Part 1: The Dream Team - 1080P
+https://www.tgxdl3.workers.dev/1:/dl/903?hash=AgADdR
+#EXTINF:-1 group-title="Dream Productions" tvg-logo="https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg", Dream Productions | S1.E2 - Part 2: Out of Body - 1080P
+https://www.tgxdl2.workers.dev/1:/dl/904?hash=AgADdx
+#EXTINF:-1 group-title="Dream Productions" tvg-logo="https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg", Dream Productions | S1.E3 - Part 3: Romance! - 1080P
+https://www.tgxdl2.workers.dev/1:/dl/906?hash=AgADeR
+#EXTINF:-1 group-title="Dream Productions" tvg-logo="https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg", Dream Productions | S1.E4 - Part 4: A Night to Remember - 1080P
+https://www.tgxdl4.workers.dev/1:/dl/907?hash=AgADex
+
+
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/ctFX9iQwMSqhcdiN9BqigzDKQzC.jpg", Black Doves | S1.E1 - To Love Then
 https://www.tgxdl2.workers.dev/1:/dl/556?hash=AgADsB
 #EXTINF:-1 group-title="Black Doves" tvg-logo="https://image.tmdb.org/t/p/w500/rUWap4kNKKvvOLOZrwrII8RM6U0.jpg", Black Doves | S1.E2 - A Little Black Dove
@@ -174,6 +184,8 @@ https://www.tgxdl5.workers.dev/1:/dl/314?hash=AgADrW
 https://www.tgxdl2.workers.dev/0:/dl/24279?hash=AgADEB
 #EXTINF:-1 group-title="The Day of the Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/hN34C0fu0qFh2nk7nxLRPiFaztT.jpg", The Day of the Jackal | S1.E9.1080P
 https://www.tgxdl5.workers.dev/1:/dl/563?hash=AgADux
+#EXTINF:-1 group-title="The Day of the Jackal" tvg-logo="https://image.tmdb.org/t/p/w500/bXISBSN4w7HLTj6lOy5NWHHk8Rr.jpg", The Day of the Jackal | S1.E10.1080P
+https://www.tgxdl5.workers.dev/1:/dl/936?hash=AgADQQ
 
 
 

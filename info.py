@@ -30,7 +30,6 @@ def get_detailed_info(media_type, media_id):
     params = {
         'api_key': API_KEY,
         'language': 'en-US',
-        'append_to_response': 'credits',
     }
     response = requests.get(url, params=params)
     if response.status_code == 200:
@@ -39,42 +38,51 @@ def get_detailed_info(media_type, media_id):
         print("Failed to fetch details:", response.status_code)
         return None
 
+def get_streaming_platforms(media_type, media_id):
+    """Get streaming platforms for a movie or series."""
+    url = f"{BASE_URL}/{media_type}/{media_id}/watch/providers"
+    params = {
+        'api_key': API_KEY
+    }
+    response = requests.get(url, params=params)
+    if response.status_code == 200:
+        providers = response.json().get('results', {}).get('US', {}).get('flatrate', [])
+        if providers:
+            return ', '.join([provider['provider_name'] for provider in providers])
+        else:
+            return "Not available"
+    else:
+        print("Failed to fetch streaming platforms:", response.status_code)
+        return "Unknown"
+
 def format_and_display_info(data, media_type):
-    """Format and display movie or series details."""
+    """Display formatted output with title, rating, year, genres, NFO, and streaming platforms."""
     title = data.get('title') or data.get('name')
-    description = data.get('overview', 'No description available.')
     year = data.get('release_date', data.get('first_air_date', 'Unknown'))[:4]
-    rating = f"⭐ {data.get('vote_average', 'N/A')}"
-    poster_path = data.get('poster_path')
-    cover_art_url = f"https://image.tmdb.org/t/p/w500{poster_path}" if poster_path else "No cover art available."
-    total_episodes = data.get('number_of_episodes', '')  # For series, episodes count if available
-    tmdb_link = f"https://www.themoviedb.org/{media_type}/{data.get('id')}"
-
-    # Get genres with hashtags
+    rating = f"⭐️ {data.get('vote_average', 'N/A')}"
     genres = data.get('genres', [])
-    genre_tags = ' '.join([f"#{genre['name'].replace(' ', '')}" for genre in genres]) if genres else "No genre information available."
-
-    # Get major cast members with hashtags
-    cast = data.get('credits', {}).get('cast', [])
-    major_casts = ' '.join([f"#{actor['name'].replace(' ', '')}" for actor in cast[:5]]) if cast else 'No cast information available.'
-    additional_casts = f" +{len(cast) - 5}" if len(cast) > 5 else ""
+    genre_tags = ' '.join([f"#{genre['name'].replace(' ', '')}" for genre in genres]) if genres else "No genres available"
+    movie_link = f"https://www.themoviedb.org/{media_type}/{data.get('id')}"
+    
+    # For series, append number of episodes
+    total_episodes = data.get('number_of_episodes', None)
+    if media_type == "tv" and total_episodes:
+        title += f" | {total_episodes} scenes"
 
     # Determine type: Movie or Series
-    type_label = "Movie" if media_type == "movie" else "Series"
+    type_label = "🎥 Movie" if media_type == "movie" else "🎥 Series"
 
-    # Format the title
-    if media_type == "movie":
-        media_info = f"{type_label}: {title} / {year} / {rating}".strip()  # Remove trailing "/"
-    else:
-        media_info = f"{type_label}: {title} / {year} / {rating} / {total_episodes} Episodes"
+    # Get streaming platforms
+    streaming_platforms = get_streaming_platforms(media_type, data.get('id'))
 
-    # Display output
-    print(media_info)
-    print(f"Genres: {genre_tags}")
-    print(f"Description: {description}")
-    print(f"Casts: {major_casts}{additional_casts}")
-    print(f"Movie Link: {tmdb_link}")
-    print(f"Cover Art: {cover_art_url}")
+    # Formatted output
+    print(f"{type_label}\n")
+    print(f"¤ Title: {title}")
+    print(f"¤ Year: {year}")
+    print(f"¤ Rating: {rating}")
+    print(f"¤ Genres: {genre_tags}")
+    print(f"¤ Streaming On: {streaming_platforms}")
+    print(f"¤ NFO: {movie_link}")
 
 def main():
     query = input("Enter the name of a movie or series: ").strip()
