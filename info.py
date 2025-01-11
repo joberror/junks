@@ -4,7 +4,6 @@ import requests
 API_KEY = '75e3dda3b0e26622248eefdaa1015c82'
 BASE_URL = 'https://api.themoviedb.org/3'
 
-# I need this script to give likely possible results so that I can select the exact one to give the info. AI!
 def search_movie_or_series(query):
     """Search for a movie or series by name."""
     url = f"{BASE_URL}/search/multi"
@@ -17,7 +16,7 @@ def search_movie_or_series(query):
     if response.status_code == 200:
         results = response.json().get('results', [])
         if results:
-            return results[0]  # Return the first result
+            return results  # Return all results
         else:
             print("No results found.")
             return None
@@ -64,7 +63,7 @@ def format_and_display_info(data, media_type):
     genres = data.get('genres', [])
     genre_tags = ' '.join([f"#{genre['name'].replace(' ', '')}" for genre in genres]) if genres else "No genres available"
     movie_link = f"https://www.themoviedb.org/{media_type}/{data.get('id')}"
-    
+
     # For series, append number of episodes
     total_episodes = data.get('number_of_episodes', None)
     if media_type == "tv" and total_episodes:
@@ -87,13 +86,21 @@ def format_and_display_info(data, media_type):
 
 def main():
     query = input("Enter the name of a movie or series: ").strip()
-    search_result = search_movie_or_series(query)
-    if search_result:
-        media_type = search_result.get('media_type', 'movie')
-        media_id = search_result.get('id')
-        details = get_detailed_info(media_type, media_id)
-        if details:
-            format_and_display_info(details, media_type)
+    search_results = search_movie_or_series(query)
+    if search_results:
+        print("Select the exact match from the list below:")
+        for idx, result in enumerate(search_results, start=1):
+            print(f"{idx}. {result.get('title') or result.get('name')} ({result.get('media_type')})")
+        selection = int(input("Enter the number of your selection: ").strip()) - 1
+        if 0 <= selection < len(search_results):
+            selected_result = search_results[selection]
+            media_type = selected_result.get('media_type', 'movie')
+            media_id = selected_result.get('id')
+            details = get_detailed_info(media_type, media_id)
+            if details:
+                format_and_display_info(details, media_type)
+        else:
+            print("Invalid selection.")
 
 if __name__ == '__main__':
     main()
