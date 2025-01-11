@@ -1,3 +1,5 @@
+# Add a feature where when movies or series are being searched, users will be able to select the exact one. AI!
+
 import requests
 import re
 import time
