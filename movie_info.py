@@ -1,5 +1,3 @@
-# Add a feature where when movies or series are being searched, users will be able to select the exact one. AI!
-
 import requests
 import re
 import time
@@ -20,15 +18,11 @@ def get_movie_details(movie_name):
         movies = response.json().get('results', [])
         if not movies:
             print("Movie not found.")
-            return None, None
-        movie = movies[0]
-        title = movie.get('title')
-        poster_path = movie.get('poster_path')
-        cover_url = f"{IMAGE_BASE_URL}{poster_path}" if poster_path else ""
-        return title, cover_url
+            return None
+        return movies
     except requests.RequestException as e:
         print(f"Failed to retrieve movie details: {e}")
-        return None, None
+        return None
 
 def parse_input_for_episode_range(user_input):
     """Parses user input to extract series name, season, and episode range."""
@@ -51,7 +45,7 @@ def search_series(series_name):
         if not results:
             print("Series not found.")
             return None
-        return results[0]['id']
+        return results
     except requests.RequestException as e:
         print(f"Failed to retrieve series: {e}")
         return None
@@ -96,9 +90,20 @@ def main():
         if choice == "1":
             # Movie option
             movie_name = input("Enter movie name (e.g., 'The Outrun'): ").strip()
-            title, cover_url = get_movie_details(movie_name)
-            if title:
-                generate_movie_output(title, cover_url)
+            movies = get_movie_details(movie_name)
+            if movies:
+                print("Select the movie from the list:")
+                for i, movie in enumerate(movies):
+                    print(f"{i + 1}. {movie['title']}")
+                selection = int(input("Enter the number of your choice: ").strip()) - 1
+                if 0 <= selection < len(movies):
+                    selected_movie = movies[selection]
+                    title = selected_movie.get('title')
+                    poster_path = selected_movie.get('poster_path')
+                    cover_url = f"{IMAGE_BASE_URL}{poster_path}" if poster_path else ""
+                    generate_movie_output(title, cover_url)
+                else:
+                    print("Invalid selection.")
             else:
                 print("Movie details not found.")
 
@@ -111,8 +116,19 @@ def main():
                 print("Invalid input format. Please use 'Show Name S<season>E<start>-E<end>' format.")
                 continue
 
-            series_id = search_series(series_name)
-            if not series_id:
+            series_list = search_series(series_name)
+            if series_list:
+                print("Select the series from the list:")
+                for i, series in enumerate(series_list):
+                    print(f"{i + 1}. {series['name']}")
+                selection = int(input("Enter the number of your choice: ").strip()) - 1
+                if 0 <= selection < len(series_list):
+                    selected_series = series_list[selection]
+                    series_id = selected_series['id']
+                else:
+                    print("Invalid selection.")
+                    continue
+            else:
                 continue
 
             # Loop over the range of episodes and print formatted output
