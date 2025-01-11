@@ -4,6 +4,7 @@ import requests
 API_KEY = '75e3dda3b0e26622248eefdaa1015c82'
 BASE_URL = 'https://api.themoviedb.org/3'
 
+# I need this script to give likely possible results so that I can select the exact one to give the info. AI!
 def search_movie_or_series(query):
     """Search for a movie or series by name."""
     url = f"{BASE_URL}/search/multi"
