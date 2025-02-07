@@ -16,7 +16,10 @@ def search_movie_or_series(query):
     if response.status_code == 200:
         results = response.json().get('results', [])
         if results:
-            return results  # Return all results
+            for result in results:
+                year = result.get('release_date', result.get('first_air_date', 'Unknown'))[:4]
+                result['year'] = year
+            return results  # Return all results with year included
         else:
             print("No results found.")
             return None
@@ -90,7 +93,8 @@ def main():
     if search_results:
         print("Select the exact match from the list below:")
         for idx, result in enumerate(search_results, start=1):
-            print(f"{idx}. {result.get('title') or result.get('name')} ({result.get('media_type')})")
+            year = result.get('release_date', result.get('first_air_date', 'Unknown'))[:4]
+            print(f"{idx}. {result.get('title') or result.get('name')} ({year}) ({result.get('media_type')})")
         selection = int(input("Enter the number of your selection: ").strip()) - 1
         if 0 <= selection < len(search_results):
             selected_result = search_results[selection]
