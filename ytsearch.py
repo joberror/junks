@@ -1,7 +1,10 @@
 from googleapiclient.discovery import build
+import os
 
 # Replace 'YOUR_API_KEY' with your actual YouTube API key
-API_KEY = 'AIzaSyC1Qh7iC8qDW5qRme8nAcpzDkQOhmI-3bg'
+API_KEY = os.environ.get('YOUTUBE_API_KEY').strip()
+if not API_KEY:
+  raise ValueError("No API key found. Please set the YOUTUBE_API_KEY environment variable.")
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 

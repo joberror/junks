@@ -1,10 +1,13 @@
 import requests
 import re
+import os
 import time
 from datetime import datetime, timedelta
 
 # Constants for TMDb API
-API_KEY = '75e3dda3b0e26622248eefdaa1015c82'
+API_KEY = os.getenv('TMDB_API_KEY')
+if not API_KEY:
+  raise ValueError("No API key found. Please set the TMDB_API_KEY environment variable.")
 API_URL = 'https://api.themoviedb.org/3'
 IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500'  # Base URL for images
 

@@ -1,9 +1,12 @@
 import requests
 import re
 import time
+import os
 
 # Constants for TMDb API
-API_KEY = '75e3dda3b0e26622248eefdaa1015c82'
+API_KEY = os.environ.get('TMDB_API_KEY').strip()  # Strip any trailing whitespace or newline characters
+if not API_KEY:
+  raise ValueError("No API KEY found. TMDB_API_KEY must be obtained and set in your shell environment")
 API_URL = 'https://api.themoviedb.org/3'
 IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500'  # Base URL for images
 
@@ -94,7 +97,8 @@ def main():
             if movies:
                 print("Select the movie from the list:")
                 for i, movie in enumerate(movies):
-                    print(f"{i + 1}. {movie['title']}")
+                    year = movie.get('release_date', 'Unknown')[:4]
+                    print(f"{i + 1}. {movie['title']} ({year}) (movie)")
                 selection = int(input("Enter the number of your choice: ").strip()) - 1
                 if 0 <= selection < len(movies):
                     selected_movie = movies[selection]
@@ -120,7 +124,8 @@ def main():
             if series_list:
                 print("Select the series from the list:")
                 for i, series in enumerate(series_list):
-                    print(f"{i + 1}. {series['name']}")
+                    year = series.get('first_air_date', 'Unknown')[:4]
+                    print(f"{i + 1}. {series['name']} ({year}) (tv)")
                 selection = int(input("Enter the number of your choice: ").strip()) - 1
                 if 0 <= selection < len(series_list):
                     selected_series = series_list[selection]

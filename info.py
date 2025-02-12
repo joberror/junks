@@ -1,7 +1,10 @@
 import requests
+import os
 
-# Replace 'your_api_key_here' with your TMDB API key
-API_KEY = '75e3dda3b0e26622248eefdaa1015c82'
+# check and set TMDB API key
+API_KEY = os.environ.get('TMDB_API_KEY').strip()  # Strip any trailing whitespace or newline characters
+if not API_KEY:
+    raise ValueError("No API KEY found. TMDB_API_KEY must be obtained and set in your shell environment")
 BASE_URL = 'https://api.themoviedb.org/3'
 
 def search_movie_or_series(query):
