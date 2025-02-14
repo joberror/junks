@@ -23,7 +23,8 @@ def search_youtube_trailers(query):
   for search_result in search_response.get('items', []):
     if search_result['id']['kind'] == 'youtube#video':
       videos.append((search_result['snippet']['title'],
-               f"https://www.youtube.com/watch?v={search_result['id']['videoId']}"))
+      f"https://www.youtube.com/watch?v={search_result['id']['videoId']}",
+      search_result['snippet']['thumbnails']['high']['url']))
 
   return videos
 
@@ -33,9 +34,10 @@ def main():
 
   if results:
     print("Top 3 official trailer results:")
-    for idx, (title, link) in enumerate(results, start=1):
-      print(f"{idx}. {title}")
-      print(f"   Link: {link}\n")
+    for idx, (title, link, thumbnail) in enumerate(results, start=1):
+        print(f"{idx}. {title}")
+        print(f"   Link: {link}")
+        print(f"   Thumbnail: {thumbnail}\n")
   else:
     print("No official trailers found.")
 
