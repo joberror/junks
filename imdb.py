@@ -1,14 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import re
-import time
-from urllib.parse import quote
 import html  # for unescaping HTML entities
+from urllib.parse import quote
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 
 def get_best_user_agent():
     """Returns a random user agent from a predefined list."""
@@ -17,9 +13,22 @@ def get_best_user_agent():
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     ]
-    return user_agents[0]  # You can add logic to randomly select one if needed.
+    return user_agents[0]
 
-def search_imdb():
+def create_session_with_retries():
+    """Creates a session with retry logic."""
+    session = requests.Session()
+    retries = Retry(
+        total=5,  # Total number of retries
+        backoff_factor=1,  # Exponential backoff (e.g., 1s, 2s, 4s, ...)
+        status_forcelist=[429, 500, 502, 503, 504]  # Retry on these status codes
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
+
+def search_imdb(session):
     """Searches IMDb for a movie/series and returns a list of top results (title, year, and URL)."""
     search_term = input("Enter movie/series name: ").strip()
     encoded_query = quote(search_term)
@@ -29,11 +38,12 @@ def search_imdb():
         'User-Agent': best_ua,
         'Accept-Language': 'en-US,en;q=0.9'
     }
+    session.headers.update(headers)
     
     search_url = f"https://www.imdb.com/find?q={encoded_query}&s=tt&ttype=ft,tv,vg"
     
     try:
-        response = requests.get(search_url, headers=headers, timeout=15)
+        response = session.get(search_url, timeout=30)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         print(f"🚨 Connection Error: {e}")
@@ -51,7 +61,7 @@ def search_imdb():
             movie_url = "https://www.imdb.com" + title_element['href'].split('?')[0]
             
             # Use the provided function to extract the year from the title page
-            year = extract_year_from_title_page(movie_url)
+            year = extract_year_from_title_page(session, movie_url)
             
             results.append({'title': title, 'year': year, 'url': movie_url})
         except Exception as e:
@@ -73,19 +83,13 @@ def search_imdb():
             return results[int(choice) - 1]['url']
         print("Invalid selection. Try again.")
 
-def extract_year_from_title_page(movie_url):
+def extract_year_from_title_page(session, movie_url):
     """
     Loads the IMDb title page and extracts the release year.
     It looks for a link or span that contains the release year.
     """
-    best_ua = get_best_user_agent()
-    headers = {
-        'User-Agent': best_ua,
-        'Accept-Language': 'en-US,en;q=0.9'
-    }
-    
     try:
-        response = requests.get(movie_url, headers=headers, timeout=15)
+        response = session.get(movie_url, timeout=30)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
@@ -107,83 +111,94 @@ def extract_year_from_title_page(movie_url):
     
     return "Unknown"
 
-def get_trailer_url(movie_url):
+def get_trailer_url(session, movie_url):
     """
     Loads the movie/series page and extracts the trailer page URL.
     Typically, this is an <a> tag with an href containing '/video/'.
     """
-    best_ua = get_best_user_agent()
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument(f"user-agent={best_ua}")
-    
-    driver = webdriver.Chrome(options=chrome_options)
-    trailer_url = None
-    
     try:
-        driver.get(movie_url)
-        # Wait for the trailer element to load
-        trailer_element = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "a[href*='/video/']"))
-        )
-        trailer_url = trailer_element.get_attribute("href")
-    except Exception as e:
-        print(f"Error locating trailer link: {e}")
-    finally:
-        driver.quit()
-    
-    return trailer_url
-
-def get_best_video_link(trailer_url):
-    """
-    Loads the trailer page and extracts a direct MP4 link.
-    Searches the page source for a URL ending in .mp4 (with query parameters)
-    and then unescapes HTML entities to get a proper URL.
-    """
-    best_ua = get_best_user_agent()
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument(f"user-agent={best_ua}")
-    
-    driver = webdriver.Chrome(options=chrome_options)
-    best_video = None
-    
-    try:
-        driver.get(trailer_url)
-        # Wait for the page to load completely
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
-        page_source = driver.page_source
+        response = session.get(movie_url, timeout=30)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Look for MP4 links (including query parameters)
-        mp4_links = re.findall(r'https?://[^"\s]+\.mp4(?:\?[^"\s]+)?', page_source)
-        if mp4_links:
-            best_video = html.unescape(mp4_links[0])
-    except Exception as e:
-        print(f"❌ Error fetching video link: {e}")
-    finally:
-        driver.quit()
+        # Find the trailer link
+        trailer_element = soup.find('a', href=re.compile(r'/video/'))
+        if trailer_element:
+            trailer_url = "https://www.imdb.com" + trailer_element['href']
+            return trailer_url
+    except requests.exceptions.RequestException as e:
+        print(f"Error locating trailer link: {e}")
     
-    return best_video
+    return None
+
+def get_best_video_link(session, trailer_url):
+    """
+    Uses requests to load the trailer page and extract a signed MP4 link.
+    Searches the page source for a URL ending in .mp4 (with query parameters like Expires, Signature, Key-Pair-Id).
+    Includes necessary headers to avoid 403 Forbidden errors.
+    """
+    best_ua = get_best_user_agent()
+    headers = {
+        'User-Agent': best_ua,
+        'Referer': trailer_url,  # Set the Referer header to the trailer page URL
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive'
+    }
+    session.headers.update(headers)
+    
+    try:
+        # Fetch the trailer page
+        response = session.get(trailer_url, timeout=30)
+        response.raise_for_status()
+        page_source = response.text
+        
+        # Look for signed MP4 links (including query parameters like Expires, Signature, Key-Pair-Id)
+        mp4_links = re.findall(r'https?://[^"\s]+\.mp4(?:\?Expires=\d+&Signature=[^&]+&Key-Pair-Id=[^"\s]+)', page_source)
+        if mp4_links:
+            best_video = html.unescape(mp4_links[0])  # Decode HTML entities
+            return best_video
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Error fetching video link: {e}")
+    
+    return None
 
 if __name__ == "__main__":
-    movie_url = search_imdb()
+    # Create a session with retry logic
+    session = create_session_with_retries()
+    
+    # Search IMDb for a movie/series
+    movie_url = search_imdb(session)
     if movie_url:
         print("\nSelected Movie/Series URL:")
         print(movie_url)
-        trailer_url = get_trailer_url(movie_url)
+        
+        # Get the trailer URL
+        trailer_url = get_trailer_url(session, movie_url)
         if trailer_url:
             print("\nTrailer Page URL:")
             print(trailer_url)
-            video_link = get_best_video_link(trailer_url)
+            
+            # Use requests to extract the MP4 video link
+            video_link = get_best_video_link(session, trailer_url)
             if video_link:
                 print("\n🎥 Direct MP4 Video Link (Best Quality):")
                 print(video_link)
+                
+                # Test the MP4 link with headers to ensure it works
+                headers = {
+                    'User-Agent': get_best_user_agent(),
+                    'Referer': trailer_url,  # Include the Referer header
+                    'Accept-Language': 'en-US,en;q=0.9'
+                }
+                try:
+                    test_response = requests.head(video_link, headers=headers, timeout=30)
+                    if test_response.status_code == 200:
+                        print("\n✅ MP4 link is accessible!")
+                    else:
+                        print(f"\n❌ MP4 link returned status code: {test_response.status_code}")
+                except requests.exceptions.RequestException as e:
+                    print(f"\n❌ Error testing MP4 link: {e}")
             else:
                 print("❌ No direct MP4 link found on the trailer page.")
         else:
