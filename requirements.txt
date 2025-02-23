@@ -1,0 +1,16 @@
+# API and HTTP
+requests>=2.31.0
+google-api-python-client>=2.108.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Web scraping (for IMDb)
+beautifulsoup4>=4.12.2
+
+# Type hints
+typing>=3.7.4.3
+
+# Optional but recommended
+urllib3>=2.1.0
+certifi>=2023.11.17
