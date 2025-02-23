@@ -1,10 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import html  # for unescaping HTML entities
 from urllib.parse import quote
-from requests.adapters import HTTPAdapter
-from requests.packages.urllib3.util.retry import Retry
 
 def get_best_user_agent():
     """Returns a random user agent from a predefined list."""
@@ -15,21 +12,8 @@ def get_best_user_agent():
     ]
     return user_agents[0]
 
-def create_session_with_retries():
-    """Creates a session with retry logic."""
-    session = requests.Session()
-    retries = Retry(
-        total=5,  # Total number of retries
-        backoff_factor=1,  # Exponential backoff (e.g., 1s, 2s, 4s, ...)
-        status_forcelist=[429, 500, 502, 503, 504]  # Retry on these status codes
-    )
-    adapter = HTTPAdapter(max_retries=retries)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
-    return session
-
-def search_imdb(session):
-    """Searches IMDb for a movie/series and returns a list of top results (title, year, and URL)."""
+def search_imdb():
+    """Searches IMDb for a movie/series and returns a list of top results (title, year, type, and URL)."""
     search_term = input("Enter movie/series name: ").strip()
     encoded_query = quote(search_term)
     best_ua = get_best_user_agent()
@@ -38,12 +22,11 @@ def search_imdb(session):
         'User-Agent': best_ua,
         'Accept-Language': 'en-US,en;q=0.9'
     }
-    session.headers.update(headers)
     
     search_url = f"https://www.imdb.com/find?q={encoded_query}&s=tt&ttype=ft,tv,vg"
     
     try:
-        response = session.get(search_url, timeout=30)
+        response = requests.get(search_url, headers=headers, timeout=15)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         print(f"🚨 Connection Error: {e}")
@@ -60,10 +43,16 @@ def search_imdb(session):
             
             movie_url = "https://www.imdb.com" + title_element['href'].split('?')[0]
             
-            # Use the provided function to extract the year from the title page
-            year = extract_year_from_title_page(session, movie_url)
+            # Determine if it's a movie or TV series
+            media_type = "Movie"
+            if "TV Series" in item.get_text():
+                media_type = "TV Series"
             
-            results.append({'title': title, 'year': year, 'url': movie_url})
+            # Extract the year
+            year_elem = item.find('span', class_='ipc-metadata-list-summary-item__li')
+            year = year_elem.text.strip() if year_elem else "Unknown"
+            
+            results.append({'title': title, 'year': year, 'type': media_type, 'url': movie_url})
         except Exception as e:
             print(f"Error processing result: {e}")
             continue
@@ -74,7 +63,7 @@ def search_imdb(session):
     
     print("\nTop Results:")
     for idx, result in enumerate(results, 1):
-        print(f"{idx}. {result['title']} ({result['year']}) - {result['url']}")
+        print(f"{idx}. {result['title']} ({result['year']}) - {result['type']} - {result['url']}")
     
     # Prompt user to choose one manually
     while True:
@@ -83,123 +72,78 @@ def search_imdb(session):
             return results[int(choice) - 1]['url']
         print("Invalid selection. Try again.")
 
-def extract_year_from_title_page(session, movie_url):
+def extract_m3u_playlist(trailer_url):
     """
-    Loads the IMDb title page and extracts the release year.
-    It looks for a link or span that contains the release year.
-    """
-    try:
-        response = session.get(movie_url, timeout=30)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Look for the release year in the title block
-        year_elem = soup.find('a', href=re.compile(r'releaseinfo'))
-        if year_elem:
-            match = re.search(r'\d{4}', year_elem.get_text())
-            if match:
-                return match.group()
-        
-        # Fallback: try to find any text in a span that looks like a year.
-        span_year = soup.find('span', text=re.compile(r'\d{4}'))
-        if span_year:
-            match = re.search(r'\d{4}', span_year.get_text())
-            if match:
-                return match.group()
-    except requests.exceptions.RequestException as e:
-        print(f"Error extracting year from {movie_url}: {e}")
-    
-    return "Unknown"
-
-def get_trailer_url(session, movie_url):
-    """
-    Loads the movie/series page and extracts the trailer page URL.
-    Typically, this is an <a> tag with an href containing '/video/'.
-    """
-    try:
-        response = session.get(movie_url, timeout=30)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Find the trailer link
-        trailer_element = soup.find('a', href=re.compile(r'/video/'))
-        if trailer_element:
-            trailer_url = "https://www.imdb.com" + trailer_element['href']
-            return trailer_url
-    except requests.exceptions.RequestException as e:
-        print(f"Error locating trailer link: {e}")
-    
-    return None
-
-def get_best_video_link(session, trailer_url):
-    """
-    Uses requests to load the trailer page and extract a signed MP4 link.
-    Searches the page source for a URL ending in .mp4 (with query parameters like Expires, Signature, Key-Pair-Id).
-    Includes necessary headers to avoid 403 Forbidden errors.
+    Loads the IMDb trailer page and extracts the M3U playlist link with the best quality.
     """
     best_ua = get_best_user_agent()
     headers = {
         'User-Agent': best_ua,
-        'Referer': trailer_url,  # Set the Referer header to the trailer page URL
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Connection': 'keep-alive'
+        'Referer': trailer_url,
+        'Accept-Language': 'en-US,en;q=0.9'
     }
-    session.headers.update(headers)
     
     try:
-        # Fetch the trailer page
-        response = session.get(trailer_url, timeout=30)
+        response = requests.get(trailer_url, headers=headers, timeout=15)
         response.raise_for_status()
-        page_source = response.text
+        soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Look for signed MP4 links (including query parameters like Expires, Signature, Key-Pair-Id)
-        mp4_links = re.findall(r'https?://[^"\s]+\.mp4(?:\?Expires=\d+&Signature=[^&]+&Key-Pair-Id=[^"\s]+)', page_source)
-        if mp4_links:
-            best_video = html.unescape(mp4_links[0])  # Decode HTML entities
-            return best_video
+        # Look for M3U playlist links
+        m3u_links = re.findall(r'https?://[^"\s]+\.m3u8(?:\?[^"\s]+)?', response.text)
+        if m3u_links:
+            # Sort by quality (higher resolution first)
+            m3u_links.sort(key=lambda x: int(re.search(r'(\d+)p', x).group(1)) if re.search(r'(\d+)p', x) else 0, reverse=True)
+            best_m3u = m3u_links[0]
+            return best_m3u
     except requests.exceptions.RequestException as e:
-        print(f"❌ Error fetching video link: {e}")
+        print(f"❌ Error fetching M3U playlist: {e}")
     
     return None
 
+def exit_prompt():
+    """Prompts the user to exit the script."""
+    while True:
+        choice = input("\nDo you want to exit? (yes/no): ").strip().lower()
+        if choice == "yes":
+            print("Exiting the script. Goodbye!")
+            return True
+        elif choice == "no":
+            print("Continuing...")
+            return False
+        else:
+            print("Invalid input. Please enter 'yes' or 'no'.")
+
 if __name__ == "__main__":
-    # Create a session with retry logic
-    session = create_session_with_retries()
-    
-    # Search IMDb for a movie/series
-    movie_url = search_imdb(session)
-    if movie_url:
+    while True:
+        # Step 1: Search IMDb for a movie/series
+        movie_url = search_imdb()
+        if not movie_url:
+            print("Failed to retrieve movie/series URL. Exiting...")
+            break
+        
         print("\nSelected Movie/Series URL:")
         print(movie_url)
         
-        # Get the trailer URL
-        trailer_url = get_trailer_url(session, movie_url)
-        if trailer_url:
-            print("\nTrailer Page URL:")
-            print(trailer_url)
-            
-            # Use requests to extract the MP4 video link
-            video_link = get_best_video_link(session, trailer_url)
-            if video_link:
-                print("\n🎥 Direct MP4 Video Link (Best Quality):")
-                print(video_link)
-                
-                # Test the MP4 link with headers to ensure it works
-                headers = {
-                    'User-Agent': get_best_user_agent(),
-                    'Referer': trailer_url,  # Include the Referer header
-                    'Accept-Language': 'en-US,en;q=0.9'
-                }
-                try:
-                    test_response = requests.head(video_link, headers=headers, timeout=30)
-                    if test_response.status_code == 200:
-                        print("\n✅ MP4 link is accessible!")
-                    else:
-                        print(f"\n❌ MP4 link returned status code: {test_response.status_code}")
-                except requests.exceptions.RequestException as e:
-                    print(f"\n❌ Error testing MP4 link: {e}")
-            else:
-                print("❌ No direct MP4 link found on the trailer page.")
+        # Step 2: Extract M3U playlist
+        trailer_url = input("\nEnter the IMDb trailer page URL: ").strip()
+        m3u_playlist = extract_m3u_playlist(trailer_url)
+        if m3u_playlist:
+            print("\n🎥 Best Quality M3U Playlist Link:")
+            print(m3u_playlist)
         else:
-            print("❌ Unable to extract trailer URL from the movie page.")
+            print("❌ No M3U playlist found on the trailer page.")
+        
+        # Step 3: Exit prompt
+        if exit_prompt():
+            break
+
+
+
+
+
+
+
+
+
+
+

@@ -1,17 +1,15 @@
 import requests
-import os
+from config import APIConfig
 
-# check and set TMDB API key
-API_KEY = os.environ.get('TMDB_API_KEY').strip()  # Strip any trailing whitespace or newline characters
-if not API_KEY:
-    raise ValueError("No API KEY found. TMDB_API_KEY must be obtained and set in your shell environment")
+# Initialize config
+config = APIConfig()
 BASE_URL = 'https://api.themoviedb.org/3'
 
 def search_movie_or_series(query):
     """Search for a movie or series by name."""
     url = f"{BASE_URL}/search/multi"
     params = {
-        'api_key': API_KEY,
+        'api_key': config.tmdb_key,
         'query': query,
         'language': 'en-US',
     }
@@ -34,7 +32,7 @@ def get_detailed_info(media_type, media_id):
     """Get detailed information about a movie or series."""
     url = f"{BASE_URL}/{media_type}/{media_id}"
     params = {
-        'api_key': API_KEY,
+        'api_key': config.tmdb_key,
         'language': 'en-US',
     }
     response = requests.get(url, params=params)
@@ -48,7 +46,7 @@ def get_streaming_platforms(media_type, media_id):
     """Get streaming platforms for a movie or series."""
     url = f"{BASE_URL}/{media_type}/{media_id}/watch/providers"
     params = {
-        'api_key': API_KEY
+        'api_key': config.tmdb_key
     }
     response = requests.get(url, params=params)
     if response.status_code == 200:
