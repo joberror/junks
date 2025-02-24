@@ -1,5 +1,41 @@
 import os
 import sys
+import re
+
+def extract_group_title(line):
+    """Extract group-title from EXTINF line."""
+    match = re.search(r'group-title="([^"]+)"', line)
+    return match.group(1) if match else ""
+
+def sort_playlist_entries(content):
+    """Sort playlist entries by group-title."""
+    if not content:
+        return []
+    
+    # Initialize variables
+    entries = []
+    current_entry = []
+    
+    # Group lines into entries (EXTINF line + URL line)
+    for line in content:
+        current_entry.append(line)
+        if len(current_entry) == 2:  # We have a complete entry
+            entries.append(current_entry)
+            current_entry = []
+    
+    # If there's a leftover line, add it
+    if current_entry:
+        entries.append(current_entry)
+    
+    # Sort entries based on group-title
+    entries.sort(key=lambda x: extract_group_title(x[0]))
+    
+    # Flatten the entries back into lines
+    sorted_content = []
+    for entry in entries:
+        sorted_content.extend(entry)
+    
+    return sorted_content
 
 directory = "m3u"  # Directory containing .m3u files
 output_file = "all.m3u"  # Output file name
@@ -23,55 +59,43 @@ print(f"\nFound {len(m3u_files)} .m3u files:")
 for file in m3u_files:
     print(f"- {file}")
 
-# Clear the output file first
-print(f"\nClearing output file: {output_file}")
+# Collect all content first
+all_content = []
+print("\nReading all files...")
+for idx, filename in enumerate(m3u_files, 1):
+    file_path = os.path.join(directory, filename)
+    print(f"\nProcessing file {idx}/{len(m3u_files)}: {filename}")
+    
+    try:
+        with open(file_path, "r", encoding='utf-8') as infile:
+            # Read all lines and filter out empty ones and #EXTM3U
+            content = [line.strip() + '\n' for line in infile.readlines() 
+                      if line.strip() and line.strip() != "#EXTM3U"]
+            print(f"Read {len(content)} non-empty lines from {filename}")
+            
+            if content:
+                all_content.extend(content)
+            else:
+                print(f"Warning: {filename} is empty or contains only empty lines")
+                
+    except Exception as e:
+        print(f"Error processing {filename}: {str(e)}")
+        continue
+
+# Sort all content
+print("\nSorting playlist entries...")
+sorted_content = sort_playlist_entries(all_content)
+
+# Write sorted content to output file
+print(f"\nWriting sorted content to {output_file}")
 try:
     with open(output_file, "w", encoding='utf-8') as outfile:
-        outfile.write("#EXTM3U\n")  # Write only the header
-        print("Successfully wrote header to output file")
-except Exception as e:
-    print(f"Error clearing output file: {str(e)}")
-    sys.exit(1)
-
-# Read all .m3u files and combine their contents
-print("\nStarting to combine files...")
-try:
-    with open(output_file, "a", encoding='utf-8') as outfile:
-        for idx, filename in enumerate(m3u_files, 1):
-            file_path = os.path.join(directory, filename)
-            print(f"\nProcessing file {idx}/{len(m3u_files)}: {filename}")
-            
-            try:
-                with open(file_path, "r", encoding='utf-8') as infile:
-                    content = infile.readlines()
-                    print(f"Read {len(content)} lines from {filename}")
-                    
-                    if not content:
-                        print(f"Warning: {filename} is empty")
-                        continue
-                    
-                    # Skip the first line if it's #EXTM3U
-                    start_idx = 1 if content[0].strip() == "#EXTM3U" else 0
-                    print(f"Starting from line {start_idx+1}")
-                    
-                    # Write the content
-                    lines_written = 0
-                    for line in content[start_idx:]:
-                        outfile.write(line)
-                        lines_written += 1
-                    
-                    # Add two newlines between files (except for the last file)
-                    if idx < len(m3u_files):
-                        outfile.write("\n\n")
-                        lines_written += 2
-                    
-                    print(f"Wrote {lines_written} lines to output file")
-                    
-            except Exception as e:
-                print(f"Error processing {filename}: {str(e)}")
-                continue
-
-    print(f"\nFinished processing all files")
+        # Write header
+        outfile.write("#EXTM3U\n")
+        
+        # Write sorted content
+        for line in sorted_content:
+            outfile.write(line)
     
     # Verify the output file
     output_size = os.path.getsize(output_file)
@@ -83,7 +107,7 @@ try:
         # Read and print the first few lines of the output file to verify content
         print("\nVerifying output file content:")
         with open(output_file, "r", encoding='utf-8') as f:
-            first_few_lines = [next(f) for _ in range(5)]
+            first_few_lines = [next(f) for _ in range(min(10, len(sorted_content) + 1))]
             print("First few lines of output file:")
             for line in first_few_lines:
                 print(f"> {line.strip()}")
