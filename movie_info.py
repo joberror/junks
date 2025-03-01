@@ -1,7 +1,7 @@
-import requests
-import re
 import time
 import os
+import re
+from api_utils import TMDBClient
 
 # Constants for TMDb API
 API_KEY = os.environ.get('TMDB_API_KEY').strip()  # Strip any trailing whitespace or newline characters
@@ -10,22 +10,15 @@ if not API_KEY:
 API_URL = 'https://api.themoviedb.org/3'
 IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500'  # Base URL for images
 
-# Create a session to reuse connections
-session = requests.Session()
+# Initialize client
+tmdb_client = TMDBClient(API_KEY)
 
 def get_movie_details(movie_name):
     """Fetches movie cover URL and title for a given movie name."""
-    try:
-        response = session.get(f"{API_URL}/search/movie", params={"api_key": API_KEY, "query": movie_name}, timeout=5)
-        response.raise_for_status()
-        movies = response.json().get('results', [])
-        if not movies:
-            print("Movie not found.")
-            return None
-        return movies
-    except requests.RequestException as e:
-        print(f"Failed to retrieve movie details: {e}")
-        return None
+    results = tmdb_client.request('/search/movie', {"query": movie_name})
+    if results and 'results' in results:
+        return results['results']
+    return None
 
 def parse_input_for_episode_range(user_input):
     """Parses user input to extract series name, season, and episode range."""
@@ -41,33 +34,22 @@ def parse_input_for_episode_range(user_input):
 
 def search_series(series_name):
     """Fetches the series ID for a given series name."""
-    try:
-        response = session.get(f"{API_URL}/search/tv", params={"api_key": API_KEY, "query": series_name}, timeout=5)
-        response.raise_for_status()
-        results = response.json().get('results', [])
-        if not results:
-            print("Series not found.")
-            return None
-        return results
-    except requests.RequestException as e:
-        print(f"Failed to retrieve series: {e}")
-        return None
+    results = tmdb_client.request('/search/tv', {"query": series_name})
+    if results and 'results' in results:
+        return results['results']
+    return None
 
-def get_episode_details(series_id, season_number, episode_number, retries=3):
+def get_episode_details(series_id, season_number, episode_number):
     """Fetches title and cover URL for a specific episode."""
-    for attempt in range(retries):
-        try:
-            response = session.get(f"{API_URL}/tv/{series_id}/season/{season_number}/episode/{episode_number}", params={"api_key": API_KEY}, timeout=5)
-            response.raise_for_status()
-            episode_data = response.json()
-            title = episode_data.get('name')
-            poster_path = episode_data.get('still_path')
-            cover_url = f"{IMAGE_BASE_URL}{poster_path}" if poster_path else ""
-            return title, cover_url
-        except requests.RequestException as e:
-            print(f"Attempt {attempt + 1} failed to retrieve episode details: {e}")
-            time.sleep(0.5)
-    print(f"Failed to retrieve details for episode {episode_number} after {retries} attempts.")
+    episode_data = tmdb_client.request(
+        f'/tv/{series_id}/season/{season_number}/episode/{episode_number}'
+    )
+    
+    if episode_data:
+        title = episode_data.get('name')
+        poster_path = episode_data.get('still_path')
+        cover_url = f"{IMAGE_BASE_URL}{poster_path}" if poster_path else ""
+        return title, cover_url
     return None, None
 
 def generate_movie_output(title, cover_url):

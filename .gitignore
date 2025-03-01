@@ -1,3 +1,6 @@
 /.history
 .aider*
 .env
+.cache
+__pycache__
+

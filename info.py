@@ -1,63 +1,34 @@
-import requests
+from api_utils import TMDBClient
 from config import APIConfig
 
-# Initialize config
+# Initialize config and client
 config = APIConfig()
-BASE_URL = 'https://api.themoviedb.org/3'
+tmdb_client = TMDBClient(config.tmdb_key)
 
 def search_movie_or_series(query):
     """Search for a movie or series by name."""
-    url = f"{BASE_URL}/search/multi"
-    params = {
-        'api_key': config.tmdb_key,
-        'query': query,
-        'language': 'en-US',
-    }
-    response = requests.get(url, params=params)
-    if response.status_code == 200:
-        results = response.json().get('results', [])
-        if results:
-            for result in results:
-                year = result.get('release_date', result.get('first_air_date', 'Unknown'))[:4]
-                result['year'] = year
-            return results  # Return all results with year included
-        else:
-            print("No results found.")
-            return None
-    else:
-        print("Failed to fetch data:", response.status_code)
-        return None
+    results = tmdb_client.search_multi(query)
+    
+    if results and 'results' in results:
+        for result in results['results']:
+            year = result.get('release_date', result.get('first_air_date', 'Unknown'))[:4]
+            result['year'] = year
+        return results['results']
+    return None
 
 def get_detailed_info(media_type, media_id):
     """Get detailed information about a movie or series."""
-    url = f"{BASE_URL}/{media_type}/{media_id}"
-    params = {
-        'api_key': config.tmdb_key,
-        'language': 'en-US',
-    }
-    response = requests.get(url, params=params)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print("Failed to fetch details:", response.status_code)
-        return None
+    return tmdb_client.get_details(media_type, media_id)
 
 def get_streaming_platforms(media_type, media_id):
     """Get streaming platforms for a movie or series."""
-    url = f"{BASE_URL}/{media_type}/{media_id}/watch/providers"
-    params = {
-        'api_key': config.tmdb_key
-    }
-    response = requests.get(url, params=params)
-    if response.status_code == 200:
-        providers = response.json().get('results', {}).get('US', {}).get('flatrate', [])
-        if providers:
-            return ', '.join([provider['provider_name'] for provider in providers])
-        else:
-            return "Not available"
-    else:
-        print("Failed to fetch streaming platforms:", response.status_code)
-        return "Unknown"
+    providers = tmdb_client.get_watch_providers(media_type, media_id)
+    
+    if providers and 'results' in providers:
+        us_providers = providers['results'].get('US', {}).get('flatrate', [])
+        if us_providers:
+            return ', '.join([provider['provider_name'] for provider in us_providers])
+    return "Not available"
 
 def format_and_display_info(data, media_type):
     """Display formatted output with title, rating, year, genres, NFO, and streaming platforms."""
