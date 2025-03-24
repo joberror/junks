@@ -267,8 +267,8 @@ https://stream.movie2mingle.workers.dev/dl/67a56a8a2fbe4270319bd74d
 https://stream.movie2mingle.workers.dev/dl/67a56a8a2fbe4270319bd74c
 #EXTINF:-1 group-title="Kraven the Hunter" tvg-logo="https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg", Kraven the Hunter - 1080P
 https://stream.movie2mingle.workers.dev/dl/6786ecc916c5ad76f0304cd4
-#EXTINF:-1 group-title="Kraven the Hunter" tvg-logo="https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg", Kraven the Hunter - 720P
-https://stream.movie2mingle.workers.dev/dl/6786ecc916c5ad76f0304cd5
+#EXTINF:-1 group-title="Kraven the Hunter" tvg-logo="https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg", Kraven the Hunter - ALT
+https://cdn1-xtreme.mysterysd.in/dl/67e026dd24ed41fbf0fdbc50
 #EXTINF:-1 group-title="Last Breath" tvg-logo="https://image.tmdb.org/t/p/w500/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg", Last Breath
 https://cdn1-xtreme.mysterysd.in/dl/67d9a25524ed41fbf0fdbb1b
 #EXTINF:-1 group-title="Last Breath" tvg-logo="https://image.tmdb.org/t/p/w500/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg", Last Breath - ALT
@@ -311,8 +311,8 @@ https://stream.movie2mingle.workers.dev/dl/67bda77ee3dfe61967bb468b
 https://stream.movie2mingle.workers.dev/dl/67bda77ee3dfe61967bb468a
 #EXTINF:-1 group-title="Love Me" tvg-logo="https://image.tmdb.org/t/p/w500/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg", Love Me
 https://stream.movie2mingle.workers.dev/dl/67b4b395e8bc70e55c3e165c
-#EXTINF:-1 group-title="Love Me" tvg-logo="https://image.tmdb.org/t/p/w500/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg", Love Me - 720P
-https://stream.movie2mingle.workers.dev/dl/67b4b395e8bc70e55c3e165f
+#EXTINF:-1 group-title="Love Me" tvg-logo="https://image.tmdb.org/t/p/w500/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg", Love Me - ALT
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191439/Love.Hurts.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?hash=AgADpy
 #EXTINF:-1 group-title="Megalopolis" tvg-logo="https://image.tmdb.org/t/p/w500/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg", Megalopolis - 1080P
 https://stream.movie2mingle.workers.dev/dl/6784378e929660d8bd59c4f3
 #EXTINF:-1 group-title="Megalopolis" tvg-logo="https://image.tmdb.org/t/p/w500/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg", Megalopolis - 720P
@@ -355,12 +355,16 @@ https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/188636/Nine.Bodies.in.a.M
 https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/188634/Nine.Bodies.in.a.Mexican.Morgue.S01E02.1080p.10bit.WEBRi.mkv?hash=AgAD_m
 #EXTINF:-1 group-title="Nine Bodies in a Mexican Morgue" tvg-logo="", Nine Bodies in a Mexican Morgue | S1.E3 - Rapido
 https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/188638/Nine.Bodies.in.a.Mexican.Morgue.S01E03.1080p.10bit.WEBRi.mkv?hash=AgADeh
+#EXTINF:-1 group-title="Nine Bodies in a Mexican Morgue" tvg-logo="https://image.tmdb.org/t/p/w500/kNDCPH7RVvQQcztaGTrkQJPR3Dz.jpg", Nine Bodies in a Mexican Morgue | S1.E4 - The Short Straw
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191437/Nine.Bodies.in.a.Mexican.Morgue.S01E04.1080p.10bit.WEBRi.mkv?hash=AgADvh
 #EXTINF:-1 group-title="Nine Bodies in a Mexican Morgue" tvg-logo="https://image.tmdb.org/t/p/w500/cBTiz8lOhzAE7TtwRiTCeKyWNtK.jpg", Nine Bodies in a Mexican Morgue | S1.E1 - Dead Reckoning - ALT
 https://stream.movie2mingle.workers.dev/dl/67cedf23d2fa0931b82ba5d0
 #EXTINF:-1 group-title="Nine Bodies in a Mexican Morgue" tvg-logo="https://image.tmdb.org/t/p/w500/cCq9eeTCA0bAiOP37ZlJVYEa0Y7.jpg", Nine Bodies in a Mexican Morgue | S1.E2 - Black Angels - ALT
 https://stream.movie2mingle.workers.dev/dl/67cedf23d2fa0931b82ba5cf
 #EXTINF:-1 group-title="Nine Bodies in a Mexican Morgue" tvg-logo="", Nine Bodies in a Mexican Morgue | S1.E3 - Rapido - ALT
 https://stream.movie2mingle.workers.dev/dl/67d6d9995af64c5113a415cd
+#EXTINF:-1 group-title="Nine Bodies in a Mexican Morgue" tvg-logo="https://image.tmdb.org/t/p/w500/kNDCPH7RVvQQcztaGTrkQJPR3Dz.jpg", Nine Bodies in a Mexican Morgue | S1.E4 - The Short Straw - ALT
+https://stream.movie2mingle.workers.dev/dl/67e0255c4ac932ceba204f20
 #EXTINF:-1 group-title="Nosferatu" tvg-logo="https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg", Nosferatu - 1080P
 https://stream.movie2mingle.workers.dev/dl/6793e5839cd5105885408587
 #EXTINF:-1 group-title="Nosferatu" tvg-logo="https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg", Nosferatu - 720P
@@ -371,8 +375,8 @@ https://www.tgxdl1.workers.dev/1:/dl/6762?hash=AgADZR
 https://www.tgxdl1.workers.dev/1:/dl/6761?hash=AgADYx
 #EXTINF:-1 group-title="Paddington in Peru" tvg-logo="https://image.tmdb.org/t/p/w500/eaV4dZlLz9eOwWJf3q52onTIXTJ.jpg", Paddington in Peru
 https://stream.movie2mingle.workers.dev/dl/67afffd2782a8397c040b275
-#EXTINF:-1 group-title="Paddington in Peru" tvg-logo="https://image.tmdb.org/t/p/w500/eaV4dZlLz9eOwWJf3q52onTIXTJ.jpg", Paddington in Peru - 720P
-https://stream.movie2mingle.workers.dev/dl/67afffd2782a8397c040b274
+#EXTINF:-1 group-title="Paddington in Peru" tvg-logo="https://image.tmdb.org/t/p/w500/eaV4dZlLz9eOwWJf3q52onTIXTJ.jpg", Paddington in Peru - ALT
+https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/545942/Paddington.in.Peru.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?hash=AgADXx
 #EXTINF:-1 group-title="Paradise" tvg-logo="https://image.tmdb.org/t/p/w500/pVaudNcEx8scIBqwaoI3DA8PbXQ.jpg", Paradise | S1.E1 - Wildcat Is Down
 https://stream.movie2mingle.workers.dev/dl/67a2bc400e807b635f3ed8ba
 #EXTINF:-1 group-title="Paradise" tvg-logo="https://image.tmdb.org/t/p/w500/14dG1ljOYWiOtw8XMbfNyKOvPGy.jpg", Paradise | S1.E2 - Sinatra
@@ -418,9 +422,9 @@ https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/533440/Power.Book.III.Rai
 #EXTINF:-1 group-title="Power Book III: Raising Kanan" tvg-logo="https://image.tmdb.org/t/p/w500/vIC38ubasIcFpwymZt3rkdDAHLh.jpg", Power Book III: Raising Kanan | S4.E3 - Bygones - ALT
 https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/543077/Power.Book.III.Raising.Kanan.S04E03.1080p.10bit.WEBRip.6.mkv?hash=AgADMi
 #EXTINF:-1 group-title="Presence" tvg-logo="https://image.tmdb.org/t/p/w500/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg", Presence
-https://www.tgxdl4.workers.dev/1:/dl/12710?hash=AgADCi
-#EXTINF:-1 group-title="Presence" tvg-logo="https://image.tmdb.org/t/p/w500/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg", Presence - 720P
-https://www.tgxdl1.workers.dev/1:/dl/12708?hash=AgAD0i
+htthttps://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/545940/Presence.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?hash=AgADCi
+#EXTINF:-1 group-title="Presence" tvg-logo="https://image.tmdb.org/t/p/w500/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg", Presence - ALT
+https://cdn4-xtreme.mysterysd.in/dl/67e0263824ed41fbf0fdbc4f
 #EXTINF:-1 group-title="Prime Target" tvg-logo="https://image.tmdb.org/t/p/w500/dk58HNXh5Rqv7HvTtzmF2KNf21u.jpg", Prime Target | S1.E1 - A New Pattern - ALT
 https://stream.movie2mingle.workers.dev/dl/67a3398136d63208c40e8f85
 #EXTINF:-1 group-title="Prime Target" tvg-logo="https://image.tmdb.org/t/p/w500/ntnlJkliNebXbZYgP8r29PXyj03.jpg", Prime Target | S1.E2 - Syracuse - ALT
@@ -534,49 +538,49 @@ https://stream.movie2mingle.workers.dev/dl/67a2c5d60e807b635f3ed8ec
 #EXTINF:-1 group-title="Tehran" tvg-logo="https://image.tmdb.org/t/p/w500/q8SsOLhrB6SkBKWuvZMWS2XhDi6.jpg", Tehran | S3.E8 - On the Brink of The Abyss
 https://stream.movie2mingle.workers.dev/dl/67a2c5d60e807b635f3ed8ed
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/dtP8VGcSwlZp9x86cB3Y8iVmjJM.jpg", The Agency | S1.E1 - The Bends -- 1080P
-https://www.tgxdl3.workers.dev/1:/dl/255?hash=AgADYh
+https://stream.movie2mingle.workers.dev/dl/675e5ea2af4686bc98f3b318
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/qhPqaFdHuZ6DLoQbrxAt1QQphdH.jpg", The Agency | S1.E2 - Wooden Duck -- 1080P
-https://www.tgxdl3.workers.dev/1:/dl/256?hash=AgADZR
+https://stream.movie2mingle.workers.dev/dl/675e5ea2af4686bc98f3b31b
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/uv3kWNuqaFG0rMoWBr4NVVTNtKX.jpg", The Agency | S1.E3 - Hawk from a Handsaw -- 1080P
-https://www.tgxdl1.workers.dev/1:/dl/561?hash=AgADzR
+https://stream.movie2mingle.workers.dev/dl/675e5ea2af4686bc98f3b31a
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/jDxWWQ4RadH3IHKJ9M20OtWnQe5.jpg", The Agency | S1.E4 - Quarterback Blitz -- 1080P
-https://www.tgxdl5.workers.dev/1:/dl/1412?hash=AgADuA
+https://stream.movie2mingle.workers.dev/dl/675e5ea9af4686bc98f3b31c
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/y3nFQeSkeLrJvxzTmRokJ7Ou7ox.jpg", The Agency | S1.E5 - Rat Trap - 1080P
-https://www.tgxdl4.workers.dev/1:/dl/1524?hash=AgAD3R
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191555/The.Agency.2024.S01E05.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgAD3R
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/9GsBoCOnUYVLqsEEWF5QnKLGfgv.jpg", The Agency | S1.E6 - Spy for Sale - 1080P
-https://dhruvmirrorpremium0-7e7c9edcf614.herokuapp.com/401655/The.Agency.2024.S01E06.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgAD3W
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191563/The.Agency.2024.S01E06.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgAD3W
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/AllZI7yc3B9pUxL1jM8yLrXuK9H.jpg", The Agency | S1.E7 - Hard Landing - 1080P
-https://www.tgxdl1.workers.dev/1:/dl/2848?hash=AgADiQ
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191559/The.Agency.2024.S01E07.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgADiQ
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/6MYGWNp9fOAPkrVVutx1DazpOAJ.jpg", The Agency | S1.E8 - Truth Will Set You Free - 1080P
-https://www.tgxdl4.workers.dev/1:/dl/3763?hash=AgADOA
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191557/The.Agency.2024.S01E08.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgADOA
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/8H6iA76n8P5o5d46QHL6FpQIh9H.jpg", The Agency | S1.E9 - The Rubicon - 1080P
 https://stream.movie2mingle.workers.dev/dl/678b6e5c0d82fa92875bd6e6
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/6vHF8JZMZBbi7QBzN10tRPhxINR.jpg", The Agency | S1.E10 - Overtaken by Events
-https://www.tgxdl2.workers.dev/1:/dl/6760?hash=AgADQB
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/dtP8VGcSwlZp9x86cB3Y8iVmjJM.jpg", The Agency | S1.E1 - The Bends -- 720P
-https://wrong-tarsier-elitecraftstudio-a7f7e1b0.koyeb.app/dl/675e5ea2af4686bc98f3b316
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/qhPqaFdHuZ6DLoQbrxAt1QQphdH.jpg", The Agency | S1.E2 - Wooden Duck -- 720P
-https://wrong-tarsier-elitecraftstudio-a7f7e1b0.koyeb.app/dl/675e5ea2af4686bc98f3b317
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/uv3kWNuqaFG0rMoWBr4NVVTNtKX.jpg", The Agency | S1.E3 - Hawk from a Handsaw -- 720P
-https://wrong-tarsier-elitecraftstudio-a7f7e1b0.koyeb.app/dl/675e5ea2af4686bc98f3b319
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/jDxWWQ4RadH3IHKJ9M20OtWnQe5.jpg", The Agency | S1.E4 - Quarterback Blitz -- 720P
-https://wrong-tarsier-elitecraftstudio-a7f7e1b0.koyeb.app/dl/675e5ea9af4686bc98f3b31d
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/y3nFQeSkeLrJvxzTmRokJ7Ou7ox.jpg", The Agency | S1.E5 - Rat Trap - 720P
-https://www.tgxdl3.workers.dev/1:/dl/1523?hash=AgAD3B
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/9GsBoCOnUYVLqsEEWF5QnKLGfgv.jpg", The Agency | S1.E6 - Spy for Sale - 720P
-https://dhruvmirrorpremium0-7e7c9edcf614.herokuapp.com/401653/The.Agency.2024.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-P.mkv?hash=AgADxW
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/AllZI7yc3B9pUxL1jM8yLrXuK9H.jpg", The Agency | S1.E7 - Hard Landing - 720P
-https://www.tgxdl1.workers.dev/1:/dl/2849?hash=AgADmA
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/6MYGWNp9fOAPkrVVutx1DazpOAJ.jpg", The Agency | S1.E8 - Truth Will Set You Free - 720P
-https://www.tgxdl1.workers.dev/1:/dl/3764?hash=AgADOQ
-#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/8H6iA76n8P5o5d46QHL6FpQIh9H.jpg", The Agency | S1.E9 - The Rubicon - 720P
-https://stream.movie2mingle.workers.dev/dl/678b6e5c0d82fa92875bd6e5
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191561/The.Agency.2024.S01E10.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgADQB
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/dtP8VGcSwlZp9x86cB3Y8iVmjJM.jpg", The Agency | S1.E1 - The Bends -- ALT
+https://cdn2-xtreme.mysterysd.in/dl/67e09f8624ed41fbf0fdbc6f
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/qhPqaFdHuZ6DLoQbrxAt1QQphdH.jpg", The Agency | S1.E2 - Wooden Duck -- ALT
+https://cdn3-xtreme.mysterysd.in/dl/67e09f8624ed41fbf0fdbc6c
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/uv3kWNuqaFG0rMoWBr4NVVTNtKX.jpg", The Agency | S1.E3 - Hawk from a Handsaw -- ALT
+https://cdn4-xtreme.mysterysd.in/dl/67e09f8624ed41fbf0fdbc6e
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/jDxWWQ4RadH3IHKJ9M20OtWnQe5.jpg", The Agency | S1.E4 - Quarterback Blitz -- ALT
+https://cdn4-xtreme.mysterysd.in/dl/67e09f8624ed41fbf0fdbc6d
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/y3nFQeSkeLrJvxzTmRokJ7Ou7ox.jpg", The Agency | S1.E5 - Rat Trap - ALT
+https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/546221/The.Agency.2024.S01E05.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgAD3R
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/9GsBoCOnUYVLqsEEWF5QnKLGfgv.jpg", The Agency | S1.E6 - Spy for Sale - ALT
+https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/546227/The.Agency.2024.S01E06.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgAD3W
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/AllZI7yc3B9pUxL1jM8yLrXuK9H.jpg", The Agency | S1.E7 - Hard Landing - ALT
+https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/546219/The.Agency.2024.S01E07.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgADiQ
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/6MYGWNp9fOAPkrVVutx1DazpOAJ.jpg", The Agency | S1.E8 - Truth Will Set You Free - ALT
+https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/546223/The.Agency.2024.S01E08.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgADOA
+#EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/8H6iA76n8P5o5d46QHL6FpQIh9H.jpg", The Agency | S1.E9 - The Rubicon - ALT
+https://cdn2-xtreme.mysterysd.in/dl/67e09f8624ed41fbf0fdbc70
 #EXTINF:-1 group-title="The Agency" tvg-logo="https://image.tmdb.org/t/p/w500/6vHF8JZMZBbi7QBzN10tRPhxINR.jpg", The Agency | S1.E10 - Overtaken by Events
-https://www.tgxdl4.workers.dev/1:/dl/6759?hash=AgADPB
+https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/546224/The.Agency.2024.S01E10.1080p.10bit.WEBRip.6CH.x265.HEVC-.mkv?hash=AgADQB
 #EXTINF:-1 group-title="The Brutalist" tvg-logo="https://image.tmdb.org/t/p/w500/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg", The Brutalist
 https://stream.movie2mingle.workers.dev/dl/67b4b0fde8bc70e55c3e1650
-#EXTINF:-1 group-title="The Brutalist" tvg-logo="https://image.tmdb.org/t/p/w500/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg", The Brutalist - 720P
-https://stream.movie2mingle.workers.dev/dl/67b4b0fde8bc70e55c3e164f
+#EXTINF:-1 group-title="The Brutalist" tvg-logo="https://image.tmdb.org/t/p/w500/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg", The Brutalist - ALT
+https://dhruvmirrorpremium1-f3456f9b457d.herokuapp.com/191441/The.Brutalist.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?hash=AgADQx
 #EXTINF:-1 group-title="The Conjuring 2" tvg-logo="https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg", The Conjuring 2
 https://dhruvmirrorpremium0-c59f20fefc34.herokuapp.com/533466/The.Conjuring.2.2016.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv?hash=AgADKh
 #EXTINF:-1 group-title="The Conjuring 2" tvg-logo="https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg", The Conjuring 2 - ALT
