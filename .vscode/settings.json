@@ -7,5 +7,6 @@
     "titleBar.inactiveForeground": "#d98b97"
   },
   "CodeGPT.apiKey": "Ollama",
-  "cSpell.words": ["EXTINF", "Grosse", "TMDB"]
+  "cSpell.words": ["EXTINF", "Grosse", "TMDB"],
+  "codium.codeCompletion.enable": true
 }
