@@ -8,5 +8,10 @@
   },
   "CodeGPT.apiKey": "Ollama",
   "cSpell.words": ["EXTINF", "Grosse", "TMDB"],
-  "codium.codeCompletion.enable": true
+  "codium.codeCompletion.enable": true,
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "file": ".commit-msg-instructions.md"
+    }
+  ]
 }
