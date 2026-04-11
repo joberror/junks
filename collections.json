@@ -1,0 +1,383 @@
+[
+  {
+    "id": "c2bb6f30-7b1b-4e45-b8ce-73474028a83c",
+    "title": "Platforms",
+    "backdropImageUrl": null,
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "b0fb1540-05e3-4703-a665-a0e18f91e951",
+        "title": "Netflix",
+        "coverImageUrl": "https://i.postimg.cc/ZRtvY63Z/Netflix.jpg",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/Netflix-1.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "netflix_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "netflix_series",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_88328",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86751",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "8dfbfa4c-56d5-4577-bc0c-b332f0e7b3fd",
+        "title": "Prime",
+        "coverImageUrl": "https://i.postimg.cc/LXKg4jfY/Prime-Video.jpg",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/prime-video.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "amazon_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "amazon_series",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86755",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86753",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "318012ea-c410-4bac-87fd-6d8398fccb71",
+        "title": "Apple TV",
+        "coverImageUrl": "https://i.postimg.cc/B69PZ2Dv/Apple-TV.webp",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/apple1.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_88317",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_88319",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "apple_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "apple_series",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "2d80a605-df60-4cfd-be69-469676b33270",
+        "title": "Peacock",
+        "coverImageUrl": "https://i.postimg.cc/85QfkLW7/Peacock.jpg",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/peacock-1.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "peacock_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "peacock_series",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "adf95bd7-3579-455b-9c5e-bc5353b6aff5",
+        "title": "Paramount",
+        "coverImageUrl": "https://i.postimg.cc/NMq2GRTg/Paramount.jpg",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/Paramount.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "paramount_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "paramount_series",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86762",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86761",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "c52107d8-4c92-4868-855a-b13a517dbf4c",
+        "title": "HBO Max",
+        "coverImageUrl": "https://i.postimg.cc/MT2fZ1Rz/HBO-Max.jpg",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/HBO-Max.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "hbo_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "hbo_series",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_89647",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_89649",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "8d19111c-2cc5-4e49-aefd-8f11c8563aef",
+        "title": "Hulu",
+        "coverImageUrl": "https://i.postimg.cc/W4MNR9x3/Hulu.jpg",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/image-asset.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "hulu_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "hulu_series",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_88326",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_88327",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "1796f91c-5aae-4368-beba-6216f0084ba4",
+        "title": "Disney",
+        "coverImageUrl": "https://i.postimg.cc/Y9KL2QgM/Disney.jpg",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/Disney-plus.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86759",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86758",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "disney_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "disney_series",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "175df398-b48d-4706-be28-c00cfc927d2a",
+        "title": "Crunchyroll",
+        "coverImageUrl": "https://i.postimg.cc/Y0PMVVjb/Crunchyroll-orange.webp",
+        "focusGifUrl": "https://ingeniousguru.com/wp-content/uploads/2022/10/creeky-roll.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "crunchyroll_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "crunchyroll_series",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  },
+  {
+    "id": "c1ad375c-998a-4517-932f-be41de5c5bcc",
+    "title": "Latest",
+    "backdropImageUrl": null,
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "20b69639-8453-4891-a825-306890b62aed",
+        "title": "Latest",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcKeOQuEZ_bb-UAK1HLMcynfNPY3WY0fuIg&s",
+        "focusGifUrl": "https://i.dawn.com/large/2026/01/10180042eee859e.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_2202",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_1176",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86934",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_960",
+            "type": "movie"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "8be6ed52-2233-4d7b-95c4-7fa738280ad6",
+        "title": "Trending",
+        "coverImageUrl": "https://img.freepik.com/free-photo/latest-news-subscribe-update_53876-120397.jpg?semt=ais_hybrid&w=740&q=80",
+        "focusGifUrl": "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzBpb2hnN3BwbXQ3ZWk1aWxoZmo4ODAxczNiMXR6MW5nZmJtdGtpZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TEFdTCTYmWXUE8oWj4/giphy.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "trending_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "trending_series",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "popular_movies",
+            "type": "movie"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "popular_series",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      },
+      {
+        "id": "c24ae920-be21-46ea-809d-7dd2f6e41e91",
+        "title": "Airing",
+        "coverImageUrl": "https://thumbs.dreamstime.com/b/neon-light-message-live-now-two-lines-framed-glowing-great-real-time-streaming-online-status-vector-illustration-424941562.jpg",
+        "focusGifUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/GTV_Google_TV_channels_Final.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "airing_series",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "mdb_86710",
+            "type": "series"
+          },
+          {
+            "addonId": "org.kris.ultramax.custom.932E1933",
+            "catalogId": "ontheair_series",
+            "type": "series"
+          }
+        ],
+        "_coverMode": "image"
+      }
+    ]
+  }
+]
